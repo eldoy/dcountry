@@ -1,6 +1,6 @@
 {
   "name": "dcountry",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "All country data in a single JSON file",
   "main": "index.js",
   "scripts": {
