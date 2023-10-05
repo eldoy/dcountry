@@ -8,7 +8,7 @@
     "status": "reserved",
     "iso2": "AC",
     "iso3": "",
-    "calls": [
+    "codes": [
       "+247"
     ],
     "flag": "",
@@ -30,7 +30,7 @@
     "status": "assigned",
     "iso2": "AD",
     "iso3": "AND",
-    "calls": [
+    "codes": [
       "+376"
     ],
     "flag": "🇦🇩",
@@ -54,7 +54,7 @@
     "status": "assigned",
     "iso2": "AE",
     "iso3": "ARE",
-    "calls": [
+    "codes": [
       "+971"
     ],
     "flag": "🇦🇪",
@@ -78,7 +78,7 @@
     "status": "assigned",
     "iso2": "AF",
     "iso3": "AFG",
-    "calls": [
+    "codes": [
       "+93"
     ],
     "flag": "🇦🇫",
@@ -102,7 +102,7 @@
     "status": "assigned",
     "iso2": "AG",
     "iso3": "ATG",
-    "calls": [
+    "codes": [
       "+1 268"
     ],
     "flag": "🇦🇬",
@@ -126,7 +126,7 @@
     "status": "assigned",
     "iso2": "AI",
     "iso3": "AIA",
-    "calls": [
+    "codes": [
       "+1 264"
     ],
     "flag": "🇦🇮",
@@ -148,7 +148,7 @@
     "status": "deleted",
     "iso2": "AI",
     "iso3": "AFI",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -160,7 +160,7 @@
     "status": "assigned",
     "iso2": "AL",
     "iso3": "ALB",
-    "calls": [
+    "codes": [
       "+355"
     ],
     "flag": "🇦🇱",
@@ -184,7 +184,7 @@
     "status": "assigned",
     "iso2": "AM",
     "iso3": "ARM",
-    "calls": [
+    "codes": [
       "+374"
     ],
     "flag": "🇦🇲",
@@ -212,7 +212,7 @@
     "status": "deleted",
     "iso2": "AN",
     "iso3": "ANT",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -224,7 +224,7 @@
     "status": "assigned",
     "iso2": "AO",
     "iso3": "AGO",
-    "calls": [
+    "codes": [
       "+244"
     ],
     "flag": "🇦🇴",
@@ -246,7 +246,7 @@
     "status": "assigned",
     "iso2": "AQ",
     "iso3": "ATA",
-    "calls": [
+    "codes": [
       "+672"
     ],
     "flag": "🇦🇶",
@@ -263,7 +263,7 @@
     "status": "assigned",
     "iso2": "AR",
     "iso3": "ARG",
-    "calls": [
+    "codes": [
       "+54"
     ],
     "flag": "🇦🇷",
@@ -287,7 +287,7 @@
     "status": "assigned",
     "iso2": "AS",
     "iso3": "ASM",
-    "calls": [
+    "codes": [
       "+1 684"
     ],
     "flag": "🇦🇸",
@@ -317,7 +317,7 @@
     "status": "assigned",
     "iso2": "AT",
     "iso3": "AUT",
-    "calls": [
+    "codes": [
       "+43"
     ],
     "flag": "🇦🇹",
@@ -341,7 +341,7 @@
     "status": "assigned",
     "iso2": "AU",
     "iso3": "AUS",
-    "calls": [
+    "codes": [
       "+61"
     ],
     "flag": "🇦🇺",
@@ -365,7 +365,7 @@
     "status": "assigned",
     "iso2": "AW",
     "iso3": "ABW",
-    "calls": [
+    "codes": [
       "+297"
     ],
     "flag": "🇦🇼",
@@ -389,7 +389,7 @@
     "status": "assigned",
     "iso2": "AX",
     "iso3": "ALA",
-    "calls": [
+    "codes": [
       "+358"
     ],
     "flag": "🇦🇽",
@@ -413,7 +413,7 @@
     "status": "assigned",
     "iso2": "AZ",
     "iso3": "AZE",
-    "calls": [
+    "codes": [
       "+994"
     ],
     "flag": "🇦🇿",
@@ -437,7 +437,7 @@
     "status": "assigned",
     "iso2": "BA",
     "iso3": "BIH",
-    "calls": [
+    "codes": [
       "+387"
     ],
     "flag": "🇧🇦",
@@ -473,7 +473,7 @@
     "status": "assigned",
     "iso2": "BB",
     "iso3": "BRB",
-    "calls": [
+    "codes": [
       "+1 246"
     ],
     "flag": "🇧🇧",
@@ -497,7 +497,7 @@
     "status": "assigned",
     "iso2": "BD",
     "iso3": "BGD",
-    "calls": [
+    "codes": [
       "+880"
     ],
     "flag": "🇧🇩",
@@ -521,7 +521,7 @@
     "status": "assigned",
     "iso2": "BE",
     "iso3": "BEL",
-    "calls": [
+    "codes": [
       "+32"
     ],
     "flag": "🇧🇪",
@@ -557,7 +557,7 @@
     "status": "assigned",
     "iso2": "BF",
     "iso3": "BFA",
-    "calls": [
+    "codes": [
       "+226"
     ],
     "flag": "🇧🇫",
@@ -581,7 +581,7 @@
     "status": "assigned",
     "iso2": "BG",
     "iso3": "BGR",
-    "calls": [
+    "codes": [
       "+359"
     ],
     "flag": "🇧🇬",
@@ -605,7 +605,7 @@
     "status": "assigned",
     "iso2": "BH",
     "iso3": "BHR",
-    "calls": [
+    "codes": [
       "+973"
     ],
     "flag": "🇧🇭",
@@ -629,7 +629,7 @@
     "status": "assigned",
     "iso2": "BI",
     "iso3": "BDI",
-    "calls": [
+    "codes": [
       "+257"
     ],
     "flag": "🇧🇮",
@@ -653,7 +653,7 @@
     "status": "assigned",
     "iso2": "BJ",
     "iso3": "BEN",
-    "calls": [
+    "codes": [
       "+229"
     ],
     "flag": "🇧🇯",
@@ -677,7 +677,7 @@
     "status": "assigned",
     "iso2": "BL",
     "iso3": "BLM",
-    "calls": [
+    "codes": [
       "+590"
     ],
     "flag": "🇧🇱",
@@ -701,7 +701,7 @@
     "status": "assigned",
     "iso2": "BM",
     "iso3": "BMU",
-    "calls": [
+    "codes": [
       "+1 441"
     ],
     "flag": "🇧🇲",
@@ -725,7 +725,7 @@
     "status": "assigned",
     "iso2": "BN",
     "iso3": "BRN",
-    "calls": [
+    "codes": [
       "+673"
     ],
     "flag": "🇧🇳",
@@ -756,7 +756,7 @@
     "status": "assigned",
     "iso2": "BO",
     "iso3": "BOL",
-    "calls": [
+    "codes": [
       "+591"
     ],
     "flag": "🇧🇴",
@@ -792,7 +792,7 @@
     "status": "assigned",
     "iso2": "BQ",
     "iso3": "BES",
-    "calls": [
+    "codes": [
       "+599"
     ],
     "flag": "🇧🇶",
@@ -814,7 +814,7 @@
     "status": "deleted",
     "iso2": "BQ",
     "iso3": "ATB",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -826,7 +826,7 @@
     "status": "assigned",
     "iso2": "BR",
     "iso3": "BRA",
-    "calls": [
+    "codes": [
       "+55"
     ],
     "flag": "🇧🇷",
@@ -850,7 +850,7 @@
     "status": "assigned",
     "iso2": "BS",
     "iso3": "BHS",
-    "calls": [
+    "codes": [
       "+1 242"
     ],
     "flag": "🇧🇸",
@@ -875,7 +875,7 @@
     "status": "assigned",
     "iso2": "BT",
     "iso3": "BTN",
-    "calls": [
+    "codes": [
       "+975"
     ],
     "flag": "🇧🇹",
@@ -897,7 +897,7 @@
     "status": "deleted",
     "iso2": "BU",
     "iso3": "BUR",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -909,7 +909,7 @@
     "status": "assigned",
     "iso2": "BV",
     "iso3": "BVT",
-    "calls": [],
+    "codes": [],
     "flag": "🇧🇻",
     "lang": [],
     "continent": "Antartica",
@@ -924,7 +924,7 @@
     "status": "assigned",
     "iso2": "BW",
     "iso3": "BWA",
-    "calls": [
+    "codes": [
       "+267"
     ],
     "flag": "🇧🇼",
@@ -954,7 +954,7 @@
     "status": "assigned",
     "iso2": "BY",
     "iso3": "BLR",
-    "calls": [
+    "codes": [
       "+375"
     ],
     "flag": "🇧🇾",
@@ -982,7 +982,7 @@
     "status": "deleted",
     "iso2": "BY",
     "iso3": "BYS",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -994,7 +994,7 @@
     "status": "assigned",
     "iso2": "BZ",
     "iso3": "BLZ",
-    "calls": [
+    "codes": [
       "+501"
     ],
     "flag": "🇧🇿",
@@ -1018,7 +1018,7 @@
     "status": "assigned",
     "iso2": "CA",
     "iso3": "CAN",
-    "calls": [
+    "codes": [
       "+1"
     ],
     "flag": "🇨🇦",
@@ -1048,7 +1048,7 @@
     "status": "assigned",
     "iso2": "CC",
     "iso3": "CCK",
-    "calls": [
+    "codes": [
       "+61"
     ],
     "flag": "🇨🇨",
@@ -1072,7 +1072,7 @@
     "status": "assigned",
     "iso2": "CD",
     "iso3": "COD",
-    "calls": [
+    "codes": [
       "+243"
     ],
     "flag": "🇨🇩",
@@ -1114,7 +1114,7 @@
     "status": "assigned",
     "iso2": "CF",
     "iso3": "CAF",
-    "calls": [
+    "codes": [
       "+236"
     ],
     "flag": "🇨🇫",
@@ -1144,7 +1144,7 @@
     "status": "assigned",
     "iso2": "CG",
     "iso3": "COG",
-    "calls": [
+    "codes": [
       "+242"
     ],
     "flag": "🇨🇬",
@@ -1176,7 +1176,7 @@
     "status": "assigned",
     "iso2": "CH",
     "iso3": "CHE",
-    "calls": [
+    "codes": [
       "+41"
     ],
     "flag": "🇨🇭",
@@ -1218,7 +1218,7 @@
     "status": "assigned",
     "iso2": "CI",
     "iso3": "CIV",
-    "calls": [
+    "codes": [
       "+225"
     ],
     "flag": "🇨🇮",
@@ -1242,7 +1242,7 @@
     "status": "assigned",
     "iso2": "CK",
     "iso3": "COK",
-    "calls": [
+    "codes": [
       "+682"
     ],
     "flag": "🇨🇰",
@@ -1273,7 +1273,7 @@
     "status": "assigned",
     "iso2": "CL",
     "iso3": "CHL",
-    "calls": [
+    "codes": [
       "+56"
     ],
     "flag": "🇨🇱",
@@ -1297,7 +1297,7 @@
     "status": "assigned",
     "iso2": "CM",
     "iso3": "CMR",
-    "calls": [
+    "codes": [
       "+237"
     ],
     "flag": "🇨🇲",
@@ -1327,7 +1327,7 @@
     "status": "assigned",
     "iso2": "CN",
     "iso3": "CHN",
-    "calls": [
+    "codes": [
       "+86"
     ],
     "flag": "🇨🇳",
@@ -1352,7 +1352,7 @@
     "status": "assigned",
     "iso2": "CO",
     "iso3": "COL",
-    "calls": [
+    "codes": [
       "+57"
     ],
     "flag": "🇨🇴",
@@ -1376,7 +1376,7 @@
     "status": "reserved",
     "iso2": "CP",
     "iso3": "",
-    "calls": [],
+    "codes": [],
     "flag": "",
     "lang": []
   },
@@ -1389,7 +1389,7 @@
     "status": "assigned",
     "iso2": "CR",
     "iso3": "CRI",
-    "calls": [
+    "codes": [
       "+506"
     ],
     "flag": "🇨🇷",
@@ -1411,7 +1411,7 @@
     "status": "deleted",
     "iso2": "CS",
     "iso3": "CSK",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -1421,7 +1421,7 @@
     "status": "deleted",
     "iso2": "CS",
     "iso3": "SCG",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -1431,7 +1431,7 @@
     "status": "deleted",
     "iso2": "CT",
     "iso3": "CTE",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -1444,7 +1444,7 @@
     "status": "assigned",
     "iso2": "CU",
     "iso3": "CUB",
-    "calls": [
+    "codes": [
       "+53"
     ],
     "flag": "🇨🇺",
@@ -1468,7 +1468,7 @@
     "status": "assigned",
     "iso2": "CV",
     "iso3": "CPV",
-    "calls": [
+    "codes": [
       "+238"
     ],
     "flag": "🇨🇻",
@@ -1492,7 +1492,7 @@
     "status": "assigned",
     "iso2": "CW",
     "iso3": "CUW",
-    "calls": [
+    "codes": [
       "+599"
     ],
     "flag": "🇨🇼",
@@ -1516,7 +1516,7 @@
     "status": "assigned",
     "iso2": "CX",
     "iso3": "CXR",
-    "calls": [
+    "codes": [
       "+61"
     ],
     "flag": "🇨🇽",
@@ -1540,7 +1540,7 @@
     "status": "assigned",
     "iso2": "CY",
     "iso3": "CYP",
-    "calls": [
+    "codes": [
       "+357"
     ],
     "flag": "🇨🇾",
@@ -1570,7 +1570,7 @@
     "status": "assigned",
     "iso2": "CZ",
     "iso3": "CZE",
-    "calls": [
+    "codes": [
       "+420"
     ],
     "flag": "🇨🇿",
@@ -1592,7 +1592,7 @@
     "status": "deleted",
     "iso2": "DD",
     "iso3": "DDR",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -1604,7 +1604,7 @@
     "status": "assigned",
     "iso2": "DE",
     "iso3": "DEU",
-    "calls": [
+    "codes": [
       "+49"
     ],
     "flag": "🇩🇪",
@@ -1628,7 +1628,7 @@
     "status": "reserved",
     "iso2": "DG",
     "iso3": "",
-    "calls": [],
+    "codes": [],
     "flag": "",
     "lang": []
   },
@@ -1641,7 +1641,7 @@
     "status": "assigned",
     "iso2": "DJ",
     "iso3": "DJI",
-    "calls": [
+    "codes": [
       "+253"
     ],
     "flag": "🇩🇯",
@@ -1671,7 +1671,7 @@
     "status": "assigned",
     "iso2": "DK",
     "iso3": "DNK",
-    "calls": [
+    "codes": [
       "+45"
     ],
     "flag": "🇩🇰",
@@ -1695,7 +1695,7 @@
     "status": "assigned",
     "iso2": "DM",
     "iso3": "DMA",
-    "calls": [
+    "codes": [
       "+1 767"
     ],
     "flag": "🇩🇲",
@@ -1719,7 +1719,7 @@
     "status": "assigned",
     "iso2": "DO",
     "iso3": "DOM",
-    "calls": [
+    "codes": [
       "+1 809",
       "+1 829",
       "+1 849"
@@ -1743,7 +1743,7 @@
     "status": "deleted",
     "iso2": "DY",
     "iso3": "DHY",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -1755,7 +1755,7 @@
     "status": "assigned",
     "iso2": "DZ",
     "iso3": "DZA",
-    "calls": [
+    "codes": [
       "+213"
     ],
     "flag": "🇩🇿",
@@ -1779,7 +1779,7 @@
     "status": "reserved",
     "iso2": "EA",
     "iso3": "",
-    "calls": [],
+    "codes": [],
     "flag": "",
     "lang": []
   },
@@ -1792,7 +1792,7 @@
     "status": "assigned",
     "iso2": "EC",
     "iso3": "ECU",
-    "calls": [
+    "codes": [
       "+593"
     ],
     "flag": "🇪🇨",
@@ -1822,7 +1822,7 @@
     "status": "assigned",
     "iso2": "EE",
     "iso3": "EST",
-    "calls": [
+    "codes": [
       "+372"
     ],
     "flag": "🇪🇪",
@@ -1846,7 +1846,7 @@
     "status": "assigned",
     "iso2": "EG",
     "iso3": "EGY",
-    "calls": [
+    "codes": [
       "+20"
     ],
     "flag": "🇪🇬",
@@ -1870,7 +1870,7 @@
     "status": "assigned",
     "iso2": "EH",
     "iso3": "ESH",
-    "calls": [
+    "codes": [
       "+212"
     ],
     "flag": "🇪🇭",
@@ -1887,7 +1887,7 @@
     "status": "assigned",
     "iso2": "ER",
     "iso3": "ERI",
-    "calls": [
+    "codes": [
       "+291"
     ],
     "flag": "🇪🇷",
@@ -1923,7 +1923,7 @@
     "status": "assigned",
     "iso2": "ES",
     "iso3": "ESP",
-    "calls": [
+    "codes": [
       "+34"
     ],
     "flag": "🇪🇸",
@@ -1965,7 +1965,7 @@
     "status": "assigned",
     "iso2": "ET",
     "iso3": "ETH",
-    "calls": [
+    "codes": [
       "+251"
     ],
     "flag": "🇪🇹",
@@ -1989,7 +1989,7 @@
     "status": "reserved",
     "iso2": "EU",
     "iso3": "",
-    "calls": [
+    "codes": [
       "+388"
     ],
     "flag": "🇪🇺",
@@ -2004,7 +2004,7 @@
     "status": "assigned",
     "iso2": "FI",
     "iso3": "FIN",
-    "calls": [
+    "codes": [
       "+358"
     ],
     "flag": "🇫🇮",
@@ -2034,7 +2034,7 @@
     "status": "assigned",
     "iso2": "FJ",
     "iso3": "FJI",
-    "calls": [
+    "codes": [
       "+679"
     ],
     "flag": "🇫🇯",
@@ -2064,7 +2064,7 @@
     "status": "assigned",
     "iso2": "FK",
     "iso3": "FLK",
-    "calls": [
+    "codes": [
       "+500"
     ],
     "flag": "🇫🇰",
@@ -2088,7 +2088,7 @@
     "status": "assigned",
     "iso2": "FM",
     "iso3": "FSM",
-    "calls": [
+    "codes": [
       "+691"
     ],
     "flag": "🇫🇲",
@@ -2112,7 +2112,7 @@
     "status": "assigned",
     "iso2": "FO",
     "iso3": "FRO",
-    "calls": [
+    "codes": [
       "+298"
     ],
     "flag": "🇫🇴",
@@ -2140,7 +2140,7 @@
     "status": "deleted",
     "iso2": "FQ",
     "iso3": "ATF",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -2152,7 +2152,7 @@
     "status": "assigned",
     "iso2": "FR",
     "iso3": "FRA",
-    "calls": [
+    "codes": [
       "+33"
     ],
     "flag": "🇫🇷",
@@ -2176,7 +2176,7 @@
     "status": "reserved",
     "iso2": "FX",
     "iso3": "",
-    "calls": [
+    "codes": [
       "+241"
     ],
     "flag": "",
@@ -2198,7 +2198,7 @@
     "status": "assigned",
     "iso2": "GA",
     "iso3": "GAB",
-    "calls": [
+    "codes": [
       "+241"
     ],
     "flag": "🇬🇦",
@@ -2222,7 +2222,7 @@
     "status": "assigned",
     "iso2": "GB",
     "iso3": "GBR",
-    "calls": [
+    "codes": [
       "+44"
     ],
     "flag": "🇬🇧",
@@ -2270,7 +2270,7 @@
     "status": "assigned",
     "iso2": "GD",
     "iso3": "GRD",
-    "calls": [
+    "codes": [
       "+473"
     ],
     "flag": "🇬🇩",
@@ -2294,7 +2294,7 @@
     "status": "assigned",
     "iso2": "GE",
     "iso3": "GEO",
-    "calls": [
+    "codes": [
       "+995"
     ],
     "flag": "🇬🇪",
@@ -2316,7 +2316,7 @@
     "status": "deleted",
     "iso2": "GE",
     "iso3": "GEL",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -2328,7 +2328,7 @@
     "status": "assigned",
     "iso2": "GF",
     "iso3": "GUF",
-    "calls": [
+    "codes": [
       "+594"
     ],
     "flag": "🇬🇫",
@@ -2352,7 +2352,7 @@
     "status": "assigned",
     "iso2": "GG",
     "iso3": "GGY",
-    "calls": [
+    "codes": [
       "+44"
     ],
     "flag": "🇬🇬",
@@ -2376,7 +2376,7 @@
     "status": "assigned",
     "iso2": "GH",
     "iso3": "GHA",
-    "calls": [
+    "codes": [
       "+233"
     ],
     "flag": "🇬🇭",
@@ -2400,7 +2400,7 @@
     "status": "assigned",
     "iso2": "GI",
     "iso3": "GIB",
-    "calls": [
+    "codes": [
       "+350"
     ],
     "flag": "🇬🇮",
@@ -2424,7 +2424,7 @@
     "status": "assigned",
     "iso2": "GL",
     "iso3": "GRL",
-    "calls": [
+    "codes": [
       "+299"
     ],
     "flag": "🇬🇱",
@@ -2448,7 +2448,7 @@
     "status": "assigned",
     "iso2": "GM",
     "iso3": "GMB",
-    "calls": [
+    "codes": [
       "+220"
     ],
     "flag": "🇬🇲",
@@ -2472,7 +2472,7 @@
     "status": "assigned",
     "iso2": "GN",
     "iso3": "GIN",
-    "calls": [
+    "codes": [
       "+224"
     ],
     "flag": "🇬🇳",
@@ -2496,7 +2496,7 @@
     "status": "assigned",
     "iso2": "GP",
     "iso3": "GLP",
-    "calls": [
+    "codes": [
       "+590"
     ],
     "flag": "🇬🇵",
@@ -2520,7 +2520,7 @@
     "status": "assigned",
     "iso2": "GQ",
     "iso3": "GNQ",
-    "calls": [
+    "codes": [
       "+240"
     ],
     "flag": "🇬🇶",
@@ -2556,7 +2556,7 @@
     "status": "assigned",
     "iso2": "GR",
     "iso3": "GRC",
-    "calls": [
+    "codes": [
       "+30"
     ],
     "flag": "🇬🇷",
@@ -2580,7 +2580,7 @@
     "status": "assigned",
     "iso2": "GS",
     "iso3": "SGS",
-    "calls": [
+    "codes": [
       "+500"
     ],
     "flag": "🇬🇸",
@@ -2604,7 +2604,7 @@
     "status": "assigned",
     "iso2": "GT",
     "iso3": "GTM",
-    "calls": [
+    "codes": [
       "+502"
     ],
     "flag": "🇬🇹",
@@ -2628,7 +2628,7 @@
     "status": "assigned",
     "iso2": "GU",
     "iso3": "GUM",
-    "calls": [
+    "codes": [
       "+1 671"
     ],
     "flag": "🇬🇺",
@@ -2652,7 +2652,7 @@
     "status": "assigned",
     "iso2": "GW",
     "iso3": "GNB",
-    "calls": [
+    "codes": [
       "+245"
     ],
     "flag": "🇬🇼",
@@ -2676,7 +2676,7 @@
     "status": "assigned",
     "iso2": "GY",
     "iso3": "GUY",
-    "calls": [
+    "codes": [
       "+592"
     ],
     "flag": "🇬🇾",
@@ -2700,7 +2700,7 @@
     "status": "assigned",
     "iso2": "HK",
     "iso3": "HKG",
-    "calls": [
+    "codes": [
       "+852"
     ],
     "flag": "🇭🇰",
@@ -2730,7 +2730,7 @@
     "status": "assigned",
     "iso2": "HM",
     "iso3": "HMD",
-    "calls": [],
+    "codes": [],
     "flag": "🇭🇲",
     "lang": [],
     "continent": "Antartica",
@@ -2745,7 +2745,7 @@
     "status": "assigned",
     "iso2": "HN",
     "iso3": "HND",
-    "calls": [
+    "codes": [
       "+504"
     ],
     "flag": "🇭🇳",
@@ -2769,7 +2769,7 @@
     "status": "assigned",
     "iso2": "HR",
     "iso3": "HRV",
-    "calls": [
+    "codes": [
       "+385"
     ],
     "flag": "🇭🇷",
@@ -2794,7 +2794,7 @@
     "status": "assigned",
     "iso2": "HT",
     "iso3": "HTI",
-    "calls": [
+    "codes": [
       "+509"
     ],
     "flag": "🇭🇹",
@@ -2824,7 +2824,7 @@
     "status": "assigned",
     "iso2": "HU",
     "iso3": "HUN",
-    "calls": [
+    "codes": [
       "+36"
     ],
     "flag": "🇭🇺",
@@ -2846,7 +2846,7 @@
     "status": "deleted",
     "iso2": "HV",
     "iso3": "HVO",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -2858,7 +2858,7 @@
     "status": "reserved",
     "iso2": "IC",
     "iso3": "",
-    "calls": [],
+    "codes": [],
     "flag": "",
     "lang": []
   },
@@ -2871,7 +2871,7 @@
     "status": "assigned",
     "iso2": "ID",
     "iso3": "IDN",
-    "calls": [
+    "codes": [
       "+62"
     ],
     "flag": "🇮🇩",
@@ -2895,7 +2895,7 @@
     "status": "assigned",
     "iso2": "IE",
     "iso3": "IRL",
-    "calls": [
+    "codes": [
       "+353"
     ],
     "flag": "🇮🇪",
@@ -2925,7 +2925,7 @@
     "status": "assigned",
     "iso2": "IL",
     "iso3": "ISR",
-    "calls": [
+    "codes": [
       "+972"
     ],
     "flag": "🇮🇱",
@@ -2961,7 +2961,7 @@
     "status": "assigned",
     "iso2": "IM",
     "iso3": "IMN",
-    "calls": [
+    "codes": [
       "+44"
     ],
     "flag": "🇮🇲",
@@ -2991,7 +2991,7 @@
     "status": "assigned",
     "iso2": "IN",
     "iso3": "IND",
-    "calls": [
+    "codes": [
       "+91"
     ],
     "flag": "🇮🇳",
@@ -3021,7 +3021,7 @@
     "status": "assigned",
     "iso2": "IO",
     "iso3": "IOT",
-    "calls": [
+    "codes": [
       "+246"
     ],
     "flag": "🇮🇴",
@@ -3045,7 +3045,7 @@
     "status": "assigned",
     "iso2": "IQ",
     "iso3": "IRQ",
-    "calls": [
+    "codes": [
       "+964"
     ],
     "flag": "🇮🇶",
@@ -3075,7 +3075,7 @@
     "status": "assigned",
     "iso2": "IR",
     "iso3": "IRN",
-    "calls": [
+    "codes": [
       "+98"
     ],
     "flag": "🇮🇷",
@@ -3099,7 +3099,7 @@
     "status": "assigned",
     "iso2": "IS",
     "iso3": "ISL",
-    "calls": [
+    "codes": [
       "+354"
     ],
     "flag": "🇮🇸",
@@ -3123,7 +3123,7 @@
     "status": "assigned",
     "iso2": "IT",
     "iso3": "ITA",
-    "calls": [
+    "codes": [
       "+39"
     ],
     "flag": "🇮🇹",
@@ -3147,7 +3147,7 @@
     "status": "assigned",
     "iso2": "JE",
     "iso3": "JEY",
-    "calls": [
+    "codes": [
       "+44"
     ],
     "flag": "🇯🇪",
@@ -3177,7 +3177,7 @@
     "status": "assigned",
     "iso2": "JM",
     "iso3": "JAM",
-    "calls": [
+    "codes": [
       "+1 876"
     ],
     "flag": "🇯🇲",
@@ -3201,7 +3201,7 @@
     "status": "assigned",
     "iso2": "JO",
     "iso3": "JOR",
-    "calls": [
+    "codes": [
       "+962"
     ],
     "flag": "🇯🇴",
@@ -3225,7 +3225,7 @@
     "status": "assigned",
     "iso2": "JP",
     "iso3": "JPN",
-    "calls": [
+    "codes": [
       "+81"
     ],
     "flag": "🇯🇵",
@@ -3247,7 +3247,7 @@
     "status": "deleted",
     "iso2": "JT",
     "iso3": "JTN",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -3259,7 +3259,7 @@
     "status": "assigned",
     "iso2": "KE",
     "iso3": "KEN",
-    "calls": [
+    "codes": [
       "+254"
     ],
     "flag": "🇰🇪",
@@ -3289,7 +3289,7 @@
     "status": "assigned",
     "iso2": "KG",
     "iso3": "KGZ",
-    "calls": [
+    "codes": [
       "+996"
     ],
     "flag": "🇰🇬",
@@ -3313,7 +3313,7 @@
     "status": "assigned",
     "iso2": "KH",
     "iso3": "KHM",
-    "calls": [
+    "codes": [
       "+855"
     ],
     "flag": "🇰🇭",
@@ -3337,7 +3337,7 @@
     "status": "assigned",
     "iso2": "KI",
     "iso3": "KIR",
-    "calls": [
+    "codes": [
       "+686"
     ],
     "flag": "🇰🇮",
@@ -3361,7 +3361,7 @@
     "status": "assigned",
     "iso2": "KM",
     "iso3": "COM",
-    "calls": [
+    "codes": [
       "+269"
     ],
     "flag": "🇰🇲",
@@ -3391,7 +3391,7 @@
     "status": "assigned",
     "iso2": "KN",
     "iso3": "KNA",
-    "calls": [
+    "codes": [
       "+1 869"
     ],
     "flag": "🇰🇳",
@@ -3415,7 +3415,7 @@
     "status": "assigned",
     "iso2": "KP",
     "iso3": "PRK",
-    "calls": [
+    "codes": [
       "+850"
     ],
     "flag": "🇰🇵",
@@ -3439,7 +3439,7 @@
     "status": "assigned",
     "iso2": "KR",
     "iso3": "KOR",
-    "calls": [
+    "codes": [
       "+82"
     ],
     "flag": "🇰🇷",
@@ -3463,7 +3463,7 @@
     "status": "assigned",
     "iso2": "KW",
     "iso3": "KWT",
-    "calls": [
+    "codes": [
       "+965"
     ],
     "flag": "🇰🇼",
@@ -3487,7 +3487,7 @@
     "status": "assigned",
     "iso2": "KY",
     "iso3": "CYM",
-    "calls": [
+    "codes": [
       "+1 345"
     ],
     "flag": "🇰🇾",
@@ -3511,7 +3511,7 @@
     "status": "assigned",
     "iso2": "KZ",
     "iso3": "KAZ",
-    "calls": [
+    "codes": [
       "+7",
       "+7 6",
       "+7 7"
@@ -3543,7 +3543,7 @@
     "status": "assigned",
     "iso2": "LA",
     "iso3": "LAO",
-    "calls": [
+    "codes": [
       "+856"
     ],
     "flag": "🇱🇦",
@@ -3567,7 +3567,7 @@
     "status": "assigned",
     "iso2": "LB",
     "iso3": "LBN",
-    "calls": [
+    "codes": [
       "+961"
     ],
     "flag": "🇱🇧",
@@ -3597,7 +3597,7 @@
     "status": "assigned",
     "iso2": "LC",
     "iso3": "LCA",
-    "calls": [
+    "codes": [
       "+1 758"
     ],
     "flag": "🇱🇨",
@@ -3621,7 +3621,7 @@
     "status": "assigned",
     "iso2": "LI",
     "iso3": "LIE",
-    "calls": [
+    "codes": [
       "+423"
     ],
     "flag": "🇱🇮",
@@ -3645,7 +3645,7 @@
     "status": "assigned",
     "iso2": "LK",
     "iso3": "LKA",
-    "calls": [
+    "codes": [
       "+94"
     ],
     "flag": "🇱🇰",
@@ -3675,7 +3675,7 @@
     "status": "assigned",
     "iso2": "LR",
     "iso3": "LBR",
-    "calls": [
+    "codes": [
       "+231"
     ],
     "flag": "🇱🇷",
@@ -3700,7 +3700,7 @@
     "status": "assigned",
     "iso2": "LS",
     "iso3": "LSO",
-    "calls": [
+    "codes": [
       "+266"
     ],
     "flag": "🇱🇸",
@@ -3730,7 +3730,7 @@
     "status": "assigned",
     "iso2": "LT",
     "iso3": "LTU",
-    "calls": [
+    "codes": [
       "+370"
     ],
     "flag": "🇱🇹",
@@ -3754,7 +3754,7 @@
     "status": "assigned",
     "iso2": "LU",
     "iso3": "LUX",
-    "calls": [
+    "codes": [
       "+352"
     ],
     "flag": "🇱🇺",
@@ -3790,7 +3790,7 @@
     "status": "assigned",
     "iso2": "LV",
     "iso3": "LVA",
-    "calls": [
+    "codes": [
       "+371"
     ],
     "flag": "🇱🇻",
@@ -3814,7 +3814,7 @@
     "status": "assigned",
     "iso2": "LY",
     "iso3": "LBY",
-    "calls": [
+    "codes": [
       "+218"
     ],
     "flag": "🇱🇾",
@@ -3838,7 +3838,7 @@
     "status": "assigned",
     "iso2": "MA",
     "iso3": "MAR",
-    "calls": [
+    "codes": [
       "+212"
     ],
     "flag": "🇲🇦",
@@ -3862,7 +3862,7 @@
     "status": "assigned",
     "iso2": "MC",
     "iso3": "MCO",
-    "calls": [
+    "codes": [
       "+377"
     ],
     "flag": "🇲🇨",
@@ -3886,7 +3886,7 @@
     "status": "assigned",
     "iso2": "MD",
     "iso3": "MDA",
-    "calls": [
+    "codes": [
       "+373"
     ],
     "flag": "🇲🇩",
@@ -3910,7 +3910,7 @@
     "status": "assigned",
     "iso2": "ME",
     "iso3": "MNE",
-    "calls": [
+    "codes": [
       "+382"
     ],
     "flag": "🇲🇪",
@@ -3934,7 +3934,7 @@
     "status": "assigned",
     "iso2": "MF",
     "iso3": "MAF",
-    "calls": [
+    "codes": [
       "+590"
     ],
     "flag": "🇲🇫",
@@ -3958,7 +3958,7 @@
     "status": "assigned",
     "iso2": "MG",
     "iso3": "MDG",
-    "calls": [
+    "codes": [
       "+261"
     ],
     "flag": "🇲🇬",
@@ -3988,7 +3988,7 @@
     "status": "assigned",
     "iso2": "MH",
     "iso3": "MHL",
-    "calls": [
+    "codes": [
       "+692"
     ],
     "flag": "🇲🇭",
@@ -4016,7 +4016,7 @@
     "status": "deleted",
     "iso2": "MI",
     "iso3": "MID",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -4028,7 +4028,7 @@
     "status": "assigned",
     "iso2": "MK",
     "iso3": "MKD",
-    "calls": [
+    "codes": [
       "+389"
     ],
     "flag": "🇲🇰",
@@ -4052,7 +4052,7 @@
     "status": "assigned",
     "iso2": "ML",
     "iso3": "MLI",
-    "calls": [
+    "codes": [
       "+223"
     ],
     "flag": "🇲🇱",
@@ -4076,7 +4076,7 @@
     "status": "assigned",
     "iso2": "MM",
     "iso3": "MMR",
-    "calls": [
+    "codes": [
       "+95"
     ],
     "flag": "🇲🇲",
@@ -4100,7 +4100,7 @@
     "status": "assigned",
     "iso2": "MN",
     "iso3": "MNG",
-    "calls": [
+    "codes": [
       "+976"
     ],
     "flag": "🇲🇳",
@@ -4124,7 +4124,7 @@
     "status": "assigned",
     "iso2": "MO",
     "iso3": "MAC",
-    "calls": [
+    "codes": [
       "+853"
     ],
     "flag": "🇲🇴",
@@ -4154,7 +4154,7 @@
     "status": "assigned",
     "iso2": "MP",
     "iso3": "MNP",
-    "calls": [
+    "codes": [
       "+1 670"
     ],
     "flag": "🇲🇵",
@@ -4178,7 +4178,7 @@
     "status": "assigned",
     "iso2": "MQ",
     "iso3": "MTQ",
-    "calls": [
+    "codes": [
       "+596"
     ],
     "flag": "🇲🇶",
@@ -4195,7 +4195,7 @@
     "status": "assigned",
     "iso2": "MR",
     "iso3": "MRT",
-    "calls": [
+    "codes": [
       "+222"
     ],
     "flag": "🇲🇷",
@@ -4225,7 +4225,7 @@
     "status": "assigned",
     "iso2": "MS",
     "iso3": "MSR",
-    "calls": [
+    "codes": [
       "+1 664"
     ],
     "flag": "🇲🇸",
@@ -4242,7 +4242,7 @@
     "status": "assigned",
     "iso2": "MT",
     "iso3": "MLT",
-    "calls": [
+    "codes": [
       "+356"
     ],
     "flag": "🇲🇹",
@@ -4272,7 +4272,7 @@
     "status": "assigned",
     "iso2": "MU",
     "iso3": "MUS",
-    "calls": [
+    "codes": [
       "+230"
     ],
     "flag": "🇲🇺",
@@ -4302,7 +4302,7 @@
     "status": "assigned",
     "iso2": "MV",
     "iso3": "MDV",
-    "calls": [
+    "codes": [
       "+960"
     ],
     "flag": "🇲🇻",
@@ -4326,7 +4326,7 @@
     "status": "assigned",
     "iso2": "MW",
     "iso3": "MWI",
-    "calls": [
+    "codes": [
       "+265"
     ],
     "flag": "🇲🇼",
@@ -4357,7 +4357,7 @@
     "status": "assigned",
     "iso2": "MX",
     "iso3": "MEX",
-    "calls": [
+    "codes": [
       "+52"
     ],
     "flag": "🇲🇽",
@@ -4381,7 +4381,7 @@
     "status": "assigned",
     "iso2": "MY",
     "iso3": "MYS",
-    "calls": [
+    "codes": [
       "+60"
     ],
     "flag": "🇲🇾",
@@ -4411,7 +4411,7 @@
     "status": "assigned",
     "iso2": "MZ",
     "iso3": "MOZ",
-    "calls": [
+    "codes": [
       "+258"
     ],
     "flag": "🇲🇿",
@@ -4436,7 +4436,7 @@
     "status": "assigned",
     "iso2": "NA",
     "iso3": "NAM",
-    "calls": [
+    "codes": [
       "+264"
     ],
     "flag": "🇳🇦",
@@ -4460,7 +4460,7 @@
     "status": "assigned",
     "iso2": "NC",
     "iso3": "NCL",
-    "calls": [
+    "codes": [
       "+687"
     ],
     "flag": "🇳🇨",
@@ -4484,7 +4484,7 @@
     "status": "assigned",
     "iso2": "NE",
     "iso3": "NER",
-    "calls": [
+    "codes": [
       "+227"
     ],
     "flag": "🇳🇪",
@@ -4508,7 +4508,7 @@
     "status": "assigned",
     "iso2": "NF",
     "iso3": "NFK",
-    "calls": [
+    "codes": [
       "+672"
     ],
     "flag": "🇳🇫",
@@ -4532,7 +4532,7 @@
     "status": "assigned",
     "iso2": "NG",
     "iso3": "NGA",
-    "calls": [
+    "codes": [
       "+234"
     ],
     "flag": "🇳🇬",
@@ -4554,7 +4554,7 @@
     "status": "deleted",
     "iso2": "NH",
     "iso3": "NHB",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -4566,7 +4566,7 @@
     "status": "assigned",
     "iso2": "NI",
     "iso3": "NIC",
-    "calls": [
+    "codes": [
       "+505"
     ],
     "flag": "🇳🇮",
@@ -4590,7 +4590,7 @@
     "status": "assigned",
     "iso2": "NL",
     "iso3": "NLD",
-    "calls": [
+    "codes": [
       "+31"
     ],
     "flag": "🇳🇱",
@@ -4614,7 +4614,7 @@
     "status": "assigned",
     "iso2": "NO",
     "iso3": "NOR",
-    "calls": [
+    "codes": [
       "+47"
     ],
     "flag": "🇳🇴",
@@ -4638,7 +4638,7 @@
     "status": "assigned",
     "iso2": "NP",
     "iso3": "NPL",
-    "calls": [
+    "codes": [
       "+977"
     ],
     "flag": "🇳🇵",
@@ -4660,7 +4660,7 @@
     "status": "deleted",
     "iso2": "NQ",
     "iso3": "ATN",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -4672,7 +4672,7 @@
     "status": "assigned",
     "iso2": "NR",
     "iso3": "NRU",
-    "calls": [
+    "codes": [
       "+674"
     ],
     "flag": "🇳🇷",
@@ -4700,7 +4700,7 @@
     "status": "deleted",
     "iso2": "NT",
     "iso3": "NTZ",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -4712,7 +4712,7 @@
     "status": "assigned",
     "iso2": "NU",
     "iso3": "NIU",
-    "calls": [
+    "codes": [
       "+683"
     ],
     "flag": "🇳🇺",
@@ -4736,7 +4736,7 @@
     "status": "assigned",
     "iso2": "NZ",
     "iso3": "NZL",
-    "calls": [
+    "codes": [
       "+64"
     ],
     "flag": "🇳🇿",
@@ -4760,7 +4760,7 @@
     "status": "assigned",
     "iso2": "OM",
     "iso3": "OMN",
-    "calls": [
+    "codes": [
       "+968"
     ],
     "flag": "🇴🇲",
@@ -4785,7 +4785,7 @@
     "status": "assigned",
     "iso2": "PA",
     "iso3": "PAN",
-    "calls": [
+    "codes": [
       "+507"
     ],
     "flag": "🇵🇦",
@@ -4807,7 +4807,7 @@
     "status": "deleted",
     "iso2": "PC",
     "iso3": "PCI",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -4819,7 +4819,7 @@
     "status": "assigned",
     "iso2": "PE",
     "iso3": "PER",
-    "calls": [
+    "codes": [
       "+51"
     ],
     "flag": "🇵🇪",
@@ -4855,7 +4855,7 @@
     "status": "assigned",
     "iso2": "PF",
     "iso3": "PYF",
-    "calls": [
+    "codes": [
       "+689"
     ],
     "flag": "🇵🇫",
@@ -4879,7 +4879,7 @@
     "status": "assigned",
     "iso2": "PG",
     "iso3": "PNG",
-    "calls": [
+    "codes": [
       "+675"
     ],
     "flag": "🇵🇬",
@@ -4903,7 +4903,7 @@
     "status": "assigned",
     "iso2": "PH",
     "iso3": "PHL",
-    "calls": [
+    "codes": [
       "+63"
     ],
     "flag": "🇵🇭",
@@ -4927,7 +4927,7 @@
     "status": "assigned",
     "iso2": "PK",
     "iso3": "PAK",
-    "calls": [
+    "codes": [
       "+92"
     ],
     "flag": "🇵🇰",
@@ -4957,7 +4957,7 @@
     "status": "assigned",
     "iso2": "PL",
     "iso3": "POL",
-    "calls": [
+    "codes": [
       "+48"
     ],
     "flag": "🇵🇱",
@@ -4981,7 +4981,7 @@
     "status": "assigned",
     "iso2": "PM",
     "iso3": "SPM",
-    "calls": [
+    "codes": [
       "+508"
     ],
     "flag": "🇵🇲",
@@ -5005,7 +5005,7 @@
     "status": "assigned",
     "iso2": "PN",
     "iso3": "PCN",
-    "calls": [
+    "codes": [
       "+872"
     ],
     "flag": "🇵🇳",
@@ -5029,7 +5029,7 @@
     "status": "assigned",
     "iso2": "PR",
     "iso3": "PRI",
-    "calls": [
+    "codes": [
       "+1 787",
       "+1 939"
     ],
@@ -5062,7 +5062,7 @@
     "status": "assigned",
     "iso2": "PS",
     "iso3": "PSE",
-    "calls": [
+    "codes": [
       "+970"
     ],
     "flag": "🇵🇸",
@@ -5086,7 +5086,7 @@
     "status": "assigned",
     "iso2": "PT",
     "iso3": "PRT",
-    "calls": [
+    "codes": [
       "+351"
     ],
     "flag": "🇵🇹",
@@ -5108,7 +5108,7 @@
     "status": "deleted",
     "iso2": "PU",
     "iso3": "PUS",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -5120,7 +5120,7 @@
     "status": "assigned",
     "iso2": "PW",
     "iso3": "PLW",
-    "calls": [
+    "codes": [
       "+680"
     ],
     "flag": "🇵🇼",
@@ -5144,7 +5144,7 @@
     "status": "assigned",
     "iso2": "PY",
     "iso3": "PRY",
-    "calls": [
+    "codes": [
       "+595"
     ],
     "flag": "🇵🇾",
@@ -5166,7 +5166,7 @@
     "status": "deleted",
     "iso2": "PZ",
     "iso3": "PCZ",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -5178,7 +5178,7 @@
     "status": "assigned",
     "iso2": "QA",
     "iso3": "QAT",
-    "calls": [
+    "codes": [
       "+974"
     ],
     "flag": "🇶🇦",
@@ -5202,7 +5202,7 @@
     "status": "assigned",
     "iso2": "RE",
     "iso3": "REU",
-    "calls": [
+    "codes": [
       "+262"
     ],
     "flag": "🇷🇪",
@@ -5224,7 +5224,7 @@
     "status": "deleted",
     "iso2": "RH",
     "iso3": "RHO",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -5236,7 +5236,7 @@
     "status": "assigned",
     "iso2": "RO",
     "iso3": "ROU",
-    "calls": [
+    "codes": [
       "+40"
     ],
     "flag": "🇷🇴",
@@ -5260,7 +5260,7 @@
     "status": "assigned",
     "iso2": "RS",
     "iso3": "SRB",
-    "calls": [
+    "codes": [
       "+381"
     ],
     "flag": "🇷🇸",
@@ -5284,7 +5284,7 @@
     "status": "assigned",
     "iso2": "RU",
     "iso3": "RUS",
-    "calls": [
+    "codes": [
       "+7",
       "+7 3",
       "+7 4",
@@ -5311,7 +5311,7 @@
     "status": "assigned",
     "iso2": "RW",
     "iso3": "RWA",
-    "calls": [
+    "codes": [
       "+250"
     ],
     "flag": "🇷🇼",
@@ -5347,7 +5347,7 @@
     "status": "assigned",
     "iso2": "SA",
     "iso3": "SAU",
-    "calls": [
+    "codes": [
       "+966"
     ],
     "flag": "🇸🇦",
@@ -5371,7 +5371,7 @@
     "status": "assigned",
     "iso2": "SB",
     "iso3": "SLB",
-    "calls": [
+    "codes": [
       "+677"
     ],
     "flag": "🇸🇧",
@@ -5395,7 +5395,7 @@
     "status": "assigned",
     "iso2": "SC",
     "iso3": "SYC",
-    "calls": [
+    "codes": [
       "+248"
     ],
     "flag": "🇸🇨",
@@ -5425,7 +5425,7 @@
     "status": "assigned",
     "iso2": "SD",
     "iso3": "SDN",
-    "calls": [
+    "codes": [
       "+249"
     ],
     "flag": "🇸🇩",
@@ -5455,7 +5455,7 @@
     "status": "assigned",
     "iso2": "SE",
     "iso3": "SWE",
-    "calls": [
+    "codes": [
       "+46"
     ],
     "flag": "🇸🇪",
@@ -5479,7 +5479,7 @@
     "status": "assigned",
     "iso2": "SG",
     "iso3": "SGP",
-    "calls": [
+    "codes": [
       "+65"
     ],
     "flag": "🇸🇬",
@@ -5521,7 +5521,7 @@
     "status": "assigned",
     "iso2": "SH",
     "iso3": "SHN",
-    "calls": [
+    "codes": [
       "+290"
     ],
     "flag": "🇸🇭",
@@ -5545,7 +5545,7 @@
     "status": "assigned",
     "iso2": "SI",
     "iso3": "SVN",
-    "calls": [
+    "codes": [
       "+386"
     ],
     "flag": "🇸🇮",
@@ -5569,7 +5569,7 @@
     "status": "assigned",
     "iso2": "SJ",
     "iso3": "SJM",
-    "calls": [
+    "codes": [
       "+47"
     ],
     "flag": "🇸🇯",
@@ -5586,7 +5586,7 @@
     "status": "assigned",
     "iso2": "SK",
     "iso3": "SVK",
-    "calls": [
+    "codes": [
       "+421"
     ],
     "flag": "🇸🇰",
@@ -5608,7 +5608,7 @@
     "status": "deleted",
     "iso2": "SK",
     "iso3": "SKM",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -5620,7 +5620,7 @@
     "status": "assigned",
     "iso2": "SL",
     "iso3": "SLE",
-    "calls": [
+    "codes": [
       "+232"
     ],
     "flag": "🇸🇱",
@@ -5644,7 +5644,7 @@
     "status": "assigned",
     "iso2": "SM",
     "iso3": "SMR",
-    "calls": [
+    "codes": [
       "+378"
     ],
     "flag": "🇸🇲",
@@ -5668,7 +5668,7 @@
     "status": "assigned",
     "iso2": "SN",
     "iso3": "SEN",
-    "calls": [
+    "codes": [
       "+221"
     ],
     "flag": "🇸🇳",
@@ -5692,7 +5692,7 @@
     "status": "assigned",
     "iso2": "SO",
     "iso3": "SOM",
-    "calls": [
+    "codes": [
       "+252"
     ],
     "flag": "🇸🇴",
@@ -5716,7 +5716,7 @@
     "status": "assigned",
     "iso2": "SR",
     "iso3": "SUR",
-    "calls": [
+    "codes": [
       "+597"
     ],
     "flag": "🇸🇷",
@@ -5740,7 +5740,7 @@
     "status": "assigned",
     "iso2": "SS",
     "iso3": "SSD",
-    "calls": [
+    "codes": [
       "+211"
     ],
     "flag": "🇸🇸",
@@ -5764,7 +5764,7 @@
     "status": "assigned",
     "iso2": "ST",
     "iso3": "STP",
-    "calls": [
+    "codes": [
       "+239"
     ],
     "flag": "🇸🇹",
@@ -5788,7 +5788,7 @@
     "status": "reserved",
     "iso2": "SU",
     "iso3": "",
-    "calls": [],
+    "codes": [],
     "flag": "",
     "lang": [
       {
@@ -5808,7 +5808,7 @@
     "status": "assigned",
     "iso2": "SV",
     "iso3": "SLV",
-    "calls": [
+    "codes": [
       "+503"
     ],
     "flag": "🇸🇻",
@@ -5832,7 +5832,7 @@
     "status": "assigned",
     "iso2": "SX",
     "iso3": "SXM",
-    "calls": [
+    "codes": [
       "+1 721"
     ],
     "flag": "🇸🇽",
@@ -5856,7 +5856,7 @@
     "status": "assigned",
     "iso2": "SY",
     "iso3": "SYR",
-    "calls": [
+    "codes": [
       "+963"
     ],
     "flag": "🇸🇾",
@@ -5880,7 +5880,7 @@
     "status": "assigned",
     "iso2": "SZ",
     "iso3": "SWZ",
-    "calls": [
+    "codes": [
       "+268"
     ],
     "flag": "🇸🇿",
@@ -5910,7 +5910,7 @@
     "status": "reserved",
     "iso2": "TA",
     "iso3": "",
-    "calls": [
+    "codes": [
       "+290"
     ],
     "flag": "",
@@ -5925,7 +5925,7 @@
     "status": "assigned",
     "iso2": "TC",
     "iso3": "TCA",
-    "calls": [
+    "codes": [
       "+1 649"
     ],
     "flag": "🇹🇨",
@@ -5949,7 +5949,7 @@
     "status": "assigned",
     "iso2": "TD",
     "iso3": "TCD",
-    "calls": [
+    "codes": [
       "+235"
     ],
     "flag": "🇹🇩",
@@ -5979,7 +5979,7 @@
     "status": "assigned",
     "iso2": "TF",
     "iso3": "ATF",
-    "calls": [],
+    "codes": [],
     "flag": "🇹🇫",
     "lang": [
       {
@@ -6001,7 +6001,7 @@
     "status": "assigned",
     "iso2": "TG",
     "iso3": "TGO",
-    "calls": [
+    "codes": [
       "+228"
     ],
     "flag": "🇹🇬",
@@ -6025,7 +6025,7 @@
     "status": "assigned",
     "iso2": "TH",
     "iso3": "THA",
-    "calls": [
+    "codes": [
       "+66"
     ],
     "flag": "🇹🇭",
@@ -6049,7 +6049,7 @@
     "status": "assigned",
     "iso2": "TJ",
     "iso3": "TJK",
-    "calls": [
+    "codes": [
       "+992"
     ],
     "flag": "🇹🇯",
@@ -6079,7 +6079,7 @@
     "status": "assigned",
     "iso2": "TK",
     "iso3": "TKL",
-    "calls": [
+    "codes": [
       "+690"
     ],
     "flag": "🇹🇰",
@@ -6103,7 +6103,7 @@
     "status": "assigned",
     "iso2": "TL",
     "iso3": "TLS",
-    "calls": [
+    "codes": [
       "+670"
     ],
     "flag": "🇹🇱",
@@ -6127,7 +6127,7 @@
     "status": "assigned",
     "iso2": "TM",
     "iso3": "TKM",
-    "calls": [
+    "codes": [
       "+993"
     ],
     "flag": "🇹🇲",
@@ -6157,7 +6157,7 @@
     "status": "assigned",
     "iso2": "TN",
     "iso3": "TUN",
-    "calls": [
+    "codes": [
       "+216"
     ],
     "flag": "🇹🇳",
@@ -6181,7 +6181,7 @@
     "status": "assigned",
     "iso2": "TO",
     "iso3": "TON",
-    "calls": [
+    "codes": [
       "+676"
     ],
     "flag": "🇹🇴",
@@ -6203,7 +6203,7 @@
     "status": "deleted",
     "iso2": "TP",
     "iso3": "TMP",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -6215,7 +6215,7 @@
     "status": "assigned",
     "iso2": "TR",
     "iso3": "TUR",
-    "calls": [
+    "codes": [
       "+90"
     ],
     "flag": "🇹🇷",
@@ -6239,7 +6239,7 @@
     "status": "assigned",
     "iso2": "TT",
     "iso3": "TTO",
-    "calls": [
+    "codes": [
       "+1 868"
     ],
     "flag": "🇹🇹",
@@ -6263,7 +6263,7 @@
     "status": "assigned",
     "iso2": "TV",
     "iso3": "TUV",
-    "calls": [
+    "codes": [
       "+688"
     ],
     "flag": "🇹🇻",
@@ -6287,7 +6287,7 @@
     "status": "assigned",
     "iso2": "TW",
     "iso3": "TWN",
-    "calls": [
+    "codes": [
       "+886"
     ],
     "flag": "🇹🇼",
@@ -6311,7 +6311,7 @@
     "status": "assigned",
     "iso2": "TZ",
     "iso3": "TZA",
-    "calls": [
+    "codes": [
       "+255"
     ],
     "flag": "🇹🇿",
@@ -6341,7 +6341,7 @@
     "status": "assigned",
     "iso2": "UA",
     "iso3": "UKR",
-    "calls": [
+    "codes": [
       "+380"
     ],
     "flag": "🇺🇦",
@@ -6371,7 +6371,7 @@
     "status": "assigned",
     "iso2": "UG",
     "iso3": "UGA",
-    "calls": [
+    "codes": [
       "+256"
     ],
     "flag": "🇺🇬",
@@ -6401,7 +6401,7 @@
     "status": "assigned",
     "iso2": "UM",
     "iso3": "UMI",
-    "calls": [
+    "codes": [
       "+1"
     ],
     "flag": "🇺🇲",
@@ -6425,7 +6425,7 @@
     "status": "assigned",
     "iso2": "US",
     "iso3": "USA",
-    "calls": [
+    "codes": [
       "+1"
     ],
     "flag": "🇺🇸",
@@ -6450,7 +6450,7 @@
     "status": "assigned",
     "iso2": "UY",
     "iso3": "URY",
-    "calls": [
+    "codes": [
       "+598"
     ],
     "flag": "🇺🇾",
@@ -6474,7 +6474,7 @@
     "status": "assigned",
     "iso2": "UZ",
     "iso3": "UZB",
-    "calls": [
+    "codes": [
       "+998"
     ],
     "flag": "🇺🇿",
@@ -6504,7 +6504,7 @@
     "status": "assigned",
     "iso2": "VA",
     "iso3": "VAT",
-    "calls": [
+    "codes": [
       "+379",
       "+39"
     ],
@@ -6529,7 +6529,7 @@
     "status": "assigned",
     "iso2": "VC",
     "iso3": "VCT",
-    "calls": [
+    "codes": [
       "+1 784"
     ],
     "flag": "🇻🇨",
@@ -6551,7 +6551,7 @@
     "status": "deleted",
     "iso2": "VD",
     "iso3": "VDR",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -6563,7 +6563,7 @@
     "status": "assigned",
     "iso2": "VE",
     "iso3": "VEN",
-    "calls": [
+    "codes": [
       "+58"
     ],
     "flag": "🇻🇪",
@@ -6587,7 +6587,7 @@
     "status": "assigned",
     "iso2": "VG",
     "iso3": "VGB",
-    "calls": [
+    "codes": [
       "+1 284"
     ],
     "flag": "🇻🇬",
@@ -6611,7 +6611,7 @@
     "status": "assigned",
     "iso2": "VI",
     "iso3": "VIR",
-    "calls": [
+    "codes": [
       "+1 340"
     ],
     "flag": "🇻🇮",
@@ -6635,7 +6635,7 @@
     "status": "assigned",
     "iso2": "VN",
     "iso3": "VNM",
-    "calls": [
+    "codes": [
       "+84"
     ],
     "flag": "🇻🇳",
@@ -6659,7 +6659,7 @@
     "status": "assigned",
     "iso2": "VU",
     "iso3": "VUT",
-    "calls": [
+    "codes": [
       "+678"
     ],
     "flag": "🇻🇺",
@@ -6695,7 +6695,7 @@
     "status": "assigned",
     "iso2": "WF",
     "iso3": "WLF",
-    "calls": [
+    "codes": [
       "+681"
     ],
     "flag": "🇼🇫",
@@ -6717,7 +6717,7 @@
     "status": "deleted",
     "iso2": "WK",
     "iso3": "WAK",
-    "calls": [],
+    "codes": [],
     "lang": []
   },
   {
@@ -6729,7 +6729,7 @@
     "status": "assigned",
     "iso2": "WS",
     "iso3": "WSM",
-    "calls": [
+    "codes": [
       "+685"
     ],
     "flag": "🇼🇸",
@@ -6759,7 +6759,7 @@
     "status": "user assigned",
     "iso2": "XK",
     "iso3": "",
-    "calls": [
+    "codes": [
       "+383"
     ],
     "flag": "",
@@ -6803,7 +6803,7 @@
     "status": "deleted",
     "iso2": "YD",
     "iso3": "YMD",
-    "calls": [
+    "codes": [
       "+967"
     ],
     "lang": []
@@ -6817,7 +6817,7 @@
     "status": "assigned",
     "iso2": "YE",
     "iso3": "YEM",
-    "calls": [
+    "codes": [
       "+967"
     ],
     "flag": "🇾🇪",
@@ -6841,7 +6841,7 @@
     "status": "assigned",
     "iso2": "YT",
     "iso3": "MYT",
-    "calls": [
+    "codes": [
       "+262"
     ],
     "flag": "🇾🇹",
@@ -6863,7 +6863,7 @@
     "status": "deleted",
     "iso2": "YU",
     "iso3": "YUG",
-    "calls": [
+    "codes": [
       "+38"
     ],
     "lang": []
@@ -6877,7 +6877,7 @@
     "status": "assigned",
     "iso2": "ZA",
     "iso3": "ZAF",
-    "calls": [
+    "codes": [
       "+27"
     ],
     "flag": "🇿🇦",
@@ -6943,7 +6943,7 @@
     "status": "assigned",
     "iso2": "ZM",
     "iso3": "ZMB",
-    "calls": [
+    "codes": [
       "+260"
     ],
     "flag": "🇿🇲",
@@ -6965,7 +6965,7 @@
     "status": "deleted",
     "iso2": "ZR",
     "iso3": "ZAR",
-    "calls": [
+    "codes": [
       "+243"
     ],
     "lang": []
@@ -6983,7 +6983,7 @@
     "status": "assigned",
     "iso2": "ZW",
     "iso3": "ZWE",
-    "calls": [
+    "codes": [
       "+263"
     ],
     "flag": "🇿🇼",

@@ -12,7 +12,7 @@ for (var key in countries) {
   var country = countries[key]
   country.iso2 = (country.alpha2 || '').toUpperCase()
   country.iso3 = (country.alpha3 || '').toUpperCase()
-  country.calls = country.countryCallingCodes
+  country.codes = country.countryCallingCodes
   country.flag = country.emoji
   delete country.alpha2
   delete country.alpha3
