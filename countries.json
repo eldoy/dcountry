@@ -3,7 +3,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "",
     "ioc": "SHP",
     "name": "Ascension Island",
     "status": "reserved",
@@ -12,6 +11,7 @@
     "calls": [
       "+247"
     ],
+    "flag": "",
     "lang": [
       {
         "bibliographic": "",
@@ -25,7 +25,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇦🇩",
     "ioc": "AND",
     "name": "Andorra",
     "status": "assigned",
@@ -34,6 +33,7 @@
     "calls": [
       "+376"
     ],
+    "flag": "🇦🇩",
     "lang": [
       {
         "bibliographic": "",
@@ -49,7 +49,6 @@
     "currencies": [
       "AED"
     ],
-    "emoji": "🇦🇪",
     "ioc": "UAE",
     "name": "United Arab Emirates",
     "status": "assigned",
@@ -58,6 +57,7 @@
     "calls": [
       "+971"
     ],
+    "flag": "🇦🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -73,7 +73,6 @@
     "currencies": [
       "AFN"
     ],
-    "emoji": "🇦🇫",
     "ioc": "AFG",
     "name": "Afghanistan",
     "status": "assigned",
@@ -82,6 +81,7 @@
     "calls": [
       "+93"
     ],
+    "flag": "🇦🇫",
     "lang": [
       {
         "bibliographic": "",
@@ -97,7 +97,6 @@
     "currencies": [
       "XCD"
     ],
-    "emoji": "🇦🇬",
     "ioc": "ANT",
     "name": "Antigua And Barbuda",
     "status": "assigned",
@@ -106,6 +105,7 @@
     "calls": [
       "+1 268"
     ],
+    "flag": "🇦🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -121,7 +121,6 @@
     "currencies": [
       "XCD"
     ],
-    "emoji": "🇦🇮",
     "ioc": "",
     "name": "Anguilla",
     "status": "assigned",
@@ -130,6 +129,7 @@
     "calls": [
       "+1 264"
     ],
+    "flag": "🇦🇮",
     "lang": [
       {
         "bibliographic": "",
@@ -155,7 +155,6 @@
     "currencies": [
       "ALL"
     ],
-    "emoji": "🇦🇱",
     "ioc": "ALB",
     "name": "Albania",
     "status": "assigned",
@@ -164,6 +163,7 @@
     "calls": [
       "+355"
     ],
+    "flag": "🇦🇱",
     "lang": [
       {
         "bibliographic": "ALB",
@@ -179,7 +179,6 @@
     "currencies": [
       "AMD"
     ],
-    "emoji": "🇦🇲",
     "ioc": "ARM",
     "name": "Armenia",
     "status": "assigned",
@@ -188,6 +187,7 @@
     "calls": [
       "+374"
     ],
+    "flag": "🇦🇲",
     "lang": [
       {
         "bibliographic": "ARM",
@@ -219,7 +219,6 @@
     "currencies": [
       "AOA"
     ],
-    "emoji": "🇦🇴",
     "ioc": "ANG",
     "name": "Angola",
     "status": "assigned",
@@ -228,6 +227,7 @@
     "calls": [
       "+244"
     ],
+    "flag": "🇦🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -241,7 +241,6 @@
   },
   {
     "currencies": [],
-    "emoji": "🇦🇶",
     "ioc": "",
     "name": "Antarctica",
     "status": "assigned",
@@ -250,6 +249,7 @@
     "calls": [
       "+672"
     ],
+    "flag": "🇦🇶",
     "lang": [],
     "continent": "Antartica",
     "region": "Antartica"
@@ -258,7 +258,6 @@
     "currencies": [
       "ARS"
     ],
-    "emoji": "🇦🇷",
     "ioc": "ARG",
     "name": "Argentina",
     "status": "assigned",
@@ -267,6 +266,7 @@
     "calls": [
       "+54"
     ],
+    "flag": "🇦🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -282,7 +282,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇦🇸",
     "ioc": "ASA",
     "name": "American Samoa",
     "status": "assigned",
@@ -291,6 +290,7 @@
     "calls": [
       "+1 684"
     ],
+    "flag": "🇦🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -312,7 +312,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇦🇹",
     "ioc": "AUT",
     "name": "Austria",
     "status": "assigned",
@@ -321,6 +320,7 @@
     "calls": [
       "+43"
     ],
+    "flag": "🇦🇹",
     "lang": [
       {
         "bibliographic": "GER",
@@ -336,7 +336,6 @@
     "currencies": [
       "AUD"
     ],
-    "emoji": "🇦🇺",
     "ioc": "AUS",
     "name": "Australia",
     "status": "assigned",
@@ -345,6 +344,7 @@
     "calls": [
       "+61"
     ],
+    "flag": "🇦🇺",
     "lang": [
       {
         "bibliographic": "",
@@ -360,7 +360,6 @@
     "currencies": [
       "AWG"
     ],
-    "emoji": "🇦🇼",
     "ioc": "ARU",
     "name": "Aruba",
     "status": "assigned",
@@ -369,6 +368,7 @@
     "calls": [
       "+297"
     ],
+    "flag": "🇦🇼",
     "lang": [
       {
         "bibliographic": "DUT",
@@ -384,7 +384,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇦🇽",
     "ioc": "",
     "name": "Åland Islands",
     "status": "assigned",
@@ -393,6 +392,7 @@
     "calls": [
       "+358"
     ],
+    "flag": "🇦🇽",
     "lang": [
       {
         "bibliographic": "",
@@ -408,7 +408,6 @@
     "currencies": [
       "AZN"
     ],
-    "emoji": "🇦🇿",
     "ioc": "AZE",
     "name": "Azerbaijan",
     "status": "assigned",
@@ -417,6 +416,7 @@
     "calls": [
       "+994"
     ],
+    "flag": "🇦🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -432,7 +432,6 @@
     "currencies": [
       "BAM"
     ],
-    "emoji": "🇧🇦",
     "ioc": "BIH",
     "name": "Bosnia & Herzegovina",
     "status": "assigned",
@@ -441,6 +440,7 @@
     "calls": [
       "+387"
     ],
+    "flag": "🇧🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -468,7 +468,6 @@
     "currencies": [
       "BBD"
     ],
-    "emoji": "🇧🇧",
     "ioc": "BAR",
     "name": "Barbados",
     "status": "assigned",
@@ -477,6 +476,7 @@
     "calls": [
       "+1 246"
     ],
+    "flag": "🇧🇧",
     "lang": [
       {
         "bibliographic": "",
@@ -492,7 +492,6 @@
     "currencies": [
       "BDT"
     ],
-    "emoji": "🇧🇩",
     "ioc": "BAN",
     "name": "Bangladesh",
     "status": "assigned",
@@ -501,6 +500,7 @@
     "calls": [
       "+880"
     ],
+    "flag": "🇧🇩",
     "lang": [
       {
         "bibliographic": "",
@@ -516,7 +516,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇧🇪",
     "ioc": "BEL",
     "name": "Belgium",
     "status": "assigned",
@@ -525,6 +524,7 @@
     "calls": [
       "+32"
     ],
+    "flag": "🇧🇪",
     "lang": [
       {
         "bibliographic": "DUT",
@@ -552,7 +552,6 @@
     "currencies": [
       "XOF"
     ],
-    "emoji": "🇧🇫",
     "ioc": "BUR",
     "name": "Burkina Faso",
     "status": "assigned",
@@ -561,6 +560,7 @@
     "calls": [
       "+226"
     ],
+    "flag": "🇧🇫",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -576,7 +576,6 @@
     "currencies": [
       "BGN"
     ],
-    "emoji": "🇧🇬",
     "ioc": "BUL",
     "name": "Bulgaria",
     "status": "assigned",
@@ -585,6 +584,7 @@
     "calls": [
       "+359"
     ],
+    "flag": "🇧🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -600,7 +600,6 @@
     "currencies": [
       "BHD"
     ],
-    "emoji": "🇧🇭",
     "ioc": "BRN",
     "name": "Bahrain",
     "status": "assigned",
@@ -609,6 +608,7 @@
     "calls": [
       "+973"
     ],
+    "flag": "🇧🇭",
     "lang": [
       {
         "bibliographic": "",
@@ -624,7 +624,6 @@
     "currencies": [
       "BIF"
     ],
-    "emoji": "🇧🇮",
     "ioc": "BDI",
     "name": "Burundi",
     "status": "assigned",
@@ -633,6 +632,7 @@
     "calls": [
       "+257"
     ],
+    "flag": "🇧🇮",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -648,7 +648,6 @@
     "currencies": [
       "XOF"
     ],
-    "emoji": "🇧🇯",
     "ioc": "BEN",
     "name": "Benin",
     "status": "assigned",
@@ -657,6 +656,7 @@
     "calls": [
       "+229"
     ],
+    "flag": "🇧🇯",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -672,7 +672,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇧🇱",
     "ioc": "",
     "name": "Saint Barthélemy",
     "status": "assigned",
@@ -681,6 +680,7 @@
     "calls": [
       "+590"
     ],
+    "flag": "🇧🇱",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -696,7 +696,6 @@
     "currencies": [
       "BMD"
     ],
-    "emoji": "🇧🇲",
     "ioc": "BER",
     "name": "Bermuda",
     "status": "assigned",
@@ -705,6 +704,7 @@
     "calls": [
       "+1 441"
     ],
+    "flag": "🇧🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -720,7 +720,6 @@
     "currencies": [
       "BND"
     ],
-    "emoji": "🇧🇳",
     "ioc": "BRU",
     "name": "Brunei Darussalam",
     "status": "assigned",
@@ -729,6 +728,7 @@
     "calls": [
       "+673"
     ],
+    "flag": "🇧🇳",
     "lang": [
       {
         "bibliographic": "MAY",
@@ -751,7 +751,6 @@
       "BOB",
       "BOV"
     ],
-    "emoji": "🇧🇴",
     "ioc": "BOL",
     "name": "Bolivia, Plurinational State Of",
     "status": "assigned",
@@ -760,6 +759,7 @@
     "calls": [
       "+591"
     ],
+    "flag": "🇧🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -787,7 +787,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇧🇶",
     "ioc": "",
     "name": "Bonaire, Sint Eustatius And Saba",
     "status": "assigned",
@@ -796,6 +795,7 @@
     "calls": [
       "+599"
     ],
+    "flag": "🇧🇶",
     "lang": [
       {
         "bibliographic": "DUT",
@@ -821,7 +821,6 @@
     "currencies": [
       "BRL"
     ],
-    "emoji": "🇧🇷",
     "ioc": "BRA",
     "name": "Brazil",
     "status": "assigned",
@@ -830,6 +829,7 @@
     "calls": [
       "+55"
     ],
+    "flag": "🇧🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -845,7 +845,6 @@
     "currencies": [
       "BSD"
     ],
-    "emoji": "🇧🇸",
     "ioc": "BAH",
     "name": "Bahamas",
     "status": "assigned",
@@ -854,6 +853,7 @@
     "calls": [
       "+1 242"
     ],
+    "flag": "🇧🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -870,7 +870,6 @@
       "INR",
       "BTN"
     ],
-    "emoji": "🇧🇹",
     "ioc": "BHU",
     "name": "Bhutan",
     "status": "assigned",
@@ -879,6 +878,7 @@
     "calls": [
       "+975"
     ],
+    "flag": "🇧🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -904,13 +904,13 @@
     "currencies": [
       "NOK"
     ],
-    "emoji": "🇧🇻",
     "ioc": "",
     "name": "Bouvet Island",
     "status": "assigned",
     "iso2": "BV",
     "iso3": "BVT",
     "calls": [],
+    "flag": "🇧🇻",
     "lang": [],
     "continent": "Antartica",
     "region": "Antartica"
@@ -919,7 +919,6 @@
     "currencies": [
       "BWP"
     ],
-    "emoji": "🇧🇼",
     "ioc": "BOT",
     "name": "Botswana",
     "status": "assigned",
@@ -928,6 +927,7 @@
     "calls": [
       "+267"
     ],
+    "flag": "🇧🇼",
     "lang": [
       {
         "bibliographic": "",
@@ -949,7 +949,6 @@
     "currencies": [
       "BYN"
     ],
-    "emoji": "🇧🇾",
     "ioc": "BLR",
     "name": "Belarus",
     "status": "assigned",
@@ -958,6 +957,7 @@
     "calls": [
       "+375"
     ],
+    "flag": "🇧🇾",
     "lang": [
       {
         "bibliographic": "",
@@ -989,7 +989,6 @@
     "currencies": [
       "BZD"
     ],
-    "emoji": "🇧🇿",
     "ioc": "BIZ",
     "name": "Belize",
     "status": "assigned",
@@ -998,6 +997,7 @@
     "calls": [
       "+501"
     ],
+    "flag": "🇧🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -1013,7 +1013,6 @@
     "currencies": [
       "CAD"
     ],
-    "emoji": "🇨🇦",
     "ioc": "CAN",
     "name": "Canada",
     "status": "assigned",
@@ -1022,6 +1021,7 @@
     "calls": [
       "+1"
     ],
+    "flag": "🇨🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -1043,7 +1043,6 @@
     "currencies": [
       "AUD"
     ],
-    "emoji": "🇨🇨",
     "ioc": "",
     "name": "Cocos (Keeling) Islands",
     "status": "assigned",
@@ -1052,6 +1051,7 @@
     "calls": [
       "+61"
     ],
+    "flag": "🇨🇨",
     "lang": [
       {
         "bibliographic": "",
@@ -1067,7 +1067,6 @@
     "currencies": [
       "CDF"
     ],
-    "emoji": "🇨🇩",
     "ioc": "COD",
     "name": "Democratic Republic Of Congo",
     "status": "assigned",
@@ -1076,6 +1075,7 @@
     "calls": [
       "+243"
     ],
+    "flag": "🇨🇩",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -1109,7 +1109,6 @@
     "currencies": [
       "XAF"
     ],
-    "emoji": "🇨🇫",
     "ioc": "CAF",
     "name": "Central African Republic",
     "status": "assigned",
@@ -1118,6 +1117,7 @@
     "calls": [
       "+236"
     ],
+    "flag": "🇨🇫",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -1139,7 +1139,6 @@
     "currencies": [
       "XAF"
     ],
-    "emoji": "🇨🇬",
     "ioc": "CGO",
     "name": "Republic Of Congo",
     "status": "assigned",
@@ -1148,6 +1147,7 @@
     "calls": [
       "+242"
     ],
+    "flag": "🇨🇬",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -1171,7 +1171,6 @@
       "CHE",
       "CHW"
     ],
-    "emoji": "🇨🇭",
     "ioc": "SUI",
     "name": "Switzerland",
     "status": "assigned",
@@ -1180,6 +1179,7 @@
     "calls": [
       "+41"
     ],
+    "flag": "🇨🇭",
     "lang": [
       {
         "bibliographic": "GER",
@@ -1213,7 +1213,6 @@
     "currencies": [
       "XOF"
     ],
-    "emoji": "🇨🇮",
     "ioc": "CIV",
     "name": "Côte d'Ivoire",
     "status": "assigned",
@@ -1222,6 +1221,7 @@
     "calls": [
       "+225"
     ],
+    "flag": "🇨🇮",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -1237,7 +1237,6 @@
     "currencies": [
       "NZD"
     ],
-    "emoji": "🇨🇰",
     "ioc": "COK",
     "name": "Cook Islands",
     "status": "assigned",
@@ -1246,6 +1245,7 @@
     "calls": [
       "+682"
     ],
+    "flag": "🇨🇰",
     "lang": [
       {
         "bibliographic": "",
@@ -1268,7 +1268,6 @@
       "CLP",
       "CLF"
     ],
-    "emoji": "🇨🇱",
     "ioc": "CHI",
     "name": "Chile",
     "status": "assigned",
@@ -1277,6 +1276,7 @@
     "calls": [
       "+56"
     ],
+    "flag": "🇨🇱",
     "lang": [
       {
         "bibliographic": "",
@@ -1292,7 +1292,6 @@
     "currencies": [
       "XAF"
     ],
-    "emoji": "🇨🇲",
     "ioc": "CMR",
     "name": "Cameroon",
     "status": "assigned",
@@ -1301,6 +1300,7 @@
     "calls": [
       "+237"
     ],
+    "flag": "🇨🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -1322,7 +1322,6 @@
     "currencies": [
       "CNY"
     ],
-    "emoji": "🇨🇳",
     "ioc": "CHN",
     "name": "China",
     "status": "assigned",
@@ -1331,6 +1330,7 @@
     "calls": [
       "+86"
     ],
+    "flag": "🇨🇳",
     "lang": [
       {
         "bibliographic": "CHI",
@@ -1347,7 +1347,6 @@
       "COP",
       "COU"
     ],
-    "emoji": "🇨🇴",
     "ioc": "COL",
     "name": "Colombia",
     "status": "assigned",
@@ -1356,6 +1355,7 @@
     "calls": [
       "+57"
     ],
+    "flag": "🇨🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -1371,20 +1371,19 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "",
     "ioc": "",
     "name": "Clipperton Island",
     "status": "reserved",
     "iso2": "CP",
     "iso3": "",
     "calls": [],
+    "flag": "",
     "lang": []
   },
   {
     "currencies": [
       "CRC"
     ],
-    "emoji": "🇨🇷",
     "ioc": "CRC",
     "name": "Costa Rica",
     "status": "assigned",
@@ -1393,6 +1392,7 @@
     "calls": [
       "+506"
     ],
+    "flag": "🇨🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -1439,7 +1439,6 @@
       "CUP",
       "CUC"
     ],
-    "emoji": "🇨🇺",
     "ioc": "CUB",
     "name": "Cuba",
     "status": "assigned",
@@ -1448,6 +1447,7 @@
     "calls": [
       "+53"
     ],
+    "flag": "🇨🇺",
     "lang": [
       {
         "bibliographic": "",
@@ -1463,7 +1463,6 @@
     "currencies": [
       "CVE"
     ],
-    "emoji": "🇨🇻",
     "ioc": "CPV",
     "name": "Cabo Verde",
     "status": "assigned",
@@ -1472,6 +1471,7 @@
     "calls": [
       "+238"
     ],
+    "flag": "🇨🇻",
     "lang": [
       {
         "bibliographic": "",
@@ -1487,7 +1487,6 @@
     "currencies": [
       "ANG"
     ],
-    "emoji": "🇨🇼",
     "ioc": "",
     "name": "Curacao",
     "status": "assigned",
@@ -1496,6 +1495,7 @@
     "calls": [
       "+599"
     ],
+    "flag": "🇨🇼",
     "lang": [
       {
         "bibliographic": "DUT",
@@ -1511,7 +1511,6 @@
     "currencies": [
       "AUD"
     ],
-    "emoji": "🇨🇽",
     "ioc": "",
     "name": "Christmas Island",
     "status": "assigned",
@@ -1520,6 +1519,7 @@
     "calls": [
       "+61"
     ],
+    "flag": "🇨🇽",
     "lang": [
       {
         "bibliographic": "",
@@ -1535,7 +1535,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇨🇾",
     "ioc": "CYP",
     "name": "Cyprus",
     "status": "assigned",
@@ -1544,6 +1543,7 @@
     "calls": [
       "+357"
     ],
+    "flag": "🇨🇾",
     "lang": [
       {
         "bibliographic": "GRE",
@@ -1565,7 +1565,6 @@
     "currencies": [
       "CZK"
     ],
-    "emoji": "🇨🇿",
     "ioc": "CZE",
     "name": "Czech Republic",
     "status": "assigned",
@@ -1574,6 +1573,7 @@
     "calls": [
       "+420"
     ],
+    "flag": "🇨🇿",
     "lang": [
       {
         "bibliographic": "CZE",
@@ -1599,7 +1599,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇩🇪",
     "ioc": "GER",
     "name": "Germany",
     "status": "assigned",
@@ -1608,6 +1607,7 @@
     "calls": [
       "+49"
     ],
+    "flag": "🇩🇪",
     "lang": [
       {
         "bibliographic": "GER",
@@ -1623,20 +1623,19 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "",
     "ioc": "",
     "name": "Diego Garcia",
     "status": "reserved",
     "iso2": "DG",
     "iso3": "",
     "calls": [],
+    "flag": "",
     "lang": []
   },
   {
     "currencies": [
       "DJF"
     ],
-    "emoji": "🇩🇯",
     "ioc": "DJI",
     "name": "Djibouti",
     "status": "assigned",
@@ -1645,6 +1644,7 @@
     "calls": [
       "+253"
     ],
+    "flag": "🇩🇯",
     "lang": [
       {
         "bibliographic": "",
@@ -1666,7 +1666,6 @@
     "currencies": [
       "DKK"
     ],
-    "emoji": "🇩🇰",
     "ioc": "DEN",
     "name": "Denmark",
     "status": "assigned",
@@ -1675,6 +1674,7 @@
     "calls": [
       "+45"
     ],
+    "flag": "🇩🇰",
     "lang": [
       {
         "bibliographic": "",
@@ -1690,7 +1690,6 @@
     "currencies": [
       "XCD"
     ],
-    "emoji": "🇩🇲",
     "ioc": "DMA",
     "name": "Dominica",
     "status": "assigned",
@@ -1699,6 +1698,7 @@
     "calls": [
       "+1 767"
     ],
+    "flag": "🇩🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -1714,7 +1714,6 @@
     "currencies": [
       "DOP"
     ],
-    "emoji": "🇩🇴",
     "ioc": "DOM",
     "name": "Dominican Republic",
     "status": "assigned",
@@ -1725,6 +1724,7 @@
       "+1 829",
       "+1 849"
     ],
+    "flag": "🇩🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -1750,7 +1750,6 @@
     "currencies": [
       "DZD"
     ],
-    "emoji": "🇩🇿",
     "ioc": "ALG",
     "name": "Algeria",
     "status": "assigned",
@@ -1759,6 +1758,7 @@
     "calls": [
       "+213"
     ],
+    "flag": "🇩🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -1774,20 +1774,19 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "",
     "ioc": "",
     "name": "Ceuta, Mulilla",
     "status": "reserved",
     "iso2": "EA",
     "iso3": "",
     "calls": [],
+    "flag": "",
     "lang": []
   },
   {
     "currencies": [
       "USD"
     ],
-    "emoji": "🇪🇨",
     "ioc": "ECU",
     "name": "Ecuador",
     "status": "assigned",
@@ -1796,6 +1795,7 @@
     "calls": [
       "+593"
     ],
+    "flag": "🇪🇨",
     "lang": [
       {
         "bibliographic": "",
@@ -1817,7 +1817,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇪🇪",
     "ioc": "EST",
     "name": "Estonia",
     "status": "assigned",
@@ -1826,6 +1825,7 @@
     "calls": [
       "+372"
     ],
+    "flag": "🇪🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -1841,7 +1841,6 @@
     "currencies": [
       "EGP"
     ],
-    "emoji": "🇪🇬",
     "ioc": "EGY",
     "name": "Egypt",
     "status": "assigned",
@@ -1850,6 +1849,7 @@
     "calls": [
       "+20"
     ],
+    "flag": "🇪🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -1865,7 +1865,6 @@
     "currencies": [
       "MAD"
     ],
-    "emoji": "🇪🇭",
     "ioc": "",
     "name": "Western Sahara",
     "status": "assigned",
@@ -1874,6 +1873,7 @@
     "calls": [
       "+212"
     ],
+    "flag": "🇪🇭",
     "lang": [],
     "continent": "Africa",
     "region": "North Africa"
@@ -1882,7 +1882,6 @@
     "currencies": [
       "ERN"
     ],
-    "emoji": "🇪🇷",
     "ioc": "ERI",
     "name": "Eritrea",
     "status": "assigned",
@@ -1891,6 +1890,7 @@
     "calls": [
       "+291"
     ],
+    "flag": "🇪🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -1918,7 +1918,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇪🇸",
     "ioc": "ESP",
     "name": "Spain",
     "status": "assigned",
@@ -1927,6 +1926,7 @@
     "calls": [
       "+34"
     ],
+    "flag": "🇪🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -1960,7 +1960,6 @@
     "currencies": [
       "ETB"
     ],
-    "emoji": "🇪🇹",
     "ioc": "ETH",
     "name": "Ethiopia",
     "status": "assigned",
@@ -1969,6 +1968,7 @@
     "calls": [
       "+251"
     ],
+    "flag": "🇪🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -1984,7 +1984,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇪🇺",
     "ioc": "",
     "name": "European Union",
     "status": "reserved",
@@ -1993,13 +1992,13 @@
     "calls": [
       "+388"
     ],
+    "flag": "🇪🇺",
     "lang": []
   },
   {
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇫🇮",
     "ioc": "FIN",
     "name": "Finland",
     "status": "assigned",
@@ -2008,6 +2007,7 @@
     "calls": [
       "+358"
     ],
+    "flag": "🇫🇮",
     "lang": [
       {
         "bibliographic": "",
@@ -2029,7 +2029,6 @@
     "currencies": [
       "FJD"
     ],
-    "emoji": "🇫🇯",
     "ioc": "FIJ",
     "name": "Fiji",
     "status": "assigned",
@@ -2038,6 +2037,7 @@
     "calls": [
       "+679"
     ],
+    "flag": "🇫🇯",
     "lang": [
       {
         "bibliographic": "",
@@ -2059,7 +2059,6 @@
     "currencies": [
       "FKP"
     ],
-    "emoji": "🇫🇰",
     "ioc": "",
     "name": "Falkland Islands",
     "status": "assigned",
@@ -2068,6 +2067,7 @@
     "calls": [
       "+500"
     ],
+    "flag": "🇫🇰",
     "lang": [
       {
         "bibliographic": "",
@@ -2083,7 +2083,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇫🇲",
     "ioc": "FSM",
     "name": "Micronesia, Federated States Of",
     "status": "assigned",
@@ -2092,6 +2091,7 @@
     "calls": [
       "+691"
     ],
+    "flag": "🇫🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -2107,7 +2107,6 @@
     "currencies": [
       "DKK"
     ],
-    "emoji": "🇫🇴",
     "ioc": "FAI",
     "name": "Faroe Islands",
     "status": "assigned",
@@ -2116,6 +2115,7 @@
     "calls": [
       "+298"
     ],
+    "flag": "🇫🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -2147,7 +2147,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇫🇷",
     "ioc": "FRA",
     "name": "France",
     "status": "assigned",
@@ -2156,6 +2155,7 @@
     "calls": [
       "+33"
     ],
+    "flag": "🇫🇷",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -2171,7 +2171,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "",
     "ioc": "",
     "name": "France, Metropolitan",
     "status": "reserved",
@@ -2180,6 +2179,7 @@
     "calls": [
       "+241"
     ],
+    "flag": "",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -2193,7 +2193,6 @@
     "currencies": [
       "XAF"
     ],
-    "emoji": "🇬🇦",
     "ioc": "GAB",
     "name": "Gabon",
     "status": "assigned",
@@ -2202,6 +2201,7 @@
     "calls": [
       "+241"
     ],
+    "flag": "🇬🇦",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -2217,7 +2217,6 @@
     "currencies": [
       "GBP"
     ],
-    "emoji": "🇬🇧",
     "ioc": "GBR",
     "name": "United Kingdom",
     "status": "assigned",
@@ -2226,6 +2225,7 @@
     "calls": [
       "+44"
     ],
+    "flag": "🇬🇧",
     "lang": [
       {
         "bibliographic": "",
@@ -2265,7 +2265,6 @@
     "currencies": [
       "XCD"
     ],
-    "emoji": "🇬🇩",
     "ioc": "GRN",
     "name": "Grenada",
     "status": "assigned",
@@ -2274,6 +2273,7 @@
     "calls": [
       "+473"
     ],
+    "flag": "🇬🇩",
     "lang": [
       {
         "bibliographic": "",
@@ -2289,7 +2289,6 @@
     "currencies": [
       "GEL"
     ],
-    "emoji": "🇬🇪",
     "ioc": "GEO",
     "name": "Georgia",
     "status": "assigned",
@@ -2298,6 +2297,7 @@
     "calls": [
       "+995"
     ],
+    "flag": "🇬🇪",
     "lang": [
       {
         "bibliographic": "GEO",
@@ -2323,7 +2323,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇬🇫",
     "ioc": "",
     "name": "French Guiana",
     "status": "assigned",
@@ -2332,6 +2331,7 @@
     "calls": [
       "+594"
     ],
+    "flag": "🇬🇫",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -2347,7 +2347,6 @@
     "currencies": [
       "GBP"
     ],
-    "emoji": "🇬🇬",
     "ioc": "GCI",
     "name": "Guernsey",
     "status": "assigned",
@@ -2356,6 +2355,7 @@
     "calls": [
       "+44"
     ],
+    "flag": "🇬🇬",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -2371,7 +2371,6 @@
     "currencies": [
       "GHS"
     ],
-    "emoji": "🇬🇭",
     "ioc": "GHA",
     "name": "Ghana",
     "status": "assigned",
@@ -2380,6 +2379,7 @@
     "calls": [
       "+233"
     ],
+    "flag": "🇬🇭",
     "lang": [
       {
         "bibliographic": "",
@@ -2395,7 +2395,6 @@
     "currencies": [
       "GIP"
     ],
-    "emoji": "🇬🇮",
     "ioc": "",
     "name": "Gibraltar",
     "status": "assigned",
@@ -2404,6 +2403,7 @@
     "calls": [
       "+350"
     ],
+    "flag": "🇬🇮",
     "lang": [
       {
         "bibliographic": "",
@@ -2419,7 +2419,6 @@
     "currencies": [
       "DKK"
     ],
-    "emoji": "🇬🇱",
     "ioc": "",
     "name": "Greenland",
     "status": "assigned",
@@ -2428,6 +2427,7 @@
     "calls": [
       "+299"
     ],
+    "flag": "🇬🇱",
     "lang": [
       {
         "bibliographic": "",
@@ -2443,7 +2443,6 @@
     "currencies": [
       "GMD"
     ],
-    "emoji": "🇬🇲",
     "ioc": "GAM",
     "name": "Gambia",
     "status": "assigned",
@@ -2452,6 +2451,7 @@
     "calls": [
       "+220"
     ],
+    "flag": "🇬🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -2467,7 +2467,6 @@
     "currencies": [
       "GNF"
     ],
-    "emoji": "🇬🇳",
     "ioc": "GUI",
     "name": "Guinea",
     "status": "assigned",
@@ -2476,6 +2475,7 @@
     "calls": [
       "+224"
     ],
+    "flag": "🇬🇳",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -2491,7 +2491,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇬🇵",
     "ioc": "",
     "name": "Guadeloupe",
     "status": "assigned",
@@ -2500,6 +2499,7 @@
     "calls": [
       "+590"
     ],
+    "flag": "🇬🇵",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -2515,7 +2515,6 @@
     "currencies": [
       "XAF"
     ],
-    "emoji": "🇬🇶",
     "ioc": "GEQ",
     "name": "Equatorial Guinea",
     "status": "assigned",
@@ -2524,6 +2523,7 @@
     "calls": [
       "+240"
     ],
+    "flag": "🇬🇶",
     "lang": [
       {
         "bibliographic": "",
@@ -2551,7 +2551,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇬🇷",
     "ioc": "GRE",
     "name": "Greece",
     "status": "assigned",
@@ -2560,6 +2559,7 @@
     "calls": [
       "+30"
     ],
+    "flag": "🇬🇷",
     "lang": [
       {
         "bibliographic": "GRE",
@@ -2575,7 +2575,6 @@
     "currencies": [
       "GBP"
     ],
-    "emoji": "🇬🇸",
     "ioc": "",
     "name": "South Georgia And The South Sandwich Islands",
     "status": "assigned",
@@ -2584,6 +2583,7 @@
     "calls": [
       "+500"
     ],
+    "flag": "🇬🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -2599,7 +2599,6 @@
     "currencies": [
       "GTQ"
     ],
-    "emoji": "🇬🇹",
     "ioc": "GUA",
     "name": "Guatemala",
     "status": "assigned",
@@ -2608,6 +2607,7 @@
     "calls": [
       "+502"
     ],
+    "flag": "🇬🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -2623,7 +2623,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇬🇺",
     "ioc": "GUM",
     "name": "Guam",
     "status": "assigned",
@@ -2632,6 +2631,7 @@
     "calls": [
       "+1 671"
     ],
+    "flag": "🇬🇺",
     "lang": [
       {
         "bibliographic": "",
@@ -2647,7 +2647,6 @@
     "currencies": [
       "XOF"
     ],
-    "emoji": "🇬🇼",
     "ioc": "GBS",
     "name": "Guinea-bissau",
     "status": "assigned",
@@ -2656,6 +2655,7 @@
     "calls": [
       "+245"
     ],
+    "flag": "🇬🇼",
     "lang": [
       {
         "bibliographic": "",
@@ -2671,7 +2671,6 @@
     "currencies": [
       "GYD"
     ],
-    "emoji": "🇬🇾",
     "ioc": "GUY",
     "name": "Guyana",
     "status": "assigned",
@@ -2680,6 +2679,7 @@
     "calls": [
       "+592"
     ],
+    "flag": "🇬🇾",
     "lang": [
       {
         "bibliographic": "",
@@ -2695,7 +2695,6 @@
     "currencies": [
       "HKD"
     ],
-    "emoji": "🇭🇰",
     "ioc": "HKG",
     "name": "Hong Kong",
     "status": "assigned",
@@ -2704,6 +2703,7 @@
     "calls": [
       "+852"
     ],
+    "flag": "🇭🇰",
     "lang": [
       {
         "bibliographic": "CHI",
@@ -2725,13 +2725,13 @@
     "currencies": [
       "AUD"
     ],
-    "emoji": "🇭🇲",
     "ioc": "",
     "name": "Heard Island And McDonald Islands",
     "status": "assigned",
     "iso2": "HM",
     "iso3": "HMD",
     "calls": [],
+    "flag": "🇭🇲",
     "lang": [],
     "continent": "Antartica",
     "region": "Antartica"
@@ -2740,7 +2740,6 @@
     "currencies": [
       "HNL"
     ],
-    "emoji": "🇭🇳",
     "ioc": "HON",
     "name": "Honduras",
     "status": "assigned",
@@ -2749,6 +2748,7 @@
     "calls": [
       "+504"
     ],
+    "flag": "🇭🇳",
     "lang": [
       {
         "bibliographic": "",
@@ -2764,7 +2764,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇭🇷",
     "ioc": "CRO",
     "name": "Croatia",
     "status": "assigned",
@@ -2773,6 +2772,7 @@
     "calls": [
       "+385"
     ],
+    "flag": "🇭🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -2789,7 +2789,6 @@
       "HTG",
       "USD"
     ],
-    "emoji": "🇭🇹",
     "ioc": "HAI",
     "name": "Haiti",
     "status": "assigned",
@@ -2798,6 +2797,7 @@
     "calls": [
       "+509"
     ],
+    "flag": "🇭🇹",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -2819,7 +2819,6 @@
     "currencies": [
       "HUF"
     ],
-    "emoji": "🇭🇺",
     "ioc": "HUN",
     "name": "Hungary",
     "status": "assigned",
@@ -2828,6 +2827,7 @@
     "calls": [
       "+36"
     ],
+    "flag": "🇭🇺",
     "lang": [
       {
         "bibliographic": "",
@@ -2853,20 +2853,19 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "",
     "ioc": "",
     "name": "Canary Islands",
     "status": "reserved",
     "iso2": "IC",
     "iso3": "",
     "calls": [],
+    "flag": "",
     "lang": []
   },
   {
     "currencies": [
       "IDR"
     ],
-    "emoji": "🇮🇩",
     "ioc": "INA",
     "name": "Indonesia",
     "status": "assigned",
@@ -2875,6 +2874,7 @@
     "calls": [
       "+62"
     ],
+    "flag": "🇮🇩",
     "lang": [
       {
         "bibliographic": "",
@@ -2890,7 +2890,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇮🇪",
     "ioc": "IRL",
     "name": "Ireland",
     "status": "assigned",
@@ -2899,6 +2898,7 @@
     "calls": [
       "+353"
     ],
+    "flag": "🇮🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -2920,7 +2920,6 @@
     "currencies": [
       "ILS"
     ],
-    "emoji": "🇮🇱",
     "ioc": "ISR",
     "name": "Israel",
     "status": "assigned",
@@ -2929,6 +2928,7 @@
     "calls": [
       "+972"
     ],
+    "flag": "🇮🇱",
     "lang": [
       {
         "bibliographic": "",
@@ -2956,7 +2956,6 @@
     "currencies": [
       "GBP"
     ],
-    "emoji": "🇮🇲",
     "ioc": "",
     "name": "Isle Of Man",
     "status": "assigned",
@@ -2965,6 +2964,7 @@
     "calls": [
       "+44"
     ],
+    "flag": "🇮🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -2986,7 +2986,6 @@
     "currencies": [
       "INR"
     ],
-    "emoji": "🇮🇳",
     "ioc": "IND",
     "name": "India",
     "status": "assigned",
@@ -2995,6 +2994,7 @@
     "calls": [
       "+91"
     ],
+    "flag": "🇮🇳",
     "lang": [
       {
         "bibliographic": "",
@@ -3016,7 +3016,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇮🇴",
     "ioc": "",
     "name": "British Indian Ocean Territory",
     "status": "assigned",
@@ -3025,6 +3024,7 @@
     "calls": [
       "+246"
     ],
+    "flag": "🇮🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -3040,7 +3040,6 @@
     "currencies": [
       "IQD"
     ],
-    "emoji": "🇮🇶",
     "ioc": "IRQ",
     "name": "Iraq",
     "status": "assigned",
@@ -3049,6 +3048,7 @@
     "calls": [
       "+964"
     ],
+    "flag": "🇮🇶",
     "lang": [
       {
         "bibliographic": "",
@@ -3070,7 +3070,6 @@
     "currencies": [
       "IRR"
     ],
-    "emoji": "🇮🇷",
     "ioc": "IRI",
     "name": "Iran, Islamic Republic Of",
     "status": "assigned",
@@ -3079,6 +3078,7 @@
     "calls": [
       "+98"
     ],
+    "flag": "🇮🇷",
     "lang": [
       {
         "bibliographic": "PER",
@@ -3094,7 +3094,6 @@
     "currencies": [
       "ISK"
     ],
-    "emoji": "🇮🇸",
     "ioc": "ISL",
     "name": "Iceland",
     "status": "assigned",
@@ -3103,6 +3102,7 @@
     "calls": [
       "+354"
     ],
+    "flag": "🇮🇸",
     "lang": [
       {
         "bibliographic": "ICE",
@@ -3118,7 +3118,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇮🇹",
     "ioc": "ITA",
     "name": "Italy",
     "status": "assigned",
@@ -3127,6 +3126,7 @@
     "calls": [
       "+39"
     ],
+    "flag": "🇮🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -3142,7 +3142,6 @@
     "currencies": [
       "GBP"
     ],
-    "emoji": "🇯🇪",
     "ioc": "JCI",
     "name": "Jersey",
     "status": "assigned",
@@ -3151,6 +3150,7 @@
     "calls": [
       "+44"
     ],
+    "flag": "🇯🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -3172,7 +3172,6 @@
     "currencies": [
       "JMD"
     ],
-    "emoji": "🇯🇲",
     "ioc": "JAM",
     "name": "Jamaica",
     "status": "assigned",
@@ -3181,6 +3180,7 @@
     "calls": [
       "+1 876"
     ],
+    "flag": "🇯🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -3196,7 +3196,6 @@
     "currencies": [
       "JOD"
     ],
-    "emoji": "🇯🇴",
     "ioc": "JOR",
     "name": "Jordan",
     "status": "assigned",
@@ -3205,6 +3204,7 @@
     "calls": [
       "+962"
     ],
+    "flag": "🇯🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -3220,7 +3220,6 @@
     "currencies": [
       "JPY"
     ],
-    "emoji": "🇯🇵",
     "ioc": "JPN",
     "name": "Japan",
     "status": "assigned",
@@ -3229,6 +3228,7 @@
     "calls": [
       "+81"
     ],
+    "flag": "🇯🇵",
     "lang": [
       {
         "bibliographic": "",
@@ -3254,7 +3254,6 @@
     "currencies": [
       "KES"
     ],
-    "emoji": "🇰🇪",
     "ioc": "KEN",
     "name": "Kenya",
     "status": "assigned",
@@ -3263,6 +3262,7 @@
     "calls": [
       "+254"
     ],
+    "flag": "🇰🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -3284,7 +3284,6 @@
     "currencies": [
       "KGS"
     ],
-    "emoji": "🇰🇬",
     "ioc": "KGZ",
     "name": "Kyrgyzstan",
     "status": "assigned",
@@ -3293,6 +3292,7 @@
     "calls": [
       "+996"
     ],
+    "flag": "🇰🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -3308,7 +3308,6 @@
     "currencies": [
       "KHR"
     ],
-    "emoji": "🇰🇭",
     "ioc": "CAM",
     "name": "Cambodia",
     "status": "assigned",
@@ -3317,6 +3316,7 @@
     "calls": [
       "+855"
     ],
+    "flag": "🇰🇭",
     "lang": [
       {
         "bibliographic": "",
@@ -3332,7 +3332,6 @@
     "currencies": [
       "AUD"
     ],
-    "emoji": "🇰🇮",
     "ioc": "KIR",
     "name": "Kiribati",
     "status": "assigned",
@@ -3341,6 +3340,7 @@
     "calls": [
       "+686"
     ],
+    "flag": "🇰🇮",
     "lang": [
       {
         "bibliographic": "",
@@ -3356,7 +3356,6 @@
     "currencies": [
       "KMF"
     ],
-    "emoji": "🇰🇲",
     "ioc": "COM",
     "name": "Comoros",
     "status": "assigned",
@@ -3365,6 +3364,7 @@
     "calls": [
       "+269"
     ],
+    "flag": "🇰🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -3386,7 +3386,6 @@
     "currencies": [
       "XCD"
     ],
-    "emoji": "🇰🇳",
     "ioc": "SKN",
     "name": "Saint Kitts And Nevis",
     "status": "assigned",
@@ -3395,6 +3394,7 @@
     "calls": [
       "+1 869"
     ],
+    "flag": "🇰🇳",
     "lang": [
       {
         "bibliographic": "",
@@ -3410,7 +3410,6 @@
     "currencies": [
       "KPW"
     ],
-    "emoji": "🇰🇵",
     "ioc": "PRK",
     "name": "Korea, Democratic People's Republic Of",
     "status": "assigned",
@@ -3419,6 +3418,7 @@
     "calls": [
       "+850"
     ],
+    "flag": "🇰🇵",
     "lang": [
       {
         "bibliographic": "",
@@ -3434,7 +3434,6 @@
     "currencies": [
       "KRW"
     ],
-    "emoji": "🇰🇷",
     "ioc": "KOR",
     "name": "Korea, Republic Of",
     "status": "assigned",
@@ -3443,6 +3442,7 @@
     "calls": [
       "+82"
     ],
+    "flag": "🇰🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -3458,7 +3458,6 @@
     "currencies": [
       "KWD"
     ],
-    "emoji": "🇰🇼",
     "ioc": "KUW",
     "name": "Kuwait",
     "status": "assigned",
@@ -3467,6 +3466,7 @@
     "calls": [
       "+965"
     ],
+    "flag": "🇰🇼",
     "lang": [
       {
         "bibliographic": "",
@@ -3482,7 +3482,6 @@
     "currencies": [
       "KYD"
     ],
-    "emoji": "🇰🇾",
     "ioc": "CAY",
     "name": "Cayman Islands",
     "status": "assigned",
@@ -3491,6 +3490,7 @@
     "calls": [
       "+1 345"
     ],
+    "flag": "🇰🇾",
     "lang": [
       {
         "bibliographic": "",
@@ -3506,7 +3506,6 @@
     "currencies": [
       "KZT"
     ],
-    "emoji": "🇰🇿",
     "ioc": "KAZ",
     "name": "Kazakhstan",
     "status": "assigned",
@@ -3517,6 +3516,7 @@
       "+7 6",
       "+7 7"
     ],
+    "flag": "🇰🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -3538,7 +3538,6 @@
     "currencies": [
       "LAK"
     ],
-    "emoji": "🇱🇦",
     "ioc": "LAO",
     "name": "Lao People's Democratic Republic",
     "status": "assigned",
@@ -3547,6 +3546,7 @@
     "calls": [
       "+856"
     ],
+    "flag": "🇱🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -3562,7 +3562,6 @@
     "currencies": [
       "LBP"
     ],
-    "emoji": "🇱🇧",
     "ioc": "LIB",
     "name": "Lebanon",
     "status": "assigned",
@@ -3571,6 +3570,7 @@
     "calls": [
       "+961"
     ],
+    "flag": "🇱🇧",
     "lang": [
       {
         "bibliographic": "",
@@ -3592,7 +3592,6 @@
     "currencies": [
       "XCD"
     ],
-    "emoji": "🇱🇨",
     "ioc": "LCA",
     "name": "Saint Lucia",
     "status": "assigned",
@@ -3601,6 +3600,7 @@
     "calls": [
       "+1 758"
     ],
+    "flag": "🇱🇨",
     "lang": [
       {
         "bibliographic": "",
@@ -3616,7 +3616,6 @@
     "currencies": [
       "CHF"
     ],
-    "emoji": "🇱🇮",
     "ioc": "LIE",
     "name": "Liechtenstein",
     "status": "assigned",
@@ -3625,6 +3624,7 @@
     "calls": [
       "+423"
     ],
+    "flag": "🇱🇮",
     "lang": [
       {
         "bibliographic": "GER",
@@ -3640,7 +3640,6 @@
     "currencies": [
       "LKR"
     ],
-    "emoji": "🇱🇰",
     "ioc": "SRI",
     "name": "Sri Lanka",
     "status": "assigned",
@@ -3649,6 +3648,7 @@
     "calls": [
       "+94"
     ],
+    "flag": "🇱🇰",
     "lang": [
       {
         "bibliographic": "",
@@ -3670,7 +3670,6 @@
     "currencies": [
       "LRD"
     ],
-    "emoji": "🇱🇷",
     "ioc": "LBR",
     "name": "Liberia",
     "status": "assigned",
@@ -3679,6 +3678,7 @@
     "calls": [
       "+231"
     ],
+    "flag": "🇱🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -3695,7 +3695,6 @@
       "LSL",
       "ZAR"
     ],
-    "emoji": "🇱🇸",
     "ioc": "LES",
     "name": "Lesotho",
     "status": "assigned",
@@ -3704,6 +3703,7 @@
     "calls": [
       "+266"
     ],
+    "flag": "🇱🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -3725,7 +3725,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇱🇹",
     "ioc": "LTU",
     "name": "Lithuania",
     "status": "assigned",
@@ -3734,6 +3733,7 @@
     "calls": [
       "+370"
     ],
+    "flag": "🇱🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -3749,7 +3749,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇱🇺",
     "ioc": "LUX",
     "name": "Luxembourg",
     "status": "assigned",
@@ -3758,6 +3757,7 @@
     "calls": [
       "+352"
     ],
+    "flag": "🇱🇺",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -3785,7 +3785,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇱🇻",
     "ioc": "LAT",
     "name": "Latvia",
     "status": "assigned",
@@ -3794,6 +3793,7 @@
     "calls": [
       "+371"
     ],
+    "flag": "🇱🇻",
     "lang": [
       {
         "bibliographic": "",
@@ -3809,7 +3809,6 @@
     "currencies": [
       "LYD"
     ],
-    "emoji": "🇱🇾",
     "ioc": "LBA",
     "name": "Libya",
     "status": "assigned",
@@ -3818,6 +3817,7 @@
     "calls": [
       "+218"
     ],
+    "flag": "🇱🇾",
     "lang": [
       {
         "bibliographic": "",
@@ -3833,7 +3833,6 @@
     "currencies": [
       "MAD"
     ],
-    "emoji": "🇲🇦",
     "ioc": "MAR",
     "name": "Morocco",
     "status": "assigned",
@@ -3842,6 +3841,7 @@
     "calls": [
       "+212"
     ],
+    "flag": "🇲🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -3857,7 +3857,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇲🇨",
     "ioc": "MON",
     "name": "Monaco",
     "status": "assigned",
@@ -3866,6 +3865,7 @@
     "calls": [
       "+377"
     ],
+    "flag": "🇲🇨",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -3881,7 +3881,6 @@
     "currencies": [
       "MDL"
     ],
-    "emoji": "🇲🇩",
     "ioc": "MDA",
     "name": "Moldova",
     "status": "assigned",
@@ -3890,6 +3889,7 @@
     "calls": [
       "+373"
     ],
+    "flag": "🇲🇩",
     "lang": [
       {
         "bibliographic": "RUM",
@@ -3905,7 +3905,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇲🇪",
     "ioc": "MNE",
     "name": "Montenegro",
     "status": "assigned",
@@ -3914,6 +3913,7 @@
     "calls": [
       "+382"
     ],
+    "flag": "🇲🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -3929,7 +3929,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇲🇫",
     "ioc": "",
     "name": "Saint Martin",
     "status": "assigned",
@@ -3938,6 +3937,7 @@
     "calls": [
       "+590"
     ],
+    "flag": "🇲🇫",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -3953,7 +3953,6 @@
     "currencies": [
       "MGA"
     ],
-    "emoji": "🇲🇬",
     "ioc": "MAD",
     "name": "Madagascar",
     "status": "assigned",
@@ -3962,6 +3961,7 @@
     "calls": [
       "+261"
     ],
+    "flag": "🇲🇬",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -3983,7 +3983,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇲🇭",
     "ioc": "MHL",
     "name": "Marshall Islands",
     "status": "assigned",
@@ -3992,6 +3991,7 @@
     "calls": [
       "+692"
     ],
+    "flag": "🇲🇭",
     "lang": [
       {
         "bibliographic": "",
@@ -4023,7 +4023,6 @@
     "currencies": [
       "MKD"
     ],
-    "emoji": "🇲🇰",
     "ioc": "MKD",
     "name": "Macedonia, The Former Yugoslav Republic Of",
     "status": "assigned",
@@ -4032,6 +4031,7 @@
     "calls": [
       "+389"
     ],
+    "flag": "🇲🇰",
     "lang": [
       {
         "bibliographic": "MAC",
@@ -4047,7 +4047,6 @@
     "currencies": [
       "XOF"
     ],
-    "emoji": "🇲🇱",
     "ioc": "MLI",
     "name": "Mali",
     "status": "assigned",
@@ -4056,6 +4055,7 @@
     "calls": [
       "+223"
     ],
+    "flag": "🇲🇱",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -4071,7 +4071,6 @@
     "currencies": [
       "MMK"
     ],
-    "emoji": "🇲🇲",
     "ioc": "MYA",
     "name": "Myanmar",
     "status": "assigned",
@@ -4080,6 +4079,7 @@
     "calls": [
       "+95"
     ],
+    "flag": "🇲🇲",
     "lang": [
       {
         "bibliographic": "BUR",
@@ -4095,7 +4095,6 @@
     "currencies": [
       "MNT"
     ],
-    "emoji": "🇲🇳",
     "ioc": "MGL",
     "name": "Mongolia",
     "status": "assigned",
@@ -4104,6 +4103,7 @@
     "calls": [
       "+976"
     ],
+    "flag": "🇲🇳",
     "lang": [
       {
         "bibliographic": "",
@@ -4119,7 +4119,6 @@
     "currencies": [
       "MOP"
     ],
-    "emoji": "🇲🇴",
     "ioc": "MAC",
     "name": "Macao",
     "status": "assigned",
@@ -4128,6 +4127,7 @@
     "calls": [
       "+853"
     ],
+    "flag": "🇲🇴",
     "lang": [
       {
         "bibliographic": "CHI",
@@ -4149,7 +4149,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇲🇵",
     "ioc": "",
     "name": "Northern Mariana Islands",
     "status": "assigned",
@@ -4158,6 +4157,7 @@
     "calls": [
       "+1 670"
     ],
+    "flag": "🇲🇵",
     "lang": [
       {
         "bibliographic": "",
@@ -4173,7 +4173,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇲🇶",
     "ioc": "",
     "name": "Martinique",
     "status": "assigned",
@@ -4182,6 +4181,7 @@
     "calls": [
       "+596"
     ],
+    "flag": "🇲🇶",
     "lang": [],
     "continent": "North America",
     "region": "Caribbean"
@@ -4190,7 +4190,6 @@
     "currencies": [
       "MRO"
     ],
-    "emoji": "🇲🇷",
     "ioc": "MTN",
     "name": "Mauritania",
     "status": "assigned",
@@ -4199,6 +4198,7 @@
     "calls": [
       "+222"
     ],
+    "flag": "🇲🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -4220,7 +4220,6 @@
     "currencies": [
       "XCD"
     ],
-    "emoji": "🇲🇸",
     "ioc": "",
     "name": "Montserrat",
     "status": "assigned",
@@ -4229,6 +4228,7 @@
     "calls": [
       "+1 664"
     ],
+    "flag": "🇲🇸",
     "lang": [],
     "continent": "North America",
     "region": "Caribbean"
@@ -4237,7 +4237,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇲🇹",
     "ioc": "MLT",
     "name": "Malta",
     "status": "assigned",
@@ -4246,6 +4245,7 @@
     "calls": [
       "+356"
     ],
+    "flag": "🇲🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -4267,7 +4267,6 @@
     "currencies": [
       "MUR"
     ],
-    "emoji": "🇲🇺",
     "ioc": "MRI",
     "name": "Mauritius",
     "status": "assigned",
@@ -4276,6 +4275,7 @@
     "calls": [
       "+230"
     ],
+    "flag": "🇲🇺",
     "lang": [
       {
         "bibliographic": "",
@@ -4297,7 +4297,6 @@
     "currencies": [
       "MVR"
     ],
-    "emoji": "🇲🇻",
     "ioc": "MDV",
     "name": "Maldives",
     "status": "assigned",
@@ -4306,6 +4305,7 @@
     "calls": [
       "+960"
     ],
+    "flag": "🇲🇻",
     "lang": [
       {
         "bibliographic": "",
@@ -4321,7 +4321,6 @@
     "currencies": [
       "MWK"
     ],
-    "emoji": "🇲🇼",
     "ioc": "MAW",
     "name": "Malawi",
     "status": "assigned",
@@ -4330,6 +4329,7 @@
     "calls": [
       "+265"
     ],
+    "flag": "🇲🇼",
     "lang": [
       {
         "bibliographic": "",
@@ -4352,7 +4352,6 @@
       "MXN",
       "MXV"
     ],
-    "emoji": "🇲🇽",
     "ioc": "MEX",
     "name": "Mexico",
     "status": "assigned",
@@ -4361,6 +4360,7 @@
     "calls": [
       "+52"
     ],
+    "flag": "🇲🇽",
     "lang": [
       {
         "bibliographic": "",
@@ -4376,7 +4376,6 @@
     "currencies": [
       "MYR"
     ],
-    "emoji": "🇲🇾",
     "ioc": "MAS",
     "name": "Malaysia",
     "status": "assigned",
@@ -4385,6 +4384,7 @@
     "calls": [
       "+60"
     ],
+    "flag": "🇲🇾",
     "lang": [
       {
         "bibliographic": "MAY",
@@ -4406,7 +4406,6 @@
     "currencies": [
       "MZN"
     ],
-    "emoji": "🇲🇿",
     "ioc": "MOZ",
     "name": "Mozambique",
     "status": "assigned",
@@ -4415,6 +4414,7 @@
     "calls": [
       "+258"
     ],
+    "flag": "🇲🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -4431,7 +4431,6 @@
       "NAD",
       "ZAR"
     ],
-    "emoji": "🇳🇦",
     "ioc": "NAM",
     "name": "Namibia",
     "status": "assigned",
@@ -4440,6 +4439,7 @@
     "calls": [
       "+264"
     ],
+    "flag": "🇳🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -4455,7 +4455,6 @@
     "currencies": [
       "XPF"
     ],
-    "emoji": "🇳🇨",
     "ioc": "",
     "name": "New Caledonia",
     "status": "assigned",
@@ -4464,6 +4463,7 @@
     "calls": [
       "+687"
     ],
+    "flag": "🇳🇨",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -4479,7 +4479,6 @@
     "currencies": [
       "XOF"
     ],
-    "emoji": "🇳🇪",
     "ioc": "NIG",
     "name": "Niger",
     "status": "assigned",
@@ -4488,6 +4487,7 @@
     "calls": [
       "+227"
     ],
+    "flag": "🇳🇪",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -4503,7 +4503,6 @@
     "currencies": [
       "AUD"
     ],
-    "emoji": "🇳🇫",
     "ioc": "",
     "name": "Norfolk Island",
     "status": "assigned",
@@ -4512,6 +4511,7 @@
     "calls": [
       "+672"
     ],
+    "flag": "🇳🇫",
     "lang": [
       {
         "bibliographic": "",
@@ -4527,7 +4527,6 @@
     "currencies": [
       "NGN"
     ],
-    "emoji": "🇳🇬",
     "ioc": "NGR",
     "name": "Nigeria",
     "status": "assigned",
@@ -4536,6 +4535,7 @@
     "calls": [
       "+234"
     ],
+    "flag": "🇳🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -4561,7 +4561,6 @@
     "currencies": [
       "NIO"
     ],
-    "emoji": "🇳🇮",
     "ioc": "NCA",
     "name": "Nicaragua",
     "status": "assigned",
@@ -4570,6 +4569,7 @@
     "calls": [
       "+505"
     ],
+    "flag": "🇳🇮",
     "lang": [
       {
         "bibliographic": "",
@@ -4585,7 +4585,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇳🇱",
     "ioc": "NED",
     "name": "Netherlands",
     "status": "assigned",
@@ -4594,6 +4593,7 @@
     "calls": [
       "+31"
     ],
+    "flag": "🇳🇱",
     "lang": [
       {
         "bibliographic": "DUT",
@@ -4609,7 +4609,6 @@
     "currencies": [
       "NOK"
     ],
-    "emoji": "🇳🇴",
     "ioc": "NOR",
     "name": "Norway",
     "status": "assigned",
@@ -4618,6 +4617,7 @@
     "calls": [
       "+47"
     ],
+    "flag": "🇳🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -4633,7 +4633,6 @@
     "currencies": [
       "NPR"
     ],
-    "emoji": "🇳🇵",
     "ioc": "NEP",
     "name": "Nepal",
     "status": "assigned",
@@ -4642,6 +4641,7 @@
     "calls": [
       "+977"
     ],
+    "flag": "🇳🇵",
     "lang": [
       {
         "bibliographic": "",
@@ -4667,7 +4667,6 @@
     "currencies": [
       "AUD"
     ],
-    "emoji": "🇳🇷",
     "ioc": "NRU",
     "name": "Nauru",
     "status": "assigned",
@@ -4676,6 +4675,7 @@
     "calls": [
       "+674"
     ],
+    "flag": "🇳🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -4707,7 +4707,6 @@
     "currencies": [
       "NZD"
     ],
-    "emoji": "🇳🇺",
     "ioc": "",
     "name": "Niue",
     "status": "assigned",
@@ -4716,6 +4715,7 @@
     "calls": [
       "+683"
     ],
+    "flag": "🇳🇺",
     "lang": [
       {
         "bibliographic": "",
@@ -4731,7 +4731,6 @@
     "currencies": [
       "NZD"
     ],
-    "emoji": "🇳🇿",
     "ioc": "NZL",
     "name": "New Zealand",
     "status": "assigned",
@@ -4740,6 +4739,7 @@
     "calls": [
       "+64"
     ],
+    "flag": "🇳🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -4755,7 +4755,6 @@
     "currencies": [
       "OMR"
     ],
-    "emoji": "🇴🇲",
     "ioc": "OMA",
     "name": "Oman",
     "status": "assigned",
@@ -4764,6 +4763,7 @@
     "calls": [
       "+968"
     ],
+    "flag": "🇴🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -4780,7 +4780,6 @@
       "PAB",
       "USD"
     ],
-    "emoji": "🇵🇦",
     "ioc": "PAN",
     "name": "Panama",
     "status": "assigned",
@@ -4789,6 +4788,7 @@
     "calls": [
       "+507"
     ],
+    "flag": "🇵🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -4814,7 +4814,6 @@
     "currencies": [
       "PEN"
     ],
-    "emoji": "🇵🇪",
     "ioc": "PER",
     "name": "Peru",
     "status": "assigned",
@@ -4823,6 +4822,7 @@
     "calls": [
       "+51"
     ],
+    "flag": "🇵🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -4850,7 +4850,6 @@
     "currencies": [
       "XPF"
     ],
-    "emoji": "🇵🇫",
     "ioc": "",
     "name": "French Polynesia",
     "status": "assigned",
@@ -4859,6 +4858,7 @@
     "calls": [
       "+689"
     ],
+    "flag": "🇵🇫",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -4874,7 +4874,6 @@
     "currencies": [
       "PGK"
     ],
-    "emoji": "🇵🇬",
     "ioc": "PNG",
     "name": "Papua New Guinea",
     "status": "assigned",
@@ -4883,6 +4882,7 @@
     "calls": [
       "+675"
     ],
+    "flag": "🇵🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -4898,7 +4898,6 @@
     "currencies": [
       "PHP"
     ],
-    "emoji": "🇵🇭",
     "ioc": "PHI",
     "name": "Philippines",
     "status": "assigned",
@@ -4907,6 +4906,7 @@
     "calls": [
       "+63"
     ],
+    "flag": "🇵🇭",
     "lang": [
       {
         "bibliographic": "",
@@ -4922,7 +4922,6 @@
     "currencies": [
       "PKR"
     ],
-    "emoji": "🇵🇰",
     "ioc": "PAK",
     "name": "Pakistan",
     "status": "assigned",
@@ -4931,6 +4930,7 @@
     "calls": [
       "+92"
     ],
+    "flag": "🇵🇰",
     "lang": [
       {
         "bibliographic": "",
@@ -4952,7 +4952,6 @@
     "currencies": [
       "PLN"
     ],
-    "emoji": "🇵🇱",
     "ioc": "POL",
     "name": "Poland",
     "status": "assigned",
@@ -4961,6 +4960,7 @@
     "calls": [
       "+48"
     ],
+    "flag": "🇵🇱",
     "lang": [
       {
         "bibliographic": "",
@@ -4976,7 +4976,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇵🇲",
     "ioc": "",
     "name": "Saint Pierre And Miquelon",
     "status": "assigned",
@@ -4985,6 +4984,7 @@
     "calls": [
       "+508"
     ],
+    "flag": "🇵🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -5000,7 +5000,6 @@
     "currencies": [
       "NZD"
     ],
-    "emoji": "🇵🇳",
     "ioc": "",
     "name": "Pitcairn",
     "status": "assigned",
@@ -5009,6 +5008,7 @@
     "calls": [
       "+872"
     ],
+    "flag": "🇵🇳",
     "lang": [
       {
         "bibliographic": "",
@@ -5024,7 +5024,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇵🇷",
     "ioc": "PUR",
     "name": "Puerto Rico",
     "status": "assigned",
@@ -5034,6 +5033,7 @@
       "+1 787",
       "+1 939"
     ],
+    "flag": "🇵🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -5057,7 +5057,6 @@
       "EGP",
       "ILS"
     ],
-    "emoji": "🇵🇸",
     "ioc": "PLE",
     "name": "Palestinian Territory, Occupied",
     "status": "assigned",
@@ -5066,6 +5065,7 @@
     "calls": [
       "+970"
     ],
+    "flag": "🇵🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -5081,7 +5081,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇵🇹",
     "ioc": "POR",
     "name": "Portugal",
     "status": "assigned",
@@ -5090,6 +5089,7 @@
     "calls": [
       "+351"
     ],
+    "flag": "🇵🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -5115,7 +5115,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇵🇼",
     "ioc": "PLW",
     "name": "Palau",
     "status": "assigned",
@@ -5124,6 +5123,7 @@
     "calls": [
       "+680"
     ],
+    "flag": "🇵🇼",
     "lang": [
       {
         "bibliographic": "",
@@ -5139,7 +5139,6 @@
     "currencies": [
       "PYG"
     ],
-    "emoji": "🇵🇾",
     "ioc": "PAR",
     "name": "Paraguay",
     "status": "assigned",
@@ -5148,6 +5147,7 @@
     "calls": [
       "+595"
     ],
+    "flag": "🇵🇾",
     "lang": [
       {
         "bibliographic": "",
@@ -5173,7 +5173,6 @@
     "currencies": [
       "QAR"
     ],
-    "emoji": "🇶🇦",
     "ioc": "QAT",
     "name": "Qatar",
     "status": "assigned",
@@ -5182,6 +5181,7 @@
     "calls": [
       "+974"
     ],
+    "flag": "🇶🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -5197,7 +5197,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇷🇪",
     "ioc": "",
     "name": "Reunion",
     "status": "assigned",
@@ -5206,6 +5205,7 @@
     "calls": [
       "+262"
     ],
+    "flag": "🇷🇪",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -5231,7 +5231,6 @@
     "currencies": [
       "RON"
     ],
-    "emoji": "🇷🇴",
     "ioc": "ROU",
     "name": "Romania",
     "status": "assigned",
@@ -5240,6 +5239,7 @@
     "calls": [
       "+40"
     ],
+    "flag": "🇷🇴",
     "lang": [
       {
         "bibliographic": "RUM",
@@ -5255,7 +5255,6 @@
     "currencies": [
       "RSD"
     ],
-    "emoji": "🇷🇸",
     "ioc": "SRB",
     "name": "Serbia",
     "status": "assigned",
@@ -5264,6 +5263,7 @@
     "calls": [
       "+381"
     ],
+    "flag": "🇷🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -5279,7 +5279,6 @@
     "currencies": [
       "RUB"
     ],
-    "emoji": "🇷🇺",
     "ioc": "RUS",
     "name": "Russia",
     "status": "assigned",
@@ -5291,6 +5290,7 @@
       "+7 4",
       "+7 8"
     ],
+    "flag": "🇷🇺",
     "lang": [
       {
         "bibliographic": "",
@@ -5306,7 +5306,6 @@
     "currencies": [
       "RWF"
     ],
-    "emoji": "🇷🇼",
     "ioc": "RWA",
     "name": "Rwanda",
     "status": "assigned",
@@ -5315,6 +5314,7 @@
     "calls": [
       "+250"
     ],
+    "flag": "🇷🇼",
     "lang": [
       {
         "bibliographic": "",
@@ -5342,7 +5342,6 @@
     "currencies": [
       "SAR"
     ],
-    "emoji": "🇸🇦",
     "ioc": "KSA",
     "name": "Saudi Arabia",
     "status": "assigned",
@@ -5351,6 +5350,7 @@
     "calls": [
       "+966"
     ],
+    "flag": "🇸🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -5366,7 +5366,6 @@
     "currencies": [
       "SBD"
     ],
-    "emoji": "🇸🇧",
     "ioc": "SOL",
     "name": "Solomon Islands",
     "status": "assigned",
@@ -5375,6 +5374,7 @@
     "calls": [
       "+677"
     ],
+    "flag": "🇸🇧",
     "lang": [
       {
         "bibliographic": "",
@@ -5390,7 +5390,6 @@
     "currencies": [
       "SCR"
     ],
-    "emoji": "🇸🇨",
     "ioc": "SEY",
     "name": "Seychelles",
     "status": "assigned",
@@ -5399,6 +5398,7 @@
     "calls": [
       "+248"
     ],
+    "flag": "🇸🇨",
     "lang": [
       {
         "bibliographic": "",
@@ -5420,7 +5420,6 @@
     "currencies": [
       "SDG"
     ],
-    "emoji": "🇸🇩",
     "ioc": "SUD",
     "name": "Sudan",
     "status": "assigned",
@@ -5429,6 +5428,7 @@
     "calls": [
       "+249"
     ],
+    "flag": "🇸🇩",
     "lang": [
       {
         "bibliographic": "",
@@ -5450,7 +5450,6 @@
     "currencies": [
       "SEK"
     ],
-    "emoji": "🇸🇪",
     "ioc": "SWE",
     "name": "Sweden",
     "status": "assigned",
@@ -5459,6 +5458,7 @@
     "calls": [
       "+46"
     ],
+    "flag": "🇸🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -5474,7 +5474,6 @@
     "currencies": [
       "SGD"
     ],
-    "emoji": "🇸🇬",
     "ioc": "SIN",
     "name": "Singapore",
     "status": "assigned",
@@ -5483,6 +5482,7 @@
     "calls": [
       "+65"
     ],
+    "flag": "🇸🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -5516,7 +5516,6 @@
     "currencies": [
       "SHP"
     ],
-    "emoji": "🇸🇭",
     "ioc": "",
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
     "status": "assigned",
@@ -5525,6 +5524,7 @@
     "calls": [
       "+290"
     ],
+    "flag": "🇸🇭",
     "lang": [
       {
         "bibliographic": "",
@@ -5540,7 +5540,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇸🇮",
     "ioc": "SLO",
     "name": "Slovenia",
     "status": "assigned",
@@ -5549,6 +5548,7 @@
     "calls": [
       "+386"
     ],
+    "flag": "🇸🇮",
     "lang": [
       {
         "bibliographic": "",
@@ -5564,7 +5564,6 @@
     "currencies": [
       "NOK"
     ],
-    "emoji": "🇸🇯",
     "ioc": "",
     "name": "Svalbard And Jan Mayen",
     "status": "assigned",
@@ -5573,6 +5572,7 @@
     "calls": [
       "+47"
     ],
+    "flag": "🇸🇯",
     "lang": [],
     "continent": "Europe",
     "region": "Northern Europe"
@@ -5581,7 +5581,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇸🇰",
     "ioc": "SVK",
     "name": "Slovakia",
     "status": "assigned",
@@ -5590,6 +5589,7 @@
     "calls": [
       "+421"
     ],
+    "flag": "🇸🇰",
     "lang": [
       {
         "bibliographic": "SLO",
@@ -5615,7 +5615,6 @@
     "currencies": [
       "SLL"
     ],
-    "emoji": "🇸🇱",
     "ioc": "SLE",
     "name": "Sierra Leone",
     "status": "assigned",
@@ -5624,6 +5623,7 @@
     "calls": [
       "+232"
     ],
+    "flag": "🇸🇱",
     "lang": [
       {
         "bibliographic": "",
@@ -5639,7 +5639,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇸🇲",
     "ioc": "SMR",
     "name": "San Marino",
     "status": "assigned",
@@ -5648,6 +5647,7 @@
     "calls": [
       "+378"
     ],
+    "flag": "🇸🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -5663,7 +5663,6 @@
     "currencies": [
       "XOF"
     ],
-    "emoji": "🇸🇳",
     "ioc": "SEN",
     "name": "Senegal",
     "status": "assigned",
@@ -5672,6 +5671,7 @@
     "calls": [
       "+221"
     ],
+    "flag": "🇸🇳",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -5687,7 +5687,6 @@
     "currencies": [
       "SOS"
     ],
-    "emoji": "🇸🇴",
     "ioc": "SOM",
     "name": "Somalia",
     "status": "assigned",
@@ -5696,6 +5695,7 @@
     "calls": [
       "+252"
     ],
+    "flag": "🇸🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -5711,7 +5711,6 @@
     "currencies": [
       "SRD"
     ],
-    "emoji": "🇸🇷",
     "ioc": "SUR",
     "name": "Suriname",
     "status": "assigned",
@@ -5720,6 +5719,7 @@
     "calls": [
       "+597"
     ],
+    "flag": "🇸🇷",
     "lang": [
       {
         "bibliographic": "DUT",
@@ -5735,7 +5735,6 @@
     "currencies": [
       "SSP"
     ],
-    "emoji": "🇸🇸",
     "ioc": "SSD",
     "name": "South Sudan",
     "status": "assigned",
@@ -5744,6 +5743,7 @@
     "calls": [
       "+211"
     ],
+    "flag": "🇸🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -5759,7 +5759,6 @@
     "currencies": [
       "STD"
     ],
-    "emoji": "🇸🇹",
     "ioc": "STP",
     "name": "Sao Tome and Principe",
     "status": "assigned",
@@ -5768,6 +5767,7 @@
     "calls": [
       "+239"
     ],
+    "flag": "🇸🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -5783,13 +5783,13 @@
     "currencies": [
       "RUB"
     ],
-    "emoji": "",
     "ioc": "",
     "name": "USSR",
     "status": "reserved",
     "iso2": "SU",
     "iso3": "",
     "calls": [],
+    "flag": "",
     "lang": [
       {
         "bibliographic": "",
@@ -5803,7 +5803,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇸🇻",
     "ioc": "ESA",
     "name": "El Salvador",
     "status": "assigned",
@@ -5812,6 +5811,7 @@
     "calls": [
       "+503"
     ],
+    "flag": "🇸🇻",
     "lang": [
       {
         "bibliographic": "",
@@ -5827,7 +5827,6 @@
     "currencies": [
       "ANG"
     ],
-    "emoji": "🇸🇽",
     "ioc": "",
     "name": "Sint Maarten",
     "status": "assigned",
@@ -5836,6 +5835,7 @@
     "calls": [
       "+1 721"
     ],
+    "flag": "🇸🇽",
     "lang": [
       {
         "bibliographic": "DUT",
@@ -5851,7 +5851,6 @@
     "currencies": [
       "SYP"
     ],
-    "emoji": "🇸🇾",
     "ioc": "SYR",
     "name": "Syrian Arab Republic",
     "status": "assigned",
@@ -5860,6 +5859,7 @@
     "calls": [
       "+963"
     ],
+    "flag": "🇸🇾",
     "lang": [
       {
         "bibliographic": "",
@@ -5875,7 +5875,6 @@
     "currencies": [
       "SZL"
     ],
-    "emoji": "🇸🇿",
     "ioc": "SWZ",
     "name": "Swaziland",
     "status": "assigned",
@@ -5884,6 +5883,7 @@
     "calls": [
       "+268"
     ],
+    "flag": "🇸🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -5905,7 +5905,6 @@
     "currencies": [
       "GBP"
     ],
-    "emoji": "",
     "ioc": "",
     "name": "Tristan de Cunha",
     "status": "reserved",
@@ -5914,13 +5913,13 @@
     "calls": [
       "+290"
     ],
+    "flag": "",
     "lang": []
   },
   {
     "currencies": [
       "USD"
     ],
-    "emoji": "🇹🇨",
     "ioc": "",
     "name": "Turks And Caicos Islands",
     "status": "assigned",
@@ -5929,6 +5928,7 @@
     "calls": [
       "+1 649"
     ],
+    "flag": "🇹🇨",
     "lang": [
       {
         "bibliographic": "",
@@ -5944,7 +5944,6 @@
     "currencies": [
       "XAF"
     ],
-    "emoji": "🇹🇩",
     "ioc": "CHA",
     "name": "Chad",
     "status": "assigned",
@@ -5953,6 +5952,7 @@
     "calls": [
       "+235"
     ],
+    "flag": "🇹🇩",
     "lang": [
       {
         "bibliographic": "",
@@ -5974,13 +5974,13 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇹🇫",
     "ioc": "",
     "name": "French Southern Territories",
     "status": "assigned",
     "iso2": "TF",
     "iso3": "ATF",
     "calls": [],
+    "flag": "🇹🇫",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -5996,7 +5996,6 @@
     "currencies": [
       "XOF"
     ],
-    "emoji": "🇹🇬",
     "ioc": "TOG",
     "name": "Togo",
     "status": "assigned",
@@ -6005,6 +6004,7 @@
     "calls": [
       "+228"
     ],
+    "flag": "🇹🇬",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -6020,7 +6020,6 @@
     "currencies": [
       "THB"
     ],
-    "emoji": "🇹🇭",
     "ioc": "THA",
     "name": "Thailand",
     "status": "assigned",
@@ -6029,6 +6028,7 @@
     "calls": [
       "+66"
     ],
+    "flag": "🇹🇭",
     "lang": [
       {
         "bibliographic": "",
@@ -6044,7 +6044,6 @@
     "currencies": [
       "TJS"
     ],
-    "emoji": "🇹🇯",
     "ioc": "TJK",
     "name": "Tajikistan",
     "status": "assigned",
@@ -6053,6 +6052,7 @@
     "calls": [
       "+992"
     ],
+    "flag": "🇹🇯",
     "lang": [
       {
         "bibliographic": "",
@@ -6074,7 +6074,6 @@
     "currencies": [
       "NZD"
     ],
-    "emoji": "🇹🇰",
     "ioc": "",
     "name": "Tokelau",
     "status": "assigned",
@@ -6083,6 +6082,7 @@
     "calls": [
       "+690"
     ],
+    "flag": "🇹🇰",
     "lang": [
       {
         "bibliographic": "",
@@ -6098,7 +6098,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇹🇱",
     "ioc": "TLS",
     "name": "Timor-Leste, Democratic Republic of",
     "status": "assigned",
@@ -6107,6 +6106,7 @@
     "calls": [
       "+670"
     ],
+    "flag": "🇹🇱",
     "lang": [
       {
         "bibliographic": "",
@@ -6122,7 +6122,6 @@
     "currencies": [
       "TMT"
     ],
-    "emoji": "🇹🇲",
     "ioc": "TKM",
     "name": "Turkmenistan",
     "status": "assigned",
@@ -6131,6 +6130,7 @@
     "calls": [
       "+993"
     ],
+    "flag": "🇹🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -6152,7 +6152,6 @@
     "currencies": [
       "TND"
     ],
-    "emoji": "🇹🇳",
     "ioc": "TUN",
     "name": "Tunisia",
     "status": "assigned",
@@ -6161,6 +6160,7 @@
     "calls": [
       "+216"
     ],
+    "flag": "🇹🇳",
     "lang": [
       {
         "bibliographic": "",
@@ -6176,7 +6176,6 @@
     "currencies": [
       "TOP"
     ],
-    "emoji": "🇹🇴",
     "ioc": "TGA",
     "name": "Tonga",
     "status": "assigned",
@@ -6185,6 +6184,7 @@
     "calls": [
       "+676"
     ],
+    "flag": "🇹🇴",
     "lang": [
       {
         "bibliographic": "",
@@ -6210,7 +6210,6 @@
     "currencies": [
       "TRY"
     ],
-    "emoji": "🇹🇷",
     "ioc": "TUR",
     "name": "Turkey",
     "status": "assigned",
@@ -6219,6 +6218,7 @@
     "calls": [
       "+90"
     ],
+    "flag": "🇹🇷",
     "lang": [
       {
         "bibliographic": "",
@@ -6234,7 +6234,6 @@
     "currencies": [
       "TTD"
     ],
-    "emoji": "🇹🇹",
     "ioc": "TTO",
     "name": "Trinidad And Tobago",
     "status": "assigned",
@@ -6243,6 +6242,7 @@
     "calls": [
       "+1 868"
     ],
+    "flag": "🇹🇹",
     "lang": [
       {
         "bibliographic": "",
@@ -6258,7 +6258,6 @@
     "currencies": [
       "AUD"
     ],
-    "emoji": "🇹🇻",
     "ioc": "TUV",
     "name": "Tuvalu",
     "status": "assigned",
@@ -6267,6 +6266,7 @@
     "calls": [
       "+688"
     ],
+    "flag": "🇹🇻",
     "lang": [
       {
         "bibliographic": "",
@@ -6282,7 +6282,6 @@
     "currencies": [
       "TWD"
     ],
-    "emoji": "🇹🇼",
     "ioc": "TPE",
     "name": "Taiwan",
     "status": "assigned",
@@ -6291,6 +6290,7 @@
     "calls": [
       "+886"
     ],
+    "flag": "🇹🇼",
     "lang": [
       {
         "bibliographic": "CHI",
@@ -6306,7 +6306,6 @@
     "currencies": [
       "TZS"
     ],
-    "emoji": "🇹🇿",
     "ioc": "TAN",
     "name": "Tanzania, United Republic Of",
     "status": "assigned",
@@ -6315,6 +6314,7 @@
     "calls": [
       "+255"
     ],
+    "flag": "🇹🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -6336,7 +6336,6 @@
     "currencies": [
       "UAH"
     ],
-    "emoji": "🇺🇦",
     "ioc": "UKR",
     "name": "Ukraine",
     "status": "assigned",
@@ -6345,6 +6344,7 @@
     "calls": [
       "+380"
     ],
+    "flag": "🇺🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -6366,7 +6366,6 @@
     "currencies": [
       "UGX"
     ],
-    "emoji": "🇺🇬",
     "ioc": "UGA",
     "name": "Uganda",
     "status": "assigned",
@@ -6375,6 +6374,7 @@
     "calls": [
       "+256"
     ],
+    "flag": "🇺🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -6396,7 +6396,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇺🇲",
     "ioc": "",
     "name": "United States Minor Outlying Islands",
     "status": "assigned",
@@ -6405,6 +6404,7 @@
     "calls": [
       "+1"
     ],
+    "flag": "🇺🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -6420,7 +6420,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇺🇸",
     "ioc": "USA",
     "name": "United States",
     "status": "assigned",
@@ -6429,6 +6428,7 @@
     "calls": [
       "+1"
     ],
+    "flag": "🇺🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -6445,7 +6445,6 @@
       "UYU",
       "UYI"
     ],
-    "emoji": "🇺🇾",
     "ioc": "URU",
     "name": "Uruguay",
     "status": "assigned",
@@ -6454,6 +6453,7 @@
     "calls": [
       "+598"
     ],
+    "flag": "🇺🇾",
     "lang": [
       {
         "bibliographic": "",
@@ -6469,7 +6469,6 @@
     "currencies": [
       "UZS"
     ],
-    "emoji": "🇺🇿",
     "ioc": "UZB",
     "name": "Uzbekistan",
     "status": "assigned",
@@ -6478,6 +6477,7 @@
     "calls": [
       "+998"
     ],
+    "flag": "🇺🇿",
     "lang": [
       {
         "bibliographic": "",
@@ -6499,7 +6499,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇻🇦",
     "ioc": "",
     "name": "Vatican City State",
     "status": "assigned",
@@ -6509,6 +6508,7 @@
       "+379",
       "+39"
     ],
+    "flag": "🇻🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -6524,7 +6524,6 @@
     "currencies": [
       "XCD"
     ],
-    "emoji": "🇻🇨",
     "ioc": "VIN",
     "name": "Saint Vincent And The Grenadines",
     "status": "assigned",
@@ -6533,6 +6532,7 @@
     "calls": [
       "+1 784"
     ],
+    "flag": "🇻🇨",
     "lang": [
       {
         "bibliographic": "",
@@ -6558,7 +6558,6 @@
     "currencies": [
       "VEF"
     ],
-    "emoji": "🇻🇪",
     "ioc": "VEN",
     "name": "Venezuela, Bolivarian Republic Of",
     "status": "assigned",
@@ -6567,6 +6566,7 @@
     "calls": [
       "+58"
     ],
+    "flag": "🇻🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -6582,7 +6582,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇻🇬",
     "ioc": "IVB",
     "name": "Virgin Islands (British)",
     "status": "assigned",
@@ -6591,6 +6590,7 @@
     "calls": [
       "+1 284"
     ],
+    "flag": "🇻🇬",
     "lang": [
       {
         "bibliographic": "",
@@ -6606,7 +6606,6 @@
     "currencies": [
       "USD"
     ],
-    "emoji": "🇻🇮",
     "ioc": "ISV",
     "name": "Virgin Islands (US)",
     "status": "assigned",
@@ -6615,6 +6614,7 @@
     "calls": [
       "+1 340"
     ],
+    "flag": "🇻🇮",
     "lang": [
       {
         "bibliographic": "",
@@ -6630,7 +6630,6 @@
     "currencies": [
       "VND"
     ],
-    "emoji": "🇻🇳",
     "ioc": "VIE",
     "name": "VietNam",
     "status": "assigned",
@@ -6639,6 +6638,7 @@
     "calls": [
       "+84"
     ],
+    "flag": "🇻🇳",
     "lang": [
       {
         "bibliographic": "",
@@ -6654,7 +6654,6 @@
     "currencies": [
       "VUV"
     ],
-    "emoji": "🇻🇺",
     "ioc": "VAN",
     "name": "Vanuatu",
     "status": "assigned",
@@ -6663,6 +6662,7 @@
     "calls": [
       "+678"
     ],
+    "flag": "🇻🇺",
     "lang": [
       {
         "bibliographic": "",
@@ -6690,7 +6690,6 @@
     "currencies": [
       "XPF"
     ],
-    "emoji": "🇼🇫",
     "ioc": "",
     "name": "Wallis And Futuna",
     "status": "assigned",
@@ -6699,6 +6698,7 @@
     "calls": [
       "+681"
     ],
+    "flag": "🇼🇫",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -6724,7 +6724,6 @@
     "currencies": [
       "WST"
     ],
-    "emoji": "🇼🇸",
     "ioc": "SAM",
     "name": "Samoa",
     "status": "assigned",
@@ -6733,6 +6732,7 @@
     "calls": [
       "+685"
     ],
+    "flag": "🇼🇸",
     "lang": [
       {
         "bibliographic": "",
@@ -6754,7 +6754,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "",
     "ioc": "KOS",
     "name": "Kosovo",
     "status": "user assigned",
@@ -6763,6 +6762,7 @@
     "calls": [
       "+383"
     ],
+    "flag": "",
     "lang": [
       {
         "bibliographic": "ALB",
@@ -6812,7 +6812,6 @@
     "currencies": [
       "YER"
     ],
-    "emoji": "🇾🇪",
     "ioc": "YEM",
     "name": "Yemen",
     "status": "assigned",
@@ -6821,6 +6820,7 @@
     "calls": [
       "+967"
     ],
+    "flag": "🇾🇪",
     "lang": [
       {
         "bibliographic": "",
@@ -6836,7 +6836,6 @@
     "currencies": [
       "EUR"
     ],
-    "emoji": "🇾🇹",
     "ioc": "",
     "name": "Mayotte",
     "status": "assigned",
@@ -6845,6 +6844,7 @@
     "calls": [
       "+262"
     ],
+    "flag": "🇾🇹",
     "lang": [
       {
         "bibliographic": "FRE",
@@ -6872,7 +6872,6 @@
     "currencies": [
       "ZAR"
     ],
-    "emoji": "🇿🇦",
     "ioc": "RSA",
     "name": "South Africa",
     "status": "assigned",
@@ -6881,6 +6880,7 @@
     "calls": [
       "+27"
     ],
+    "flag": "🇿🇦",
     "lang": [
       {
         "bibliographic": "",
@@ -6938,7 +6938,6 @@
     "currencies": [
       "ZMW"
     ],
-    "emoji": "🇿🇲",
     "ioc": "ZAM",
     "name": "Zambia",
     "status": "assigned",
@@ -6947,6 +6946,7 @@
     "calls": [
       "+260"
     ],
+    "flag": "🇿🇲",
     "lang": [
       {
         "bibliographic": "",
@@ -6978,7 +6978,6 @@
       "GBP",
       "EUR"
     ],
-    "emoji": "🇿🇼",
     "ioc": "ZIM",
     "name": "Zimbabwe",
     "status": "assigned",
@@ -6987,6 +6986,7 @@
     "calls": [
       "+263"
     ],
+    "flag": "🇿🇼",
     "lang": [
       {
         "bibliographic": "",

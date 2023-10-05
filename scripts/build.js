@@ -13,9 +13,11 @@ for (var key in countries) {
   country.iso2 = (country.alpha2 || '').toUpperCase()
   country.iso3 = (country.alpha3 || '').toUpperCase()
   country.calls = country.countryCallingCodes
+  country.flag = country.emoji
   delete country.alpha2
   delete country.alpha3
   delete country.countryCallingCodes
+  delete country.emoji
 
   country.lang = country.languages.map((lang) => {
     var language = languages[lang]
@@ -42,7 +44,6 @@ for (var key in continents) {
 // Add regions
 for (var name in regions) {
   var region = regions[name]
-  console.log(region)
   for (var code of region.countries) {
     var country = data.find((x) => x.iso2 == code)
     country.region = region.name
