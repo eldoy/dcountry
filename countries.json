@@ -1,0 +1,7013 @@
+[
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "",
+    "ioc": "SHP",
+    "name": "Ascension Island",
+    "status": "reserved",
+    "iso2": "AC",
+    "iso3": "",
+    "calls": [
+      "+247"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ]
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇦🇩",
+    "ioc": "AND",
+    "name": "Andorra",
+    "status": "assigned",
+    "iso2": "AD",
+    "iso3": "AND",
+    "calls": [
+      "+376"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Valencian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "AED"
+    ],
+    "emoji": "🇦🇪",
+    "ioc": "UAE",
+    "name": "United Arab Emirates",
+    "status": "assigned",
+    "iso2": "AE",
+    "iso3": "ARE",
+    "calls": [
+      "+971"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "AFN"
+    ],
+    "emoji": "🇦🇫",
+    "ioc": "AFG",
+    "name": "Afghanistan",
+    "status": "assigned",
+    "iso2": "AF",
+    "iso3": "AFG",
+    "calls": [
+      "+93"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Pushto",
+        "iso2": "PS",
+        "iso3": "PUS"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [
+      "XCD"
+    ],
+    "emoji": "🇦🇬",
+    "ioc": "ANT",
+    "name": "Antigua And Barbuda",
+    "status": "assigned",
+    "iso2": "AG",
+    "iso3": "ATG",
+    "calls": [
+      "+1 268"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "XCD"
+    ],
+    "emoji": "🇦🇮",
+    "ioc": "",
+    "name": "Anguilla",
+    "status": "assigned",
+    "iso2": "AI",
+    "iso3": "AIA",
+    "calls": [
+      "+1 264"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "French Afar and Issas",
+    "status": "deleted",
+    "iso2": "AI",
+    "iso3": "AFI",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "ALL"
+    ],
+    "emoji": "🇦🇱",
+    "ioc": "ALB",
+    "name": "Albania",
+    "status": "assigned",
+    "iso2": "AL",
+    "iso3": "ALB",
+    "calls": [
+      "+355"
+    ],
+    "lang": [
+      {
+        "bibliographic": "ALB",
+        "name": "Albanian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "AMD"
+    ],
+    "emoji": "🇦🇲",
+    "ioc": "ARM",
+    "name": "Armenia",
+    "status": "assigned",
+    "iso2": "AM",
+    "iso3": "ARM",
+    "calls": [
+      "+374"
+    ],
+    "lang": [
+      {
+        "bibliographic": "ARM",
+        "name": "Armenian",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Netherlands Antilles",
+    "status": "deleted",
+    "iso2": "AN",
+    "iso3": "ANT",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "AOA"
+    ],
+    "emoji": "🇦🇴",
+    "ioc": "ANG",
+    "name": "Angola",
+    "status": "assigned",
+    "iso2": "AO",
+    "iso3": "AGO",
+    "calls": [
+      "+244"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [],
+    "emoji": "🇦🇶",
+    "ioc": "",
+    "name": "Antarctica",
+    "status": "assigned",
+    "iso2": "AQ",
+    "iso3": "ATA",
+    "calls": [
+      "+672"
+    ],
+    "lang": [],
+    "continent": "Antartica",
+    "region": "Antartica"
+  },
+  {
+    "currencies": [
+      "ARS"
+    ],
+    "emoji": "🇦🇷",
+    "ioc": "ARG",
+    "name": "Argentina",
+    "status": "assigned",
+    "iso2": "AR",
+    "iso3": "ARG",
+    "calls": [
+      "+54"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇦🇸",
+    "ioc": "ASA",
+    "name": "American Samoa",
+    "status": "assigned",
+    "iso2": "AS",
+    "iso3": "ASM",
+    "calls": [
+      "+1 684"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Samoan",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇦🇹",
+    "ioc": "AUT",
+    "name": "Austria",
+    "status": "assigned",
+    "iso2": "AT",
+    "iso3": "AUT",
+    "calls": [
+      "+43"
+    ],
+    "lang": [
+      {
+        "bibliographic": "GER",
+        "name": "German",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "AUD"
+    ],
+    "emoji": "🇦🇺",
+    "ioc": "AUS",
+    "name": "Australia",
+    "status": "assigned",
+    "iso2": "AU",
+    "iso3": "AUS",
+    "calls": [
+      "+61"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Australia"
+  },
+  {
+    "currencies": [
+      "AWG"
+    ],
+    "emoji": "🇦🇼",
+    "ioc": "ARU",
+    "name": "Aruba",
+    "status": "assigned",
+    "iso2": "AW",
+    "iso3": "ABW",
+    "calls": [
+      "+297"
+    ],
+    "lang": [
+      {
+        "bibliographic": "DUT",
+        "name": "Dutch",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇦🇽",
+    "ioc": "",
+    "name": "Åland Islands",
+    "status": "assigned",
+    "iso2": "AX",
+    "iso3": "ALA",
+    "calls": [
+      "+358"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Swedish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "AZN"
+    ],
+    "emoji": "🇦🇿",
+    "ioc": "AZE",
+    "name": "Azerbaijan",
+    "status": "assigned",
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "calls": [
+      "+994"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Azerbaijani",
+        "iso2": "AZ",
+        "iso3": "AZE"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "BAM"
+    ],
+    "emoji": "🇧🇦",
+    "ioc": "BIH",
+    "name": "Bosnia & Herzegovina",
+    "status": "assigned",
+    "iso2": "BA",
+    "iso3": "BIH",
+    "calls": [
+      "+387"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Bosnian",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Cree",
+        "iso2": "CR",
+        "iso3": "CRE"
+      },
+      {
+        "bibliographic": "",
+        "name": "Serbian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "BBD"
+    ],
+    "emoji": "🇧🇧",
+    "ioc": "BAR",
+    "name": "Barbados",
+    "status": "assigned",
+    "iso2": "BB",
+    "iso3": "BRB",
+    "calls": [
+      "+1 246"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "BDT"
+    ],
+    "emoji": "🇧🇩",
+    "ioc": "BAN",
+    "name": "Bangladesh",
+    "status": "assigned",
+    "iso2": "BD",
+    "iso3": "BGD",
+    "calls": [
+      "+880"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Bengali",
+        "iso2": "BN",
+        "iso3": "BEN"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇧🇪",
+    "ioc": "BEL",
+    "name": "Belgium",
+    "status": "assigned",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "calls": [
+      "+32"
+    ],
+    "lang": [
+      {
+        "bibliographic": "DUT",
+        "name": "Dutch",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "GER",
+        "name": "German",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "XOF"
+    ],
+    "emoji": "🇧🇫",
+    "ioc": "BUR",
+    "name": "Burkina Faso",
+    "status": "assigned",
+    "iso2": "BF",
+    "iso3": "BFA",
+    "calls": [
+      "+226"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "BGN"
+    ],
+    "emoji": "🇧🇬",
+    "ioc": "BUL",
+    "name": "Bulgaria",
+    "status": "assigned",
+    "iso2": "BG",
+    "iso3": "BGR",
+    "calls": [
+      "+359"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Bulgarian",
+        "iso2": "BG",
+        "iso3": "BUL"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [
+      "BHD"
+    ],
+    "emoji": "🇧🇭",
+    "ioc": "BRN",
+    "name": "Bahrain",
+    "status": "assigned",
+    "iso2": "BH",
+    "iso3": "BHR",
+    "calls": [
+      "+973"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "BIF"
+    ],
+    "emoji": "🇧🇮",
+    "ioc": "BDI",
+    "name": "Burundi",
+    "status": "assigned",
+    "iso2": "BI",
+    "iso3": "BDI",
+    "calls": [
+      "+257"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "XOF"
+    ],
+    "emoji": "🇧🇯",
+    "ioc": "BEN",
+    "name": "Benin",
+    "status": "assigned",
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "calls": [
+      "+229"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇧🇱",
+    "ioc": "",
+    "name": "Saint Barthélemy",
+    "status": "assigned",
+    "iso2": "BL",
+    "iso3": "BLM",
+    "calls": [
+      "+590"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "BMD"
+    ],
+    "emoji": "🇧🇲",
+    "ioc": "BER",
+    "name": "Bermuda",
+    "status": "assigned",
+    "iso2": "BM",
+    "iso3": "BMU",
+    "calls": [
+      "+1 441"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Northern America"
+  },
+  {
+    "currencies": [
+      "BND"
+    ],
+    "emoji": "🇧🇳",
+    "ioc": "BRU",
+    "name": "Brunei Darussalam",
+    "status": "assigned",
+    "iso2": "BN",
+    "iso3": "BRN",
+    "calls": [
+      "+673"
+    ],
+    "lang": [
+      {
+        "bibliographic": "MAY",
+        "name": "Malay",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "BOB",
+      "BOV"
+    ],
+    "emoji": "🇧🇴",
+    "ioc": "BOL",
+    "name": "Bolivia, Plurinational State Of",
+    "status": "assigned",
+    "iso2": "BO",
+    "iso3": "BOL",
+    "calls": [
+      "+591"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Aymara",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Quechua",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇧🇶",
+    "ioc": "",
+    "name": "Bonaire, Sint Eustatius And Saba",
+    "status": "assigned",
+    "iso2": "BQ",
+    "iso3": "BES",
+    "calls": [
+      "+599"
+    ],
+    "lang": [
+      {
+        "bibliographic": "DUT",
+        "name": "Dutch",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "British Antarctic Territory",
+    "status": "deleted",
+    "iso2": "BQ",
+    "iso3": "ATB",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "BRL"
+    ],
+    "emoji": "🇧🇷",
+    "ioc": "BRA",
+    "name": "Brazil",
+    "status": "assigned",
+    "iso2": "BR",
+    "iso3": "BRA",
+    "calls": [
+      "+55"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "BSD"
+    ],
+    "emoji": "🇧🇸",
+    "ioc": "BAH",
+    "name": "Bahamas",
+    "status": "assigned",
+    "iso2": "BS",
+    "iso3": "BHS",
+    "calls": [
+      "+1 242"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "INR",
+      "BTN"
+    ],
+    "emoji": "🇧🇹",
+    "ioc": "BHU",
+    "name": "Bhutan",
+    "status": "assigned",
+    "iso2": "BT",
+    "iso3": "BTN",
+    "calls": [
+      "+975"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Dzongkha",
+        "iso2": "DZ",
+        "iso3": "DZO"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Burma",
+    "status": "deleted",
+    "iso2": "BU",
+    "iso3": "BUR",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "NOK"
+    ],
+    "emoji": "🇧🇻",
+    "ioc": "",
+    "name": "Bouvet Island",
+    "status": "assigned",
+    "iso2": "BV",
+    "iso3": "BVT",
+    "calls": [],
+    "lang": [],
+    "continent": "Antartica",
+    "region": "Antartica"
+  },
+  {
+    "currencies": [
+      "BWP"
+    ],
+    "emoji": "🇧🇼",
+    "ioc": "BOT",
+    "name": "Botswana",
+    "status": "assigned",
+    "iso2": "BW",
+    "iso3": "BWA",
+    "calls": [
+      "+267"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Tswana",
+        "iso2": "TN",
+        "iso3": "TSN"
+      }
+    ],
+    "continent": "Africa",
+    "region": "Southern Africa"
+  },
+  {
+    "currencies": [
+      "BYN"
+    ],
+    "emoji": "🇧🇾",
+    "ioc": "BLR",
+    "name": "Belarus",
+    "status": "assigned",
+    "iso2": "BY",
+    "iso3": "BLR",
+    "calls": [
+      "+375"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Belarusian",
+        "iso2": "BE",
+        "iso3": "BEL"
+      },
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Byelorussian SSR",
+    "status": "deleted",
+    "iso2": "BY",
+    "iso3": "BYS",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "BZD"
+    ],
+    "emoji": "🇧🇿",
+    "ioc": "BIZ",
+    "name": "Belize",
+    "status": "assigned",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "calls": [
+      "+501"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Central America"
+  },
+  {
+    "currencies": [
+      "CAD"
+    ],
+    "emoji": "🇨🇦",
+    "ioc": "CAN",
+    "name": "Canada",
+    "status": "assigned",
+    "iso2": "CA",
+    "iso3": "CAN",
+    "calls": [
+      "+1"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Northern America"
+  },
+  {
+    "currencies": [
+      "AUD"
+    ],
+    "emoji": "🇨🇨",
+    "ioc": "",
+    "name": "Cocos (Keeling) Islands",
+    "status": "assigned",
+    "iso2": "CC",
+    "iso3": "CCK",
+    "calls": [
+      "+61"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "CDF"
+    ],
+    "emoji": "🇨🇩",
+    "ioc": "COD",
+    "name": "Democratic Republic Of Congo",
+    "status": "assigned",
+    "iso2": "CD",
+    "iso3": "COD",
+    "calls": [
+      "+243"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Lingala",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Kongo",
+        "iso2": "KG",
+        "iso3": "KON"
+      },
+      {
+        "bibliographic": "",
+        "name": "Swahili",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [
+      "XAF"
+    ],
+    "emoji": "🇨🇫",
+    "ioc": "CAF",
+    "name": "Central African Republic",
+    "status": "assigned",
+    "iso2": "CF",
+    "iso3": "CAF",
+    "calls": [
+      "+236"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Sango",
+        "iso2": "SG",
+        "iso3": "SAG"
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [
+      "XAF"
+    ],
+    "emoji": "🇨🇬",
+    "ioc": "CGO",
+    "name": "Republic Of Congo",
+    "status": "assigned",
+    "iso2": "CG",
+    "iso3": "COG",
+    "calls": [
+      "+242"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Lingala",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [
+      "CHF",
+      "CHE",
+      "CHW"
+    ],
+    "emoji": "🇨🇭",
+    "ioc": "SUI",
+    "name": "Switzerland",
+    "status": "assigned",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "calls": [
+      "+41"
+    ],
+    "lang": [
+      {
+        "bibliographic": "GER",
+        "name": "German",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Italian",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Romansh",
+        "iso2": "RM",
+        "iso3": "ROH"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "XOF"
+    ],
+    "emoji": "🇨🇮",
+    "ioc": "CIV",
+    "name": "Côte d'Ivoire",
+    "status": "assigned",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "calls": [
+      "+225"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "NZD"
+    ],
+    "emoji": "🇨🇰",
+    "ioc": "COK",
+    "name": "Cook Islands",
+    "status": "assigned",
+    "iso2": "CK",
+    "iso3": "COK",
+    "calls": [
+      "+682"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "MAO",
+        "name": "Maori",
+        "iso2": "MI",
+        "iso3": "MRI"
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "CLP",
+      "CLF"
+    ],
+    "emoji": "🇨🇱",
+    "ioc": "CHI",
+    "name": "Chile",
+    "status": "assigned",
+    "iso2": "CL",
+    "iso3": "CHL",
+    "calls": [
+      "+56"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "XAF"
+    ],
+    "emoji": "🇨🇲",
+    "ioc": "CMR",
+    "name": "Cameroon",
+    "status": "assigned",
+    "iso2": "CM",
+    "iso3": "CMR",
+    "calls": [
+      "+237"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [
+      "CNY"
+    ],
+    "emoji": "🇨🇳",
+    "ioc": "CHN",
+    "name": "China",
+    "status": "assigned",
+    "iso2": "CN",
+    "iso3": "CHN",
+    "calls": [
+      "+86"
+    ],
+    "lang": [
+      {
+        "bibliographic": "CHI",
+        "name": "Chinese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "East Asia"
+  },
+  {
+    "currencies": [
+      "COP",
+      "COU"
+    ],
+    "emoji": "🇨🇴",
+    "ioc": "COL",
+    "name": "Colombia",
+    "status": "assigned",
+    "iso2": "CO",
+    "iso3": "COL",
+    "calls": [
+      "+57"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "",
+    "ioc": "",
+    "name": "Clipperton Island",
+    "status": "reserved",
+    "iso2": "CP",
+    "iso3": "",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "CRC"
+    ],
+    "emoji": "🇨🇷",
+    "ioc": "CRC",
+    "name": "Costa Rica",
+    "status": "assigned",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "calls": [
+      "+506"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Central America"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Czechoslovakia",
+    "status": "deleted",
+    "iso2": "CS",
+    "iso3": "CSK",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Serbia and Montenegro",
+    "status": "deleted",
+    "iso2": "CS",
+    "iso3": "SCG",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Canton and Enderbury Islands",
+    "status": "deleted",
+    "iso2": "CT",
+    "iso3": "CTE",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "CUP",
+      "CUC"
+    ],
+    "emoji": "🇨🇺",
+    "ioc": "CUB",
+    "name": "Cuba",
+    "status": "assigned",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "calls": [
+      "+53"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "CVE"
+    ],
+    "emoji": "🇨🇻",
+    "ioc": "CPV",
+    "name": "Cabo Verde",
+    "status": "assigned",
+    "iso2": "CV",
+    "iso3": "CPV",
+    "calls": [
+      "+238"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "ANG"
+    ],
+    "emoji": "🇨🇼",
+    "ioc": "",
+    "name": "Curacao",
+    "status": "assigned",
+    "iso2": "CW",
+    "iso3": "CUW",
+    "calls": [
+      "+599"
+    ],
+    "lang": [
+      {
+        "bibliographic": "DUT",
+        "name": "Dutch",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "AUD"
+    ],
+    "emoji": "🇨🇽",
+    "ioc": "",
+    "name": "Christmas Island",
+    "status": "assigned",
+    "iso2": "CX",
+    "iso3": "CXR",
+    "calls": [
+      "+61"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇨🇾",
+    "ioc": "CYP",
+    "name": "Cyprus",
+    "status": "assigned",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "calls": [
+      "+357"
+    ],
+    "lang": [
+      {
+        "bibliographic": "GRE",
+        "name": "Greek",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Turkish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "CZK"
+    ],
+    "emoji": "🇨🇿",
+    "ioc": "CZE",
+    "name": "Czech Republic",
+    "status": "assigned",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "calls": [
+      "+420"
+    ],
+    "lang": [
+      {
+        "bibliographic": "CZE",
+        "name": "Czech",
+        "iso2": "CS",
+        "iso3": "CES"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "German Democratic Republic",
+    "status": "deleted",
+    "iso2": "DD",
+    "iso3": "DDR",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇩🇪",
+    "ioc": "GER",
+    "name": "Germany",
+    "status": "assigned",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "calls": [
+      "+49"
+    ],
+    "lang": [
+      {
+        "bibliographic": "GER",
+        "name": "German",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "",
+    "ioc": "",
+    "name": "Diego Garcia",
+    "status": "reserved",
+    "iso2": "DG",
+    "iso3": "",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "DJF"
+    ],
+    "emoji": "🇩🇯",
+    "ioc": "DJI",
+    "name": "Djibouti",
+    "status": "assigned",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "calls": [
+      "+253"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "DKK"
+    ],
+    "emoji": "🇩🇰",
+    "ioc": "DEN",
+    "name": "Denmark",
+    "status": "assigned",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "calls": [
+      "+45"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Danish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "XCD"
+    ],
+    "emoji": "🇩🇲",
+    "ioc": "DMA",
+    "name": "Dominica",
+    "status": "assigned",
+    "iso2": "DM",
+    "iso3": "DMA",
+    "calls": [
+      "+1 767"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "DOP"
+    ],
+    "emoji": "🇩🇴",
+    "ioc": "DOM",
+    "name": "Dominican Republic",
+    "status": "assigned",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "calls": [
+      "+1 809",
+      "+1 829",
+      "+1 849"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Dahomey",
+    "status": "deleted",
+    "iso2": "DY",
+    "iso3": "DHY",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "DZD"
+    ],
+    "emoji": "🇩🇿",
+    "ioc": "ALG",
+    "name": "Algeria",
+    "status": "assigned",
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "calls": [
+      "+213"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "North Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "",
+    "ioc": "",
+    "name": "Ceuta, Mulilla",
+    "status": "reserved",
+    "iso2": "EA",
+    "iso3": "",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇪🇨",
+    "ioc": "ECU",
+    "name": "Ecuador",
+    "status": "assigned",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "calls": [
+      "+593"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Quechua",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇪🇪",
+    "ioc": "EST",
+    "name": "Estonia",
+    "status": "assigned",
+    "iso2": "EE",
+    "iso3": "EST",
+    "calls": [
+      "+372"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Estonian",
+        "iso2": "ET",
+        "iso3": "EST"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "EGP"
+    ],
+    "emoji": "🇪🇬",
+    "ioc": "EGY",
+    "name": "Egypt",
+    "status": "assigned",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "calls": [
+      "+20"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "North Africa"
+  },
+  {
+    "currencies": [
+      "MAD"
+    ],
+    "emoji": "🇪🇭",
+    "ioc": "",
+    "name": "Western Sahara",
+    "status": "assigned",
+    "iso2": "EH",
+    "iso3": "ESH",
+    "calls": [
+      "+212"
+    ],
+    "lang": [],
+    "continent": "Africa",
+    "region": "North Africa"
+  },
+  {
+    "currencies": [
+      "ERN"
+    ],
+    "emoji": "🇪🇷",
+    "ioc": "ERI",
+    "name": "Eritrea",
+    "status": "assigned",
+    "iso2": "ER",
+    "iso3": "ERI",
+    "calls": [
+      "+291"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Tigrinya",
+        "iso2": "TI",
+        "iso3": "TIR"
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇪🇸",
+    "ioc": "ESP",
+    "name": "Spain",
+    "status": "assigned",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "calls": [
+      "+34"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Valencian",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Galician",
+        "iso2": "GL",
+        "iso3": "GLG"
+      },
+      {
+        "bibliographic": "BAQ",
+        "name": "Basque",
+        "iso2": "EU",
+        "iso3": "EUS"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "ETB"
+    ],
+    "emoji": "🇪🇹",
+    "ioc": "ETH",
+    "name": "Ethiopia",
+    "status": "assigned",
+    "iso2": "ET",
+    "iso3": "ETH",
+    "calls": [
+      "+251"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Amharic",
+        "iso2": "AM",
+        "iso3": "AMH"
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇪🇺",
+    "ioc": "",
+    "name": "European Union",
+    "status": "reserved",
+    "iso2": "EU",
+    "iso3": "",
+    "calls": [
+      "+388"
+    ],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇫🇮",
+    "ioc": "FIN",
+    "name": "Finland",
+    "status": "assigned",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "calls": [
+      "+358"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Finnish",
+        "iso2": "FI",
+        "iso3": "FIN"
+      },
+      {
+        "bibliographic": "",
+        "name": "Swedish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "FJD"
+    ],
+    "emoji": "🇫🇯",
+    "ioc": "FIJ",
+    "name": "Fiji",
+    "status": "assigned",
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "calls": [
+      "+679"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Fijian",
+        "iso2": "FJ",
+        "iso3": "FIJ"
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Melanesia"
+  },
+  {
+    "currencies": [
+      "FKP"
+    ],
+    "emoji": "🇫🇰",
+    "ioc": "",
+    "name": "Falkland Islands",
+    "status": "assigned",
+    "iso2": "FK",
+    "iso3": "FLK",
+    "calls": [
+      "+500"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇫🇲",
+    "ioc": "FSM",
+    "name": "Micronesia, Federated States Of",
+    "status": "assigned",
+    "iso2": "FM",
+    "iso3": "FSM",
+    "calls": [
+      "+691"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Micronesia"
+  },
+  {
+    "currencies": [
+      "DKK"
+    ],
+    "emoji": "🇫🇴",
+    "ioc": "FAI",
+    "name": "Faroe Islands",
+    "status": "assigned",
+    "iso2": "FO",
+    "iso3": "FRO",
+    "calls": [
+      "+298"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Faroese",
+        "iso2": "FO",
+        "iso3": "FAO"
+      },
+      {
+        "bibliographic": "",
+        "name": "Danish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "French Southern and Antarctic Territories",
+    "status": "deleted",
+    "iso2": "FQ",
+    "iso3": "ATF",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇫🇷",
+    "ioc": "FRA",
+    "name": "France",
+    "status": "assigned",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "calls": [
+      "+33"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "",
+    "ioc": "",
+    "name": "France, Metropolitan",
+    "status": "reserved",
+    "iso2": "FX",
+    "iso3": "",
+    "calls": [
+      "+241"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ]
+  },
+  {
+    "currencies": [
+      "XAF"
+    ],
+    "emoji": "🇬🇦",
+    "ioc": "GAB",
+    "name": "Gabon",
+    "status": "assigned",
+    "iso2": "GA",
+    "iso3": "GAB",
+    "calls": [
+      "+241"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [
+      "GBP"
+    ],
+    "emoji": "🇬🇧",
+    "ioc": "GBR",
+    "name": "United Kingdom",
+    "status": "assigned",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "calls": [
+      "+44"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Cornish",
+        "iso2": "KW",
+        "iso3": "COR"
+      },
+      {
+        "bibliographic": "",
+        "name": "Irish",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Scottish Gaelic",
+        "iso2": "GD",
+        "iso3": "GLA"
+      },
+      {
+        "bibliographic": "WEL",
+        "name": "Welsh",
+        "iso2": "CY",
+        "iso3": "CYM"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "XCD"
+    ],
+    "emoji": "🇬🇩",
+    "ioc": "GRN",
+    "name": "Grenada",
+    "status": "assigned",
+    "iso2": "GD",
+    "iso3": "GRD",
+    "calls": [
+      "+473"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "GEL"
+    ],
+    "emoji": "🇬🇪",
+    "ioc": "GEO",
+    "name": "Georgia",
+    "status": "assigned",
+    "iso2": "GE",
+    "iso3": "GEO",
+    "calls": [
+      "+995"
+    ],
+    "lang": [
+      {
+        "bibliographic": "GEO",
+        "name": "Georgian",
+        "iso2": "KA",
+        "iso3": "KAT"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Gilbert and Ellice Islands",
+    "status": "deleted",
+    "iso2": "GE",
+    "iso3": "GEL",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇬🇫",
+    "ioc": "",
+    "name": "French Guiana",
+    "status": "assigned",
+    "iso2": "GF",
+    "iso3": "GUF",
+    "calls": [
+      "+594"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "GBP"
+    ],
+    "emoji": "🇬🇬",
+    "ioc": "GCI",
+    "name": "Guernsey",
+    "status": "assigned",
+    "iso2": "GG",
+    "iso3": "GGY",
+    "calls": [
+      "+44"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "GHS"
+    ],
+    "emoji": "🇬🇭",
+    "ioc": "GHA",
+    "name": "Ghana",
+    "status": "assigned",
+    "iso2": "GH",
+    "iso3": "GHA",
+    "calls": [
+      "+233"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "GIP"
+    ],
+    "emoji": "🇬🇮",
+    "ioc": "",
+    "name": "Gibraltar",
+    "status": "assigned",
+    "iso2": "GI",
+    "iso3": "GIB",
+    "calls": [
+      "+350"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "DKK"
+    ],
+    "emoji": "🇬🇱",
+    "ioc": "",
+    "name": "Greenland",
+    "status": "assigned",
+    "iso2": "GL",
+    "iso3": "GRL",
+    "calls": [
+      "+299"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Kalaallisut",
+        "iso2": "KL",
+        "iso3": "KAL"
+      }
+    ],
+    "continent": "North America",
+    "region": "Northern America"
+  },
+  {
+    "currencies": [
+      "GMD"
+    ],
+    "emoji": "🇬🇲",
+    "ioc": "GAM",
+    "name": "Gambia",
+    "status": "assigned",
+    "iso2": "GM",
+    "iso3": "GMB",
+    "calls": [
+      "+220"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "GNF"
+    ],
+    "emoji": "🇬🇳",
+    "ioc": "GUI",
+    "name": "Guinea",
+    "status": "assigned",
+    "iso2": "GN",
+    "iso3": "GIN",
+    "calls": [
+      "+224"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇬🇵",
+    "ioc": "",
+    "name": "Guadeloupe",
+    "status": "assigned",
+    "iso2": "GP",
+    "iso3": "GLP",
+    "calls": [
+      "+590"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "XAF"
+    ],
+    "emoji": "🇬🇶",
+    "ioc": "GEQ",
+    "name": "Equatorial Guinea",
+    "status": "assigned",
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "calls": [
+      "+240"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇬🇷",
+    "ioc": "GRE",
+    "name": "Greece",
+    "status": "assigned",
+    "iso2": "GR",
+    "iso3": "GRC",
+    "calls": [
+      "+30"
+    ],
+    "lang": [
+      {
+        "bibliographic": "GRE",
+        "name": "Greek",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "GBP"
+    ],
+    "emoji": "🇬🇸",
+    "ioc": "",
+    "name": "South Georgia And The South Sandwich Islands",
+    "status": "assigned",
+    "iso2": "GS",
+    "iso3": "SGS",
+    "calls": [
+      "+500"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Antartica",
+    "region": "Antartica"
+  },
+  {
+    "currencies": [
+      "GTQ"
+    ],
+    "emoji": "🇬🇹",
+    "ioc": "GUA",
+    "name": "Guatemala",
+    "status": "assigned",
+    "iso2": "GT",
+    "iso3": "GTM",
+    "calls": [
+      "+502"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Central America"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇬🇺",
+    "ioc": "GUM",
+    "name": "Guam",
+    "status": "assigned",
+    "iso2": "GU",
+    "iso3": "GUM",
+    "calls": [
+      "+1 671"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Micronesia"
+  },
+  {
+    "currencies": [
+      "XOF"
+    ],
+    "emoji": "🇬🇼",
+    "ioc": "GBS",
+    "name": "Guinea-bissau",
+    "status": "assigned",
+    "iso2": "GW",
+    "iso3": "GNB",
+    "calls": [
+      "+245"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "GYD"
+    ],
+    "emoji": "🇬🇾",
+    "ioc": "GUY",
+    "name": "Guyana",
+    "status": "assigned",
+    "iso2": "GY",
+    "iso3": "GUY",
+    "calls": [
+      "+592"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "HKD"
+    ],
+    "emoji": "🇭🇰",
+    "ioc": "HKG",
+    "name": "Hong Kong",
+    "status": "assigned",
+    "iso2": "HK",
+    "iso3": "HKG",
+    "calls": [
+      "+852"
+    ],
+    "lang": [
+      {
+        "bibliographic": "CHI",
+        "name": "Chinese",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "East Asia"
+  },
+  {
+    "currencies": [
+      "AUD"
+    ],
+    "emoji": "🇭🇲",
+    "ioc": "",
+    "name": "Heard Island And McDonald Islands",
+    "status": "assigned",
+    "iso2": "HM",
+    "iso3": "HMD",
+    "calls": [],
+    "lang": [],
+    "continent": "Antartica",
+    "region": "Antartica"
+  },
+  {
+    "currencies": [
+      "HNL"
+    ],
+    "emoji": "🇭🇳",
+    "ioc": "HON",
+    "name": "Honduras",
+    "status": "assigned",
+    "iso2": "HN",
+    "iso3": "HND",
+    "calls": [
+      "+504"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Central America"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇭🇷",
+    "ioc": "CRO",
+    "name": "Croatia",
+    "status": "assigned",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "calls": [
+      "+385"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Croatian",
+        "iso2": "HR",
+        "iso3": "HRV"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "HTG",
+      "USD"
+    ],
+    "emoji": "🇭🇹",
+    "ioc": "HAI",
+    "name": "Haiti",
+    "status": "assigned",
+    "iso2": "HT",
+    "iso3": "HTI",
+    "calls": [
+      "+509"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Haitian Creole",
+        "iso2": "HT",
+        "iso3": "HAT"
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "HUF"
+    ],
+    "emoji": "🇭🇺",
+    "ioc": "HUN",
+    "name": "Hungary",
+    "status": "assigned",
+    "iso2": "HU",
+    "iso3": "HUN",
+    "calls": [
+      "+36"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Hungarian",
+        "iso2": "HU",
+        "iso3": "HUN"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Upper Volta",
+    "status": "deleted",
+    "iso2": "HV",
+    "iso3": "HVO",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "",
+    "ioc": "",
+    "name": "Canary Islands",
+    "status": "reserved",
+    "iso2": "IC",
+    "iso3": "",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "IDR"
+    ],
+    "emoji": "🇮🇩",
+    "ioc": "INA",
+    "name": "Indonesia",
+    "status": "assigned",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "calls": [
+      "+62"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Indonesian",
+        "iso2": "ID",
+        "iso3": "IND"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇮🇪",
+    "ioc": "IRL",
+    "name": "Ireland",
+    "status": "assigned",
+    "iso2": "IE",
+    "iso3": "IRL",
+    "calls": [
+      "+353"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Irish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "ILS"
+    ],
+    "emoji": "🇮🇱",
+    "ioc": "ISR",
+    "name": "Israel",
+    "status": "assigned",
+    "iso2": "IL",
+    "iso3": "ISR",
+    "calls": [
+      "+972"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Hebrew",
+        "iso2": "HE",
+        "iso3": "HEB"
+      },
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "GBP"
+    ],
+    "emoji": "🇮🇲",
+    "ioc": "",
+    "name": "Isle Of Man",
+    "status": "assigned",
+    "iso2": "IM",
+    "iso3": "IMN",
+    "calls": [
+      "+44"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Manx",
+        "iso2": "GV",
+        "iso3": "GLV"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "INR"
+    ],
+    "emoji": "🇮🇳",
+    "ioc": "IND",
+    "name": "India",
+    "status": "assigned",
+    "iso2": "IN",
+    "iso3": "IND",
+    "calls": [
+      "+91"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Hindi",
+        "iso2": "HI",
+        "iso3": "HIN"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇮🇴",
+    "ioc": "",
+    "name": "British Indian Ocean Territory",
+    "status": "assigned",
+    "iso2": "IO",
+    "iso3": "IOT",
+    "calls": [
+      "+246"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [
+      "IQD"
+    ],
+    "emoji": "🇮🇶",
+    "ioc": "IRQ",
+    "name": "Iraq",
+    "status": "assigned",
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "calls": [
+      "+964"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Kurdish",
+        "iso2": "KU",
+        "iso3": "KUR"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "IRR"
+    ],
+    "emoji": "🇮🇷",
+    "ioc": "IRI",
+    "name": "Iran, Islamic Republic Of",
+    "status": "assigned",
+    "iso2": "IR",
+    "iso3": "IRN",
+    "calls": [
+      "+98"
+    ],
+    "lang": [
+      {
+        "bibliographic": "PER",
+        "name": "Persian",
+        "iso2": "FA",
+        "iso3": "FAS"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [
+      "ISK"
+    ],
+    "emoji": "🇮🇸",
+    "ioc": "ISL",
+    "name": "Iceland",
+    "status": "assigned",
+    "iso2": "IS",
+    "iso3": "ISL",
+    "calls": [
+      "+354"
+    ],
+    "lang": [
+      {
+        "bibliographic": "ICE",
+        "name": "Icelandic",
+        "iso2": "IS",
+        "iso3": "ISL"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇮🇹",
+    "ioc": "ITA",
+    "name": "Italy",
+    "status": "assigned",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "calls": [
+      "+39"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Italian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "GBP"
+    ],
+    "emoji": "🇯🇪",
+    "ioc": "JCI",
+    "name": "Jersey",
+    "status": "assigned",
+    "iso2": "JE",
+    "iso3": "JEY",
+    "calls": [
+      "+44"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "JMD"
+    ],
+    "emoji": "🇯🇲",
+    "ioc": "JAM",
+    "name": "Jamaica",
+    "status": "assigned",
+    "iso2": "JM",
+    "iso3": "JAM",
+    "calls": [
+      "+1 876"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "JOD"
+    ],
+    "emoji": "🇯🇴",
+    "ioc": "JOR",
+    "name": "Jordan",
+    "status": "assigned",
+    "iso2": "JO",
+    "iso3": "JOR",
+    "calls": [
+      "+962"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "JPY"
+    ],
+    "emoji": "🇯🇵",
+    "ioc": "JPN",
+    "name": "Japan",
+    "status": "assigned",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "calls": [
+      "+81"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Japanese",
+        "iso2": "JA",
+        "iso3": "JPN"
+      }
+    ],
+    "continent": "Asia",
+    "region": "East Asia"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Johnston Island",
+    "status": "deleted",
+    "iso2": "JT",
+    "iso3": "JTN",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "KES"
+    ],
+    "emoji": "🇰🇪",
+    "ioc": "KEN",
+    "name": "Kenya",
+    "status": "assigned",
+    "iso2": "KE",
+    "iso3": "KEN",
+    "calls": [
+      "+254"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Swahili",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "KGS"
+    ],
+    "emoji": "🇰🇬",
+    "ioc": "KGZ",
+    "name": "Kyrgyzstan",
+    "status": "assigned",
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "calls": [
+      "+996"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Central Asia"
+  },
+  {
+    "currencies": [
+      "KHR"
+    ],
+    "emoji": "🇰🇭",
+    "ioc": "CAM",
+    "name": "Cambodia",
+    "status": "assigned",
+    "iso2": "KH",
+    "iso3": "KHM",
+    "calls": [
+      "+855"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Central Khmer",
+        "iso2": "KM",
+        "iso3": "KHM"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "AUD"
+    ],
+    "emoji": "🇰🇮",
+    "ioc": "KIR",
+    "name": "Kiribati",
+    "status": "assigned",
+    "iso2": "KI",
+    "iso3": "KIR",
+    "calls": [
+      "+686"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Micronesia"
+  },
+  {
+    "currencies": [
+      "KMF"
+    ],
+    "emoji": "🇰🇲",
+    "ioc": "COM",
+    "name": "Comoros",
+    "status": "assigned",
+    "iso2": "KM",
+    "iso3": "COM",
+    "calls": [
+      "+269"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "XCD"
+    ],
+    "emoji": "🇰🇳",
+    "ioc": "SKN",
+    "name": "Saint Kitts And Nevis",
+    "status": "assigned",
+    "iso2": "KN",
+    "iso3": "KNA",
+    "calls": [
+      "+1 869"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "KPW"
+    ],
+    "emoji": "🇰🇵",
+    "ioc": "PRK",
+    "name": "Korea, Democratic People's Republic Of",
+    "status": "assigned",
+    "iso2": "KP",
+    "iso3": "PRK",
+    "calls": [
+      "+850"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Korean",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "East Asia"
+  },
+  {
+    "currencies": [
+      "KRW"
+    ],
+    "emoji": "🇰🇷",
+    "ioc": "KOR",
+    "name": "Korea, Republic Of",
+    "status": "assigned",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "calls": [
+      "+82"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Korean",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "East Asia"
+  },
+  {
+    "currencies": [
+      "KWD"
+    ],
+    "emoji": "🇰🇼",
+    "ioc": "KUW",
+    "name": "Kuwait",
+    "status": "assigned",
+    "iso2": "KW",
+    "iso3": "KWT",
+    "calls": [
+      "+965"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "KYD"
+    ],
+    "emoji": "🇰🇾",
+    "ioc": "CAY",
+    "name": "Cayman Islands",
+    "status": "assigned",
+    "iso2": "KY",
+    "iso3": "CYM",
+    "calls": [
+      "+1 345"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "KZT"
+    ],
+    "emoji": "🇰🇿",
+    "ioc": "KAZ",
+    "name": "Kazakhstan",
+    "status": "assigned",
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "calls": [
+      "+7",
+      "+7 6",
+      "+7 7"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Kazakh",
+        "iso2": "KK",
+        "iso3": "KAZ"
+      },
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Central Asia"
+  },
+  {
+    "currencies": [
+      "LAK"
+    ],
+    "emoji": "🇱🇦",
+    "ioc": "LAO",
+    "name": "Lao People's Democratic Republic",
+    "status": "assigned",
+    "iso2": "LA",
+    "iso3": "LAO",
+    "calls": [
+      "+856"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Lao",
+        "iso2": "LO",
+        "iso3": "LAO"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "LBP"
+    ],
+    "emoji": "🇱🇧",
+    "ioc": "LIB",
+    "name": "Lebanon",
+    "status": "assigned",
+    "iso2": "LB",
+    "iso3": "LBN",
+    "calls": [
+      "+961"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "ARM",
+        "name": "Armenian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "XCD"
+    ],
+    "emoji": "🇱🇨",
+    "ioc": "LCA",
+    "name": "Saint Lucia",
+    "status": "assigned",
+    "iso2": "LC",
+    "iso3": "LCA",
+    "calls": [
+      "+1 758"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "CHF"
+    ],
+    "emoji": "🇱🇮",
+    "ioc": "LIE",
+    "name": "Liechtenstein",
+    "status": "assigned",
+    "iso2": "LI",
+    "iso3": "LIE",
+    "calls": [
+      "+423"
+    ],
+    "lang": [
+      {
+        "bibliographic": "GER",
+        "name": "German",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "LKR"
+    ],
+    "emoji": "🇱🇰",
+    "ioc": "SRI",
+    "name": "Sri Lanka",
+    "status": "assigned",
+    "iso2": "LK",
+    "iso3": "LKA",
+    "calls": [
+      "+94"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Sinhalese",
+        "iso2": "SI",
+        "iso3": "SIN"
+      },
+      {
+        "bibliographic": "",
+        "name": "Tamil",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [
+      "LRD"
+    ],
+    "emoji": "🇱🇷",
+    "ioc": "LBR",
+    "name": "Liberia",
+    "status": "assigned",
+    "iso2": "LR",
+    "iso3": "LBR",
+    "calls": [
+      "+231"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "LSL",
+      "ZAR"
+    ],
+    "emoji": "🇱🇸",
+    "ioc": "LES",
+    "name": "Lesotho",
+    "status": "assigned",
+    "iso2": "LS",
+    "iso3": "LSO",
+    "calls": [
+      "+266"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Sotho, Southern",
+        "iso2": "ST",
+        "iso3": "SOT"
+      }
+    ],
+    "continent": "Africa",
+    "region": "Southern Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇱🇹",
+    "ioc": "LTU",
+    "name": "Lithuania",
+    "status": "assigned",
+    "iso2": "LT",
+    "iso3": "LTU",
+    "calls": [
+      "+370"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Lithuanian",
+        "iso2": "LT",
+        "iso3": "LIT"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇱🇺",
+    "ioc": "LUX",
+    "name": "Luxembourg",
+    "status": "assigned",
+    "iso2": "LU",
+    "iso3": "LUX",
+    "calls": [
+      "+352"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "GER",
+        "name": "German",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Luxembourgish",
+        "iso2": "LB",
+        "iso3": "LTZ"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇱🇻",
+    "ioc": "LAT",
+    "name": "Latvia",
+    "status": "assigned",
+    "iso2": "LV",
+    "iso3": "LVA",
+    "calls": [
+      "+371"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Latvian",
+        "iso2": "LV",
+        "iso3": "LAV"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "LYD"
+    ],
+    "emoji": "🇱🇾",
+    "ioc": "LBA",
+    "name": "Libya",
+    "status": "assigned",
+    "iso2": "LY",
+    "iso3": "LBY",
+    "calls": [
+      "+218"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "North Africa"
+  },
+  {
+    "currencies": [
+      "MAD"
+    ],
+    "emoji": "🇲🇦",
+    "ioc": "MAR",
+    "name": "Morocco",
+    "status": "assigned",
+    "iso2": "MA",
+    "iso3": "MAR",
+    "calls": [
+      "+212"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "North Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇲🇨",
+    "ioc": "MON",
+    "name": "Monaco",
+    "status": "assigned",
+    "iso2": "MC",
+    "iso3": "MCO",
+    "calls": [
+      "+377"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "MDL"
+    ],
+    "emoji": "🇲🇩",
+    "ioc": "MDA",
+    "name": "Moldova",
+    "status": "assigned",
+    "iso2": "MD",
+    "iso3": "MDA",
+    "calls": [
+      "+373"
+    ],
+    "lang": [
+      {
+        "bibliographic": "RUM",
+        "name": "Romanian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇲🇪",
+    "ioc": "MNE",
+    "name": "Montenegro",
+    "status": "assigned",
+    "iso2": "ME",
+    "iso3": "MNE",
+    "calls": [
+      "+382"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Montenegrin",
+        "iso2": "",
+        "iso3": "MOT"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇲🇫",
+    "ioc": "",
+    "name": "Saint Martin",
+    "status": "assigned",
+    "iso2": "MF",
+    "iso3": "MAF",
+    "calls": [
+      "+590"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "MGA"
+    ],
+    "emoji": "🇲🇬",
+    "ioc": "MAD",
+    "name": "Madagascar",
+    "status": "assigned",
+    "iso2": "MG",
+    "iso3": "MDG",
+    "calls": [
+      "+261"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Malagasy",
+        "iso2": "MG",
+        "iso3": "MLG"
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇲🇭",
+    "ioc": "MHL",
+    "name": "Marshall Islands",
+    "status": "assigned",
+    "iso2": "MH",
+    "iso3": "MHL",
+    "calls": [
+      "+692"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Marshallese",
+        "iso2": "MH",
+        "iso3": "MAH"
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Micronesia"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Midway Islands",
+    "status": "deleted",
+    "iso2": "MI",
+    "iso3": "MID",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "MKD"
+    ],
+    "emoji": "🇲🇰",
+    "ioc": "MKD",
+    "name": "Macedonia, The Former Yugoslav Republic Of",
+    "status": "assigned",
+    "iso2": "MK",
+    "iso3": "MKD",
+    "calls": [
+      "+389"
+    ],
+    "lang": [
+      {
+        "bibliographic": "MAC",
+        "name": "Macedonian",
+        "iso2": "MK",
+        "iso3": "MKD"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "XOF"
+    ],
+    "emoji": "🇲🇱",
+    "ioc": "MLI",
+    "name": "Mali",
+    "status": "assigned",
+    "iso2": "ML",
+    "iso3": "MLI",
+    "calls": [
+      "+223"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "MMK"
+    ],
+    "emoji": "🇲🇲",
+    "ioc": "MYA",
+    "name": "Myanmar",
+    "status": "assigned",
+    "iso2": "MM",
+    "iso3": "MMR",
+    "calls": [
+      "+95"
+    ],
+    "lang": [
+      {
+        "bibliographic": "BUR",
+        "name": "Burmese",
+        "iso2": "MY",
+        "iso3": "MYA"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "MNT"
+    ],
+    "emoji": "🇲🇳",
+    "ioc": "MGL",
+    "name": "Mongolia",
+    "status": "assigned",
+    "iso2": "MN",
+    "iso3": "MNG",
+    "calls": [
+      "+976"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Mongolian",
+        "iso2": "MN",
+        "iso3": "MON"
+      }
+    ],
+    "continent": "Asia",
+    "region": "East Asia"
+  },
+  {
+    "currencies": [
+      "MOP"
+    ],
+    "emoji": "🇲🇴",
+    "ioc": "MAC",
+    "name": "Macao",
+    "status": "assigned",
+    "iso2": "MO",
+    "iso3": "MAC",
+    "calls": [
+      "+853"
+    ],
+    "lang": [
+      {
+        "bibliographic": "CHI",
+        "name": "Chinese",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "East Asia"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇲🇵",
+    "ioc": "",
+    "name": "Northern Mariana Islands",
+    "status": "assigned",
+    "iso2": "MP",
+    "iso3": "MNP",
+    "calls": [
+      "+1 670"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Micronesia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇲🇶",
+    "ioc": "",
+    "name": "Martinique",
+    "status": "assigned",
+    "iso2": "MQ",
+    "iso3": "MTQ",
+    "calls": [
+      "+596"
+    ],
+    "lang": [],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "MRO"
+    ],
+    "emoji": "🇲🇷",
+    "ioc": "MTN",
+    "name": "Mauritania",
+    "status": "assigned",
+    "iso2": "MR",
+    "iso3": "MRT",
+    "calls": [
+      "+222"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "XCD"
+    ],
+    "emoji": "🇲🇸",
+    "ioc": "",
+    "name": "Montserrat",
+    "status": "assigned",
+    "iso2": "MS",
+    "iso3": "MSR",
+    "calls": [
+      "+1 664"
+    ],
+    "lang": [],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇲🇹",
+    "ioc": "MLT",
+    "name": "Malta",
+    "status": "assigned",
+    "iso2": "MT",
+    "iso3": "MLT",
+    "calls": [
+      "+356"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Maltese",
+        "iso2": "MT",
+        "iso3": "MLT"
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "MUR"
+    ],
+    "emoji": "🇲🇺",
+    "ioc": "MRI",
+    "name": "Mauritius",
+    "status": "assigned",
+    "iso2": "MU",
+    "iso3": "MUS",
+    "calls": [
+      "+230"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "MVR"
+    ],
+    "emoji": "🇲🇻",
+    "ioc": "MDV",
+    "name": "Maldives",
+    "status": "assigned",
+    "iso2": "MV",
+    "iso3": "MDV",
+    "calls": [
+      "+960"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Maldivian",
+        "iso2": "DV",
+        "iso3": "DIV"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [
+      "MWK"
+    ],
+    "emoji": "🇲🇼",
+    "ioc": "MAW",
+    "name": "Malawi",
+    "status": "assigned",
+    "iso2": "MW",
+    "iso3": "MWI",
+    "calls": [
+      "+265"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Nyanja",
+        "iso2": "NY",
+        "iso3": "NYA"
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "MXN",
+      "MXV"
+    ],
+    "emoji": "🇲🇽",
+    "ioc": "MEX",
+    "name": "Mexico",
+    "status": "assigned",
+    "iso2": "MX",
+    "iso3": "MEX",
+    "calls": [
+      "+52"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Northern America"
+  },
+  {
+    "currencies": [
+      "MYR"
+    ],
+    "emoji": "🇲🇾",
+    "ioc": "MAS",
+    "name": "Malaysia",
+    "status": "assigned",
+    "iso2": "MY",
+    "iso3": "MYS",
+    "calls": [
+      "+60"
+    ],
+    "lang": [
+      {
+        "bibliographic": "MAY",
+        "name": "Malay",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "MZN"
+    ],
+    "emoji": "🇲🇿",
+    "ioc": "MOZ",
+    "name": "Mozambique",
+    "status": "assigned",
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "calls": [
+      "+258"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "NAD",
+      "ZAR"
+    ],
+    "emoji": "🇳🇦",
+    "ioc": "NAM",
+    "name": "Namibia",
+    "status": "assigned",
+    "iso2": "NA",
+    "iso3": "NAM",
+    "calls": [
+      "+264"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Southern Africa"
+  },
+  {
+    "currencies": [
+      "XPF"
+    ],
+    "emoji": "🇳🇨",
+    "ioc": "",
+    "name": "New Caledonia",
+    "status": "assigned",
+    "iso2": "NC",
+    "iso3": "NCL",
+    "calls": [
+      "+687"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Melanesia"
+  },
+  {
+    "currencies": [
+      "XOF"
+    ],
+    "emoji": "🇳🇪",
+    "ioc": "NIG",
+    "name": "Niger",
+    "status": "assigned",
+    "iso2": "NE",
+    "iso3": "NER",
+    "calls": [
+      "+227"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "AUD"
+    ],
+    "emoji": "🇳🇫",
+    "ioc": "",
+    "name": "Norfolk Island",
+    "status": "assigned",
+    "iso2": "NF",
+    "iso3": "NFK",
+    "calls": [
+      "+672"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Australia"
+  },
+  {
+    "currencies": [
+      "NGN"
+    ],
+    "emoji": "🇳🇬",
+    "ioc": "NGR",
+    "name": "Nigeria",
+    "status": "assigned",
+    "iso2": "NG",
+    "iso3": "NGA",
+    "calls": [
+      "+234"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "New Hebrides",
+    "status": "deleted",
+    "iso2": "NH",
+    "iso3": "NHB",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "NIO"
+    ],
+    "emoji": "🇳🇮",
+    "ioc": "NCA",
+    "name": "Nicaragua",
+    "status": "assigned",
+    "iso2": "NI",
+    "iso3": "NIC",
+    "calls": [
+      "+505"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Central America"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇳🇱",
+    "ioc": "NED",
+    "name": "Netherlands",
+    "status": "assigned",
+    "iso2": "NL",
+    "iso3": "NLD",
+    "calls": [
+      "+31"
+    ],
+    "lang": [
+      {
+        "bibliographic": "DUT",
+        "name": "Dutch",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Western Europe"
+  },
+  {
+    "currencies": [
+      "NOK"
+    ],
+    "emoji": "🇳🇴",
+    "ioc": "NOR",
+    "name": "Norway",
+    "status": "assigned",
+    "iso2": "NO",
+    "iso3": "NOR",
+    "calls": [
+      "+47"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Norwegian",
+        "iso2": "NO",
+        "iso3": "NOR"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "NPR"
+    ],
+    "emoji": "🇳🇵",
+    "ioc": "NEP",
+    "name": "Nepal",
+    "status": "assigned",
+    "iso2": "NP",
+    "iso3": "NPL",
+    "calls": [
+      "+977"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Nepali",
+        "iso2": "NE",
+        "iso3": "NEP"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Dronning Maud Land",
+    "status": "deleted",
+    "iso2": "NQ",
+    "iso3": "ATN",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "AUD"
+    ],
+    "emoji": "🇳🇷",
+    "ioc": "NRU",
+    "name": "Nauru",
+    "status": "assigned",
+    "iso2": "NR",
+    "iso3": "NRU",
+    "calls": [
+      "+674"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Nauru",
+        "iso2": "NA",
+        "iso3": "NAU"
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Micronesia"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Neutral Zone",
+    "status": "deleted",
+    "iso2": "NT",
+    "iso3": "NTZ",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "NZD"
+    ],
+    "emoji": "🇳🇺",
+    "ioc": "",
+    "name": "Niue",
+    "status": "assigned",
+    "iso2": "NU",
+    "iso3": "NIU",
+    "calls": [
+      "+683"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "NZD"
+    ],
+    "emoji": "🇳🇿",
+    "ioc": "NZL",
+    "name": "New Zealand",
+    "status": "assigned",
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "calls": [
+      "+64"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "OMR"
+    ],
+    "emoji": "🇴🇲",
+    "ioc": "OMA",
+    "name": "Oman",
+    "status": "assigned",
+    "iso2": "OM",
+    "iso3": "OMN",
+    "calls": [
+      "+968"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "PAB",
+      "USD"
+    ],
+    "emoji": "🇵🇦",
+    "ioc": "PAN",
+    "name": "Panama",
+    "status": "assigned",
+    "iso2": "PA",
+    "iso3": "PAN",
+    "calls": [
+      "+507"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Central America"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Pacific Islands, Trust Territory of the",
+    "status": "deleted",
+    "iso2": "PC",
+    "iso3": "PCI",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "PEN"
+    ],
+    "emoji": "🇵🇪",
+    "ioc": "PER",
+    "name": "Peru",
+    "status": "assigned",
+    "iso2": "PE",
+    "iso3": "PER",
+    "calls": [
+      "+51"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Aymara",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Quechua",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "XPF"
+    ],
+    "emoji": "🇵🇫",
+    "ioc": "",
+    "name": "French Polynesia",
+    "status": "assigned",
+    "iso2": "PF",
+    "iso3": "PYF",
+    "calls": [
+      "+689"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "PGK"
+    ],
+    "emoji": "🇵🇬",
+    "ioc": "PNG",
+    "name": "Papua New Guinea",
+    "status": "assigned",
+    "iso2": "PG",
+    "iso3": "PNG",
+    "calls": [
+      "+675"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Melanesia"
+  },
+  {
+    "currencies": [
+      "PHP"
+    ],
+    "emoji": "🇵🇭",
+    "ioc": "PHI",
+    "name": "Philippines",
+    "status": "assigned",
+    "iso2": "PH",
+    "iso3": "PHL",
+    "calls": [
+      "+63"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "PKR"
+    ],
+    "emoji": "🇵🇰",
+    "ioc": "PAK",
+    "name": "Pakistan",
+    "status": "assigned",
+    "iso2": "PK",
+    "iso3": "PAK",
+    "calls": [
+      "+92"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Urdu",
+        "iso2": "UR",
+        "iso3": "URD"
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southern Asia"
+  },
+  {
+    "currencies": [
+      "PLN"
+    ],
+    "emoji": "🇵🇱",
+    "ioc": "POL",
+    "name": "Poland",
+    "status": "assigned",
+    "iso2": "PL",
+    "iso3": "POL",
+    "calls": [
+      "+48"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Polish",
+        "iso2": "PL",
+        "iso3": "POL"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇵🇲",
+    "ioc": "",
+    "name": "Saint Pierre And Miquelon",
+    "status": "assigned",
+    "iso2": "PM",
+    "iso3": "SPM",
+    "calls": [
+      "+508"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Northern America"
+  },
+  {
+    "currencies": [
+      "NZD"
+    ],
+    "emoji": "🇵🇳",
+    "ioc": "",
+    "name": "Pitcairn",
+    "status": "assigned",
+    "iso2": "PN",
+    "iso3": "PCN",
+    "calls": [
+      "+872"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇵🇷",
+    "ioc": "PUR",
+    "name": "Puerto Rico",
+    "status": "assigned",
+    "iso2": "PR",
+    "iso3": "PRI",
+    "calls": [
+      "+1 787",
+      "+1 939"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "JOD",
+      "EGP",
+      "ILS"
+    ],
+    "emoji": "🇵🇸",
+    "ioc": "PLE",
+    "name": "Palestinian Territory, Occupied",
+    "status": "assigned",
+    "iso2": "PS",
+    "iso3": "PSE",
+    "calls": [
+      "+970"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇵🇹",
+    "ioc": "POR",
+    "name": "Portugal",
+    "status": "assigned",
+    "iso2": "PT",
+    "iso3": "PRT",
+    "calls": [
+      "+351"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "U.S. Miscellaneous Pacific Islands",
+    "status": "deleted",
+    "iso2": "PU",
+    "iso3": "PUS",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇵🇼",
+    "ioc": "PLW",
+    "name": "Palau",
+    "status": "assigned",
+    "iso2": "PW",
+    "iso3": "PLW",
+    "calls": [
+      "+680"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Micronesia"
+  },
+  {
+    "currencies": [
+      "PYG"
+    ],
+    "emoji": "🇵🇾",
+    "ioc": "PAR",
+    "name": "Paraguay",
+    "status": "assigned",
+    "iso2": "PY",
+    "iso3": "PRY",
+    "calls": [
+      "+595"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Panama Canal Zone",
+    "status": "deleted",
+    "iso2": "PZ",
+    "iso3": "PCZ",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "QAR"
+    ],
+    "emoji": "🇶🇦",
+    "ioc": "QAT",
+    "name": "Qatar",
+    "status": "assigned",
+    "iso2": "QA",
+    "iso3": "QAT",
+    "calls": [
+      "+974"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇷🇪",
+    "ioc": "",
+    "name": "Reunion",
+    "status": "assigned",
+    "iso2": "RE",
+    "iso3": "REU",
+    "calls": [
+      "+262"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Southern Rhodesia",
+    "status": "deleted",
+    "iso2": "RH",
+    "iso3": "RHO",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "RON"
+    ],
+    "emoji": "🇷🇴",
+    "ioc": "ROU",
+    "name": "Romania",
+    "status": "assigned",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "calls": [
+      "+40"
+    ],
+    "lang": [
+      {
+        "bibliographic": "RUM",
+        "name": "Romanian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [
+      "RSD"
+    ],
+    "emoji": "🇷🇸",
+    "ioc": "SRB",
+    "name": "Serbia",
+    "status": "assigned",
+    "iso2": "RS",
+    "iso3": "SRB",
+    "calls": [
+      "+381"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Serbian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "RUB"
+    ],
+    "emoji": "🇷🇺",
+    "ioc": "RUS",
+    "name": "Russia",
+    "status": "assigned",
+    "iso2": "RU",
+    "iso3": "RUS",
+    "calls": [
+      "+7",
+      "+7 3",
+      "+7 4",
+      "+7 8"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [
+      "RWF"
+    ],
+    "emoji": "🇷🇼",
+    "ioc": "RWA",
+    "name": "Rwanda",
+    "status": "assigned",
+    "iso2": "RW",
+    "iso3": "RWA",
+    "calls": [
+      "+250"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Kinyarwanda",
+        "iso2": "RW",
+        "iso3": "KIN"
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "SAR"
+    ],
+    "emoji": "🇸🇦",
+    "ioc": "KSA",
+    "name": "Saudi Arabia",
+    "status": "assigned",
+    "iso2": "SA",
+    "iso3": "SAU",
+    "calls": [
+      "+966"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "SBD"
+    ],
+    "emoji": "🇸🇧",
+    "ioc": "SOL",
+    "name": "Solomon Islands",
+    "status": "assigned",
+    "iso2": "SB",
+    "iso3": "SLB",
+    "calls": [
+      "+677"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Melanesia"
+  },
+  {
+    "currencies": [
+      "SCR"
+    ],
+    "emoji": "🇸🇨",
+    "ioc": "SEY",
+    "name": "Seychelles",
+    "status": "assigned",
+    "iso2": "SC",
+    "iso3": "SYC",
+    "calls": [
+      "+248"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "SDG"
+    ],
+    "emoji": "🇸🇩",
+    "ioc": "SUD",
+    "name": "Sudan",
+    "status": "assigned",
+    "iso2": "SD",
+    "iso3": "SDN",
+    "calls": [
+      "+249"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "North Africa"
+  },
+  {
+    "currencies": [
+      "SEK"
+    ],
+    "emoji": "🇸🇪",
+    "ioc": "SWE",
+    "name": "Sweden",
+    "status": "assigned",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "calls": [
+      "+46"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Swedish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "SGD"
+    ],
+    "emoji": "🇸🇬",
+    "ioc": "SIN",
+    "name": "Singapore",
+    "status": "assigned",
+    "iso2": "SG",
+    "iso3": "SGP",
+    "calls": [
+      "+65"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "CHI",
+        "name": "Chinese",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "MAY",
+        "name": "Malay",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Tamil",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "SHP"
+    ],
+    "emoji": "🇸🇭",
+    "ioc": "",
+    "name": "Saint Helena, Ascension And Tristan Da Cunha",
+    "status": "assigned",
+    "iso2": "SH",
+    "iso3": "SHN",
+    "calls": [
+      "+290"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇸🇮",
+    "ioc": "SLO",
+    "name": "Slovenia",
+    "status": "assigned",
+    "iso2": "SI",
+    "iso3": "SVN",
+    "calls": [
+      "+386"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Slovenian",
+        "iso2": "SL",
+        "iso3": "SLV"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "NOK"
+    ],
+    "emoji": "🇸🇯",
+    "ioc": "",
+    "name": "Svalbard And Jan Mayen",
+    "status": "assigned",
+    "iso2": "SJ",
+    "iso3": "SJM",
+    "calls": [
+      "+47"
+    ],
+    "lang": [],
+    "continent": "Europe",
+    "region": "Northern Europe"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇸🇰",
+    "ioc": "SVK",
+    "name": "Slovakia",
+    "status": "assigned",
+    "iso2": "SK",
+    "iso3": "SVK",
+    "calls": [
+      "+421"
+    ],
+    "lang": [
+      {
+        "bibliographic": "SLO",
+        "name": "Slovak",
+        "iso2": "SK",
+        "iso3": "SLK"
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Sikkim",
+    "status": "deleted",
+    "iso2": "SK",
+    "iso3": "SKM",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "SLL"
+    ],
+    "emoji": "🇸🇱",
+    "ioc": "SLE",
+    "name": "Sierra Leone",
+    "status": "assigned",
+    "iso2": "SL",
+    "iso3": "SLE",
+    "calls": [
+      "+232"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇸🇲",
+    "ioc": "SMR",
+    "name": "San Marino",
+    "status": "assigned",
+    "iso2": "SM",
+    "iso3": "SMR",
+    "calls": [
+      "+378"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Italian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "XOF"
+    ],
+    "emoji": "🇸🇳",
+    "ioc": "SEN",
+    "name": "Senegal",
+    "status": "assigned",
+    "iso2": "SN",
+    "iso3": "SEN",
+    "calls": [
+      "+221"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "SOS"
+    ],
+    "emoji": "🇸🇴",
+    "ioc": "SOM",
+    "name": "Somalia",
+    "status": "assigned",
+    "iso2": "SO",
+    "iso3": "SOM",
+    "calls": [
+      "+252"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Somali",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "SRD"
+    ],
+    "emoji": "🇸🇷",
+    "ioc": "SUR",
+    "name": "Suriname",
+    "status": "assigned",
+    "iso2": "SR",
+    "iso3": "SUR",
+    "calls": [
+      "+597"
+    ],
+    "lang": [
+      {
+        "bibliographic": "DUT",
+        "name": "Dutch",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "SSP"
+    ],
+    "emoji": "🇸🇸",
+    "ioc": "SSD",
+    "name": "South Sudan",
+    "status": "assigned",
+    "iso2": "SS",
+    "iso3": "SSD",
+    "calls": [
+      "+211"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "STD"
+    ],
+    "emoji": "🇸🇹",
+    "ioc": "STP",
+    "name": "Sao Tome and Principe",
+    "status": "assigned",
+    "iso2": "ST",
+    "iso3": "STP",
+    "calls": [
+      "+239"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [
+      "RUB"
+    ],
+    "emoji": "",
+    "ioc": "",
+    "name": "USSR",
+    "status": "reserved",
+    "iso2": "SU",
+    "iso3": "",
+    "calls": [],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ]
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇸🇻",
+    "ioc": "ESA",
+    "name": "El Salvador",
+    "status": "assigned",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "calls": [
+      "+503"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Central America"
+  },
+  {
+    "currencies": [
+      "ANG"
+    ],
+    "emoji": "🇸🇽",
+    "ioc": "",
+    "name": "Sint Maarten",
+    "status": "assigned",
+    "iso2": "SX",
+    "iso3": "SXM",
+    "calls": [
+      "+1 721"
+    ],
+    "lang": [
+      {
+        "bibliographic": "DUT",
+        "name": "Dutch",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "SYP"
+    ],
+    "emoji": "🇸🇾",
+    "ioc": "SYR",
+    "name": "Syrian Arab Republic",
+    "status": "assigned",
+    "iso2": "SY",
+    "iso3": "SYR",
+    "calls": [
+      "+963"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "SZL"
+    ],
+    "emoji": "🇸🇿",
+    "ioc": "SWZ",
+    "name": "Swaziland",
+    "status": "assigned",
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "calls": [
+      "+268"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Swati",
+        "iso2": "SS",
+        "iso3": "SSW"
+      }
+    ],
+    "continent": "Africa",
+    "region": "Southern Africa"
+  },
+  {
+    "currencies": [
+      "GBP"
+    ],
+    "emoji": "",
+    "ioc": "",
+    "name": "Tristan de Cunha",
+    "status": "reserved",
+    "iso2": "TA",
+    "iso3": "",
+    "calls": [
+      "+290"
+    ],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇹🇨",
+    "ioc": "",
+    "name": "Turks And Caicos Islands",
+    "status": "assigned",
+    "iso2": "TC",
+    "iso3": "TCA",
+    "calls": [
+      "+1 649"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "XAF"
+    ],
+    "emoji": "🇹🇩",
+    "ioc": "CHA",
+    "name": "Chad",
+    "status": "assigned",
+    "iso2": "TD",
+    "iso3": "TCD",
+    "calls": [
+      "+235"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "Central Aftrica"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇹🇫",
+    "ioc": "",
+    "name": "French Southern Territories",
+    "status": "assigned",
+    "iso2": "TF",
+    "iso3": "ATF",
+    "calls": [],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Antartica",
+    "region": "Antartica"
+  },
+  {
+    "currencies": [
+      "XOF"
+    ],
+    "emoji": "🇹🇬",
+    "ioc": "TOG",
+    "name": "Togo",
+    "status": "assigned",
+    "iso2": "TG",
+    "iso3": "TGO",
+    "calls": [
+      "+228"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "West Africa"
+  },
+  {
+    "currencies": [
+      "THB"
+    ],
+    "emoji": "🇹🇭",
+    "ioc": "THA",
+    "name": "Thailand",
+    "status": "assigned",
+    "iso2": "TH",
+    "iso3": "THA",
+    "calls": [
+      "+66"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Thai",
+        "iso2": "TH",
+        "iso3": "THA"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "TJS"
+    ],
+    "emoji": "🇹🇯",
+    "ioc": "TJK",
+    "name": "Tajikistan",
+    "status": "assigned",
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "calls": [
+      "+992"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Tajik",
+        "iso2": "TG",
+        "iso3": "TGK"
+      },
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Central Asia"
+  },
+  {
+    "currencies": [
+      "NZD"
+    ],
+    "emoji": "🇹🇰",
+    "ioc": "",
+    "name": "Tokelau",
+    "status": "assigned",
+    "iso2": "TK",
+    "iso3": "TKL",
+    "calls": [
+      "+690"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇹🇱",
+    "ioc": "TLS",
+    "name": "Timor-Leste, Democratic Republic of",
+    "status": "assigned",
+    "iso2": "TL",
+    "iso3": "TLS",
+    "calls": [
+      "+670"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Portuguese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "TMT"
+    ],
+    "emoji": "🇹🇲",
+    "ioc": "TKM",
+    "name": "Turkmenistan",
+    "status": "assigned",
+    "iso2": "TM",
+    "iso3": "TKM",
+    "calls": [
+      "+993"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Turkmen",
+        "iso2": "TK",
+        "iso3": "TUK"
+      },
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Central Asia"
+  },
+  {
+    "currencies": [
+      "TND"
+    ],
+    "emoji": "🇹🇳",
+    "ioc": "TUN",
+    "name": "Tunisia",
+    "status": "assigned",
+    "iso2": "TN",
+    "iso3": "TUN",
+    "calls": [
+      "+216"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "North Africa"
+  },
+  {
+    "currencies": [
+      "TOP"
+    ],
+    "emoji": "🇹🇴",
+    "ioc": "TGA",
+    "name": "Tonga",
+    "status": "assigned",
+    "iso2": "TO",
+    "iso3": "TON",
+    "calls": [
+      "+676"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "East Timor",
+    "status": "deleted",
+    "iso2": "TP",
+    "iso3": "TMP",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "TRY"
+    ],
+    "emoji": "🇹🇷",
+    "ioc": "TUR",
+    "name": "Turkey",
+    "status": "assigned",
+    "iso2": "TR",
+    "iso3": "TUR",
+    "calls": [
+      "+90"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Turkish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "TTD"
+    ],
+    "emoji": "🇹🇹",
+    "ioc": "TTO",
+    "name": "Trinidad And Tobago",
+    "status": "assigned",
+    "iso2": "TT",
+    "iso3": "TTO",
+    "calls": [
+      "+1 868"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "AUD"
+    ],
+    "emoji": "🇹🇻",
+    "ioc": "TUV",
+    "name": "Tuvalu",
+    "status": "assigned",
+    "iso2": "TV",
+    "iso3": "TUV",
+    "calls": [
+      "+688"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "TWD"
+    ],
+    "emoji": "🇹🇼",
+    "ioc": "TPE",
+    "name": "Taiwan",
+    "status": "assigned",
+    "iso2": "TW",
+    "iso3": "TWN",
+    "calls": [
+      "+886"
+    ],
+    "lang": [
+      {
+        "bibliographic": "CHI",
+        "name": "Chinese",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "East Asia"
+  },
+  {
+    "currencies": [
+      "TZS"
+    ],
+    "emoji": "🇹🇿",
+    "ioc": "TAN",
+    "name": "Tanzania, United Republic Of",
+    "status": "assigned",
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "calls": [
+      "+255"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Swahili",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "UAH"
+    ],
+    "emoji": "🇺🇦",
+    "ioc": "UKR",
+    "name": "Ukraine",
+    "status": "assigned",
+    "iso2": "UA",
+    "iso3": "UKR",
+    "calls": [
+      "+380"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Ukrainian",
+        "iso2": "UK",
+        "iso3": "UKR"
+      },
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Eastern Europe"
+  },
+  {
+    "currencies": [
+      "UGX"
+    ],
+    "emoji": "🇺🇬",
+    "ioc": "UGA",
+    "name": "Uganda",
+    "status": "assigned",
+    "iso2": "UG",
+    "iso3": "UGA",
+    "calls": [
+      "+256"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Swahili",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇺🇲",
+    "ioc": "",
+    "name": "United States Minor Outlying Islands",
+    "status": "assigned",
+    "iso2": "UM",
+    "iso3": "UMI",
+    "calls": [
+      "+1"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Micronesia"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇺🇸",
+    "ioc": "USA",
+    "name": "United States",
+    "status": "assigned",
+    "iso2": "US",
+    "iso3": "USA",
+    "calls": [
+      "+1"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Northern America"
+  },
+  {
+    "currencies": [
+      "UYU",
+      "UYI"
+    ],
+    "emoji": "🇺🇾",
+    "ioc": "URU",
+    "name": "Uruguay",
+    "status": "assigned",
+    "iso2": "UY",
+    "iso3": "URY",
+    "calls": [
+      "+598"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "UZS"
+    ],
+    "emoji": "🇺🇿",
+    "ioc": "UZB",
+    "name": "Uzbekistan",
+    "status": "assigned",
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "calls": [
+      "+998"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Uzbek",
+        "iso2": "UZ",
+        "iso3": "UZB"
+      },
+      {
+        "bibliographic": "",
+        "name": "Russian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Central Asia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇻🇦",
+    "ioc": "",
+    "name": "Vatican City State",
+    "status": "assigned",
+    "iso2": "VA",
+    "iso3": "VAT",
+    "calls": [
+      "+379",
+      "+39"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Italian",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Europe",
+    "region": "Southern Europe"
+  },
+  {
+    "currencies": [
+      "XCD"
+    ],
+    "emoji": "🇻🇨",
+    "ioc": "VIN",
+    "name": "Saint Vincent And The Grenadines",
+    "status": "assigned",
+    "iso2": "VC",
+    "iso3": "VCT",
+    "calls": [
+      "+1 784"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Viet-Nam, Democratic Republic of",
+    "status": "deleted",
+    "iso2": "VD",
+    "iso3": "VDR",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "VEF"
+    ],
+    "emoji": "🇻🇪",
+    "ioc": "VEN",
+    "name": "Venezuela, Bolivarian Republic Of",
+    "status": "assigned",
+    "iso2": "VE",
+    "iso3": "VEN",
+    "calls": [
+      "+58"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Spanish",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "South America",
+    "region": "South America"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇻🇬",
+    "ioc": "IVB",
+    "name": "Virgin Islands (British)",
+    "status": "assigned",
+    "iso2": "VG",
+    "iso3": "VGB",
+    "calls": [
+      "+1 284"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "USD"
+    ],
+    "emoji": "🇻🇮",
+    "ioc": "ISV",
+    "name": "Virgin Islands (US)",
+    "status": "assigned",
+    "iso2": "VI",
+    "iso3": "VIR",
+    "calls": [
+      "+1 340"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "North America",
+    "region": "Caribbean"
+  },
+  {
+    "currencies": [
+      "VND"
+    ],
+    "emoji": "🇻🇳",
+    "ioc": "VIE",
+    "name": "VietNam",
+    "status": "assigned",
+    "iso2": "VN",
+    "iso3": "VNM",
+    "calls": [
+      "+84"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Vietnamese",
+        "iso2": "VI",
+        "iso3": "VIE"
+      }
+    ],
+    "continent": "Asia",
+    "region": "Southeast Asia"
+  },
+  {
+    "currencies": [
+      "VUV"
+    ],
+    "emoji": "🇻🇺",
+    "ioc": "VAN",
+    "name": "Vanuatu",
+    "status": "assigned",
+    "iso2": "VU",
+    "iso3": "VUT",
+    "calls": [
+      "+678"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Bislama",
+        "iso2": "BI",
+        "iso3": "BIS"
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Melanesia"
+  },
+  {
+    "currencies": [
+      "XPF"
+    ],
+    "emoji": "🇼🇫",
+    "ioc": "",
+    "name": "Wallis And Futuna",
+    "status": "assigned",
+    "iso2": "WF",
+    "iso3": "WLF",
+    "calls": [
+      "+681"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Wake Island",
+    "status": "deleted",
+    "iso2": "WK",
+    "iso3": "WAK",
+    "calls": [],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "WST"
+    ],
+    "emoji": "🇼🇸",
+    "ioc": "SAM",
+    "name": "Samoa",
+    "status": "assigned",
+    "iso2": "WS",
+    "iso3": "WSM",
+    "calls": [
+      "+685"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Samoan",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Oceania",
+    "region": "Polynesia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "",
+    "ioc": "KOS",
+    "name": "Kosovo",
+    "status": "user assigned",
+    "iso2": "XK",
+    "iso3": "",
+    "calls": [
+      "+383"
+    ],
+    "lang": [
+      {
+        "bibliographic": "ALB",
+        "name": "Albanian",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Serbian",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Bosnian",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Turkish",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Romany",
+        "iso2": "",
+        "iso3": "ROM"
+      }
+    ]
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Yemen, Democratic",
+    "status": "deleted",
+    "iso2": "YD",
+    "iso3": "YMD",
+    "calls": [
+      "+967"
+    ],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "YER"
+    ],
+    "emoji": "🇾🇪",
+    "ioc": "YEM",
+    "name": "Yemen",
+    "status": "assigned",
+    "iso2": "YE",
+    "iso3": "YEM",
+    "calls": [
+      "+967"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Arabic",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Asia",
+    "region": "Western Asia"
+  },
+  {
+    "currencies": [
+      "EUR"
+    ],
+    "emoji": "🇾🇹",
+    "ioc": "",
+    "name": "Mayotte",
+    "status": "assigned",
+    "iso2": "YT",
+    "iso3": "MYT",
+    "calls": [
+      "+262"
+    ],
+    "lang": [
+      {
+        "bibliographic": "FRE",
+        "name": "French",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Yugoslavia",
+    "status": "deleted",
+    "iso2": "YU",
+    "iso3": "YUG",
+    "calls": [
+      "+38"
+    ],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "ZAR"
+    ],
+    "emoji": "🇿🇦",
+    "ioc": "RSA",
+    "name": "South Africa",
+    "status": "assigned",
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "calls": [
+      "+27"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "Afrikaans",
+        "iso2": "AF",
+        "iso3": "AFR"
+      },
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "South Ndebele",
+        "iso2": "NR",
+        "iso3": "NBL"
+      },
+      {
+        "bibliographic": "",
+        "name": "Somali",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Tsonga",
+        "iso2": "TS",
+        "iso3": "TSO"
+      },
+      {
+        "bibliographic": "",
+        "name": "Venda",
+        "iso2": "VE",
+        "iso3": "VEN"
+      },
+      {
+        "bibliographic": "",
+        "name": "Xhosa",
+        "iso2": "XH",
+        "iso3": "XHO"
+      },
+      {
+        "bibliographic": "",
+        "name": "Zulu",
+        "iso2": "ZU",
+        "iso3": "ZUL"
+      }
+    ],
+    "continent": "Africa",
+    "region": "Southern Africa"
+  },
+  {
+    "currencies": [
+      "ZMW"
+    ],
+    "emoji": "🇿🇲",
+    "ioc": "ZAM",
+    "name": "Zambia",
+    "status": "assigned",
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "calls": [
+      "+260"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  },
+  {
+    "currencies": [],
+    "ioc": "",
+    "name": "Zaire",
+    "status": "deleted",
+    "iso2": "ZR",
+    "iso3": "ZAR",
+    "calls": [
+      "+243"
+    ],
+    "lang": []
+  },
+  {
+    "currencies": [
+      "USD",
+      "ZAR",
+      "BWP",
+      "GBP",
+      "EUR"
+    ],
+    "emoji": "🇿🇼",
+    "ioc": "ZIM",
+    "name": "Zimbabwe",
+    "status": "assigned",
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "calls": [
+      "+263"
+    ],
+    "lang": [
+      {
+        "bibliographic": "",
+        "name": "English",
+        "iso2": "",
+        "iso3": ""
+      },
+      {
+        "bibliographic": "",
+        "name": "Shona",
+        "iso2": "SN",
+        "iso3": "SNA"
+      },
+      {
+        "bibliographic": "",
+        "name": "North Ndebele",
+        "iso2": "ND",
+        "iso3": "NDE"
+      }
+    ],
+    "continent": "Africa",
+    "region": "East Africa"
+  }
+]
