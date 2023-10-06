@@ -4,7 +4,8 @@
   "description": "All country data in a single JSON file",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'no test runner installed'"
+    "test": "echo 'no test runner installed'",
+    "build": "node scripts/build.js"
   },
   "repository": {
     "type": "git",
