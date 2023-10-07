@@ -50,5 +50,12 @@ for (var name in regions) {
   }
 }
 
+// Sort
+var locale = 'no-NB' // danish locale
+var sorter = function (a, b) {
+  return a.name.localeCompare(b.name, locale)
+}
+data = data.sort(sorter)
+
 var result = JSON.stringify(data, null, 2)
 fs.writeFileSync('./countries.json', result)
